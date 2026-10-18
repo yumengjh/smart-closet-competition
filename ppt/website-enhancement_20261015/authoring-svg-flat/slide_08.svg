@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<path fill="#F7F8FA" id="page-field-0" d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-role="background"/>
+<g id="shape-2-foreground" data-pptx-object="shape" data-pptx-frame="93.33 60 800 53.33" data-pptx-prst="rect" data-pptx-semantic-object="shape"><path d="M 93.33 60 L 893.33 60 L 893.33 113.33 L 93.33 113.33 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="93.33" y="102" text-anchor="start" xml:space="preserve" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-size="40" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">从用户问题，到可解释的实现</text>
+</g></g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="96 122.67 400 26.67" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 96 122.67 L 496 122.67 L 496 149.33 L 96 149.33 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="96" y="142.66666667" text-anchor="start" xml:space="preserve" font-size="16" fill="#1F5C45" data-pptx-text-baseline="metrics-v1">03 · 创新设计 / 机制与用户价值</text>
+</g>
+<g id="shape-4" data-pptx-object="graphic-frame" data-pptx-frame="93.33 180 1093.33 440" data-pptx-import-source="pptx" data-pptx-replacement-status="unsupported-table-direct-formatting" data-pptx-source-ref="slide:4">
+<use data-icon="imported/flat_slide_08_ill01" data-pptx-asset-role="decoration"/><text x="193.33" y="208" text-anchor="middle" xml:space="preserve" font-size="18.67" fill="#FFFFFF" font-weight="bold" data-pptx-text-baseline="metrics-v1">维度</text>
+<text x="516.67" y="208" text-anchor="middle" xml:space="preserve" font-size="18.67" fill="#FFFFFF" font-weight="bold" data-pptx-text-baseline="metrics-v1">用户遇到的问题</text>
+<text x="963.33" y="208" text-anchor="middle" xml:space="preserve" font-size="18.67" fill="#FFFFFF" font-weight="bold" data-pptx-text-baseline="metrics-v1">鱼搭的实现机制</text>
+<text x="193.33" y="273.33333333" text-anchor="middle" xml:space="preserve" font-size="17.33" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">图片处理</text>
+<text x="516.67" y="273.33333333" text-anchor="middle" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">上传与耗时处理混在一起</text>
+<text x="963.33" y="273.33333333" text-anchor="middle" xml:space="preserve" font-size="16" fill="#1F5C45" font-weight="bold" data-pptx-text-baseline="metrics-v1">持久任务，提交后查看状态</text>
+<text x="193.33" y="366.66666667" text-anchor="middle" xml:space="preserve" font-size="17.33" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">图像可靠性</text>
+<text x="516.67" y="366.66666667" text-anchor="middle" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">复杂背景、属性猜测难确认</text>
+<text x="963.33" y="366.66666667" text-anchor="middle" xml:space="preserve" font-size="16" fill="#1F5C45" font-weight="bold" data-pptx-text-baseline="metrics-v1">本地抠图 + 属性证据与人工核对</text>
+<text x="193.33" y="460" text-anchor="middle" xml:space="preserve" font-size="17.33" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">推荐选择</text>
+<text x="516.67" y="460" text-anchor="middle" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">不知道为什么，也总是重复</text>
+<text x="963.33" y="460" text-anchor="middle" xml:space="preserve" font-size="16" fill="#1F5C45" font-weight="bold" data-pptx-text-baseline="metrics-v1">规则解释 + 曝光均衡 + 可恢复反馈</text>
+<text x="193.33" y="553.33333333" text-anchor="middle" xml:space="preserve" font-size="17.33" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">执行与成本</text>
+<text x="516.67" y="553.33333333" text-anchor="middle" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">耗时任务与生成结果不确定</text>
+<text x="963.33" y="553.33333333" text-anchor="middle" xml:space="preserve" font-size="16" fill="#1F5C45" font-weight="bold" data-pptx-text-baseline="metrics-v1">授权/回执/额度快照，未知不盲重试</text>
+</g><g id="yuda-footer" data-pptx-bounds="64 671 1152 32" data-pptx-frame="64 671 1152 32"><line x1="64" y1="672" x2="1216" y2="672" stroke="#E8E9EE" stroke-width="1"/><text x="64" y="696" font-size="14" fill="#666B76">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text><text x="1184" y="696" font-size="14" fill="#666B76">08</text></g></svg>

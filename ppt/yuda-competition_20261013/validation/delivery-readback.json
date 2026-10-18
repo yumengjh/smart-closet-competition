@@ -1,0 +1,156 @@
+{
+  "passed": true,
+  "slides": 18,
+  "notes": 18,
+  "crc_ok": true,
+  "sha256": "0694ad6e4d5cace4e444731d80420595c02f0b1570a27ec73637a2992092f50d",
+  "native_shape_count": 422,
+  "pictures": 0,
+  "pages": [
+    {
+      "slide": 1,
+      "source": "01_cover.svg",
+      "text_preserved": true,
+      "native_shapes": 24,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 2,
+      "source": "02_morning.svg",
+      "text_preserved": true,
+      "native_shapes": 24,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 3,
+      "source": "03_reframe.svg",
+      "text_preserved": true,
+      "native_shapes": 23,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 4,
+      "source": "04_product_loop.svg",
+      "text_preserved": true,
+      "native_shapes": 34,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 5,
+      "source": "05_intake.svg",
+      "text_preserved": true,
+      "native_shapes": 23,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 6,
+      "source": "06_recommend.svg",
+      "text_preserved": true,
+      "native_shapes": 20,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 7,
+      "source": "07_agent.svg",
+      "text_preserved": true,
+      "native_shapes": 27,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 8,
+      "source": "08_algorithms.svg",
+      "text_preserved": true,
+      "native_shapes": 24,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 9,
+      "source": "09_architecture.svg",
+      "text_preserved": true,
+      "native_shapes": 33,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 10,
+      "source": "10_evidence.svg",
+      "text_preserved": true,
+      "native_shapes": 19,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 11,
+      "source": "11_positioning.svg",
+      "text_preserved": true,
+      "native_shapes": 24,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 12,
+      "source": "12_market.svg",
+      "text_preserved": true,
+      "native_shapes": 19,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 13,
+      "source": "13_validation.svg",
+      "text_preserved": true,
+      "native_shapes": 24,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 14,
+      "source": "14_revenue.svg",
+      "text_preserved": true,
+      "native_shapes": 18,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 15,
+      "source": "15_economics.svg",
+      "text_preserved": true,
+      "native_shapes": 20,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 16,
+      "source": "16_team.svg",
+      "text_preserved": true,
+      "native_shapes": 20,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 17,
+      "source": "17_roadmap.svg",
+      "text_preserved": true,
+      "native_shapes": 27,
+      "pictures": 0,
+      "notes_nonempty": true
+    },
+    {
+      "slide": 18,
+      "source": "18_closing.svg",
+      "text_preserved": true,
+      "native_shapes": 19,
+      "pictures": 0,
+      "notes_nonempty": true
+    }
+  ],
+  "scope": "OOXML package, visible text preservation and notes readback; not a PowerPoint visual-rendering test"
+}

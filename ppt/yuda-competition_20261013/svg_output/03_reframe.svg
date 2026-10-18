@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#D8F36A" /></marker></defs>
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#302238" />
+<g id="title" data-pptx-bounds="64 48 1152 191" fill="#F5F1E8"><text x="64" y="75" font-size="18" fill="#D8F36A">THE REFRAME</text><text x="64" y="155" font-family="SimSun, Georgia" font-size="48">缺的是一套决策过程。</text><text x="64" y="217">把库存变成可理解、可组合、可反馈的资源。</text></g>
+<g id="decision-chain" data-pptx-bounds="64 281 1152 249" fill="#F5F1E8">
+<line x1="143" y1="321" x2="1119" y2="321" stroke="#D8F36A" stroke-width="2" marker-end="url(#arrow)" />
+<g id="own"><circle cx="144" cy="321" r="10" fill="#D8F36A" /><text x="64" y="389" font-size="36" font-family="SimSun, Georgia">拥有</text><text x="64" y="445">真实衣物</text><text x="64" y="490" font-size="20" fill="#C7BECC">库存成为起点</text></g>
+<g id="understand"><circle cx="433" cy="321" r="10" fill="#D8F36A" /><text x="355" y="389" font-size="36" font-family="SimSun, Georgia">理解</text><text x="355" y="445">属性与图像</text><text x="355" y="490" font-size="20" fill="#C7BECC">知道它适合什么</text></g>
+<g id="choose"><circle cx="725" cy="321" r="10" fill="#D8F36A" /><text x="646" y="389" font-size="36" font-family="SimSun, Georgia">选择</text><text x="646" y="445">场景、天气、风格</text><text x="646" y="490" font-size="20" fill="#C7BECC">每次都有依据</text></g>
+<g id="feedback"><circle cx="1087" cy="321" r="10" fill="#D8F36A" /><text x="985" y="389" font-size="36" font-family="SimSun, Georgia">反馈</text><text x="985" y="445">换件、喜好、恢复</text><text x="985" y="490" font-size="20" fill="#C7BECC">影响下一次选择</text></g>
+</g>
+<g id="goal" data-pptx-bounds="64 563 1152 55" fill="#D8F36A"><text x="64" y="598">目标：让更多已有衣物进入日常穿着。效果仍需用户验证。</text></g>
+<g id="footer" data-pptx-bounds="64 651 1152 38" font-size="16" fill="#C7BECC"><text x="64" y="680">鱼搭 / 立意</text><text x="1178" y="680">03</text></g>
+</svg>

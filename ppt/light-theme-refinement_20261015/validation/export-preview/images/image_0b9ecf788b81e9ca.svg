@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700" height="590" viewBox="0 0 700 590" fill="none" xmlns="http://www.w3.org/2000/svg" class="yuda-login-illustration"><defs><filter id="light-sticker-shadow" x="-20%" y="-20%" width="145%" height="145%"><feDropShadow dx="4" dy="6" stdDeviation="0" flood-color="#0A0D18" flood-opacity="0.85"/></filter><filter id="light-accent-shadow" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="3" dy="4" stdDeviation="0" flood-color="#090C15" flood-opacity="0.85"/></filter><linearGradient id="light-chrome" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="30%" stop-color="#94A3B8"/><stop offset="55%" stop-color="#FFFFFF"/><stop offset="80%" stop-color="#64748B"/><stop offset="100%" stop-color="#CBD5E1"/></linearGradient><linearGradient id="light-fish-body" x1="330" y1="110" x2="570" y2="190" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#2563EB"/><stop offset="60%" stop-color="#1D4ED8"/><stop offset="100%" stop-color="#172554"/></linearGradient><linearGradient id="light-flame" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FF0055"/><stop offset="50%" stop-color="#FF5500"/><stop offset="100%" stop-color="#FFCC00"/></linearGradient></defs><g opacity="0.22"><path d="M 30 30 L 30 52 M 30 30 L 52 30" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round"/><path d="M 670 30 L 670 52 M 670 30 L 648 30" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round"/><path d="M 30 560 L 30 538 M 30 560 L 52 560" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round"/><path d="M 670 560 L 670 538 M 670 560 L 648 560" stroke="#0F172A" stroke-width="2.5" stroke-linecap="round"/></g><g id="sticker-true-fish" transform="translate(325, 45) rotate(7)" filter="url(#light-sticker-shadow)"><path d="
+            M 20 120
+            C 16 95 38 70 65 60
+            C 90 52 118 55 142 62
+            L 165 42
+            C 185 24 220 20 248 34
+            C 255 38 258 48 252 56
+            L 242 70
+            C 268 85 292 108 305 125
+            L 332 95
+            C 342 85 358 88 360 102
+            L 348 132
+            C 356 142 358 152 350 162
+            L 330 156
+            L 346 186
+            C 352 198 342 212 328 208
+            L 290 178
+            C 270 182 245 180 220 172
+            L 198 206
+            C 188 220 166 226 150 216
+            C 142 210 142 198 150 188
+            L 164 165
+            C 130 168 95 165 65 152
+            C 38 142 22 132 20 120
+            Z
+          " fill="#FFFFFF" stroke="#0A0D18" stroke-width="7" stroke-linejoin="round"/><path d="
+            M 160 66
+            C 182 38 218 32 242 42
+            C 246 56 238 68 226 72
+            C 200 74 178 72 160 66
+            Z
+          " fill="#38BDF8" stroke="#0A0D18" stroke-width="4" stroke-linejoin="round"/><line x1="184" y1="56" x2="225" y2="46" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/><line x1="198" y1="62" x2="232" y2="56" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/><path d="
+            M 285 140
+            C 300 126 316 112 334 100
+            C 340 114 336 128 325 138
+            C 334 146 335 155 328 164
+            C 318 168 304 168 285 155
+            Z
+          " fill="#1D4ED8" stroke="#0A0D18" stroke-width="4" stroke-linejoin="round"/><path d="
+            M 285 155
+            C 300 168 316 182 332 198
+            C 322 202 310 198 300 188
+            L 282 165
+            Z
+          " fill="#2563EB" stroke="#0A0D18" stroke-width="4" stroke-linejoin="round"/><path d="M 292 144 Q 312 134 326 116" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" fill="none"/><path d="M 294 150 Q 315 152 324 154" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" fill="none"/><path d="M 292 158 Q 306 172 320 188" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" fill="none"/><path d="
+            M 28 118
+            C 32 94 56 74 88 68
+            C 134 60 195 72 245 98
+            C 268 112 284 130 288 148
+            C 284 162 265 170 236 168
+            C 192 166 142 164 100 154
+            C 58 144 32 134 28 118
+            Z
+          " fill="url(#light-fish-body)" stroke="#0A0D18" stroke-width="5" stroke-linejoin="round"/><path d="
+            M 34 122
+            C 44 135 72 145 106 150
+            C 148 156 198 156 240 158
+            C 260 160 274 156 280 150
+            C 255 142 225 138 185 136
+            C 138 134 94 134 56 128
+            C 42 125 36 123 34 122
+            Z
+          " fill="#FFFFFF" stroke="#0A0D18" stroke-width="2.5"/><path d="M 94 80 C 108 94 108 126 92 140" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" fill="none"/><ellipse cx="62" cy="100" rx="10" ry="12" fill="#FFFFFF" stroke="#0A0D18" stroke-width="3.5"/><ellipse cx="64" cy="100" rx="6" ry="8" fill="#0A0D18"/><circle cx="66" cy="98" r="2.5" fill="#FFFFFF"/><path d="
+            M 104 122
+            C 124 138 145 168 186 195
+            C 180 178 165 154 136 132
+            Z
+          " fill="#38BDF8" stroke="#0A0D18" stroke-width="4" stroke-linejoin="round"/><line x1="116" y1="130" x2="168" y2="175" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/><g id="fish-streetwear-cap" transform="translate(45, 30) rotate(-6)"><path d="M 12 45 C 16 16 48 -2 88 -2 C 124 -2 148 16 150 46 Z" fill="#1D4ED8" stroke="#0A0D18" stroke-width="4.5" stroke-linejoin="round"/><path d="M 38 6 C 64 3 94 10 116 28 C 110 44 94 46 72 46 C 50 46 38 34 34 20 Z" fill="#FFFFFF" stroke="#0A0D18" stroke-width="3.5"/><circle cx="72" cy="-2" r="5" fill="#FFFFFF" stroke="#0A0D18" stroke-width="2.5"/><path d="M 6 46 C 24 58 68 64 124 60 C 152 56 160 44 156 38 C 116 46 44 45 6 46 Z" fill="#38BDF8" stroke="#0A0D18" stroke-width="4.5" stroke-linejoin="round"/><path d="M 78 20 C 72 16 66 18 61 21 C 58 20 56 18 53 17 L 54 22 L 53 27 C 56 26 58 24 61 23 C 66 27 72 29 78 25 Z" fill="#2563EB"/></g></g><g id="sticker-polaroid" transform="translate(70, 50) rotate(-7)" filter="url(#light-sticker-shadow)"><rect x="0" y="0" width="168" height="198" rx="10" fill="#FFFFFF" stroke="#0A0D18" stroke-width="5.5"/><rect x="12" y="12" width="144" height="138" rx="5" fill="#F1F5F9"/><path d="M 84 25 C 77 25 74 32 84 36 C 94 32 91 25 84 25 Z" fill="none" stroke="#64748B" stroke-width="2.5"/><path d="M 84 36 L 58 50 L 110 50 Z" fill="none" stroke="#64748B" stroke-width="2.5" stroke-linejoin="round"/><path d="M 60 52 L 50 118 C 50 120 72 124 84 124 C 96 124 118 120 118 118 L 108 52 L 94 56 L 84 75 L 74 56 Z" fill="#2563EB"/><path d="M 22 24 L 22 18 L 28 18 M 140 24 L 140 18 L 134 18 M 22 128 L 22 134 L 28 134 M 140 128 L 140 134 L 134 134" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round"/><text x="84" y="174" text-anchor="middle" fill="#0A0D18" font-size="13" font-weight="900" font-family="sans-serif">OOTD // 今日鱼搭 ✨</text><rect x="52" y="-12" width="64" height="24" rx="3" fill="rgba(253, 224, 71, 0.85)" stroke="#0A0D18" stroke-width="2.5" transform="rotate(3 84 0)"/></g><g id="sticker-sneaker" transform="translate(85, 315) rotate(-10)" filter="url(#light-sticker-shadow)"><path d="
+            M 18 132
+            L 225 132
+            C 248 132 262 114 258 90
+            L 245 76
+            L 204 68
+            L 170 30
+            C 160 12 138 6 114 12
+            L 80 22
+            L 46 28
+            C 22 28 10 46 10 68
+            L 10 104
+            C 10 122 16 132 18 132
+            Z
+          " fill="#FFFFFF" stroke="#0A0D18" stroke-width="6.5" stroke-linejoin="round"/><path d="M 16 124 L 228 124 C 242 124 250 114 246 102 L 240 90 C 188 90 122 94 20 92 L 18 114 Z" fill="#0A0D18"/><path d="M 20 116 L 232 116 C 240 116 245 108 243 98 L 238 86 C 188 86 112 90 20 88 Z" fill="#FFFFFF" stroke="#0A0D18" stroke-width="3"/><path d="M 26 84 L 126 84 L 165 42 L 124 26 L 82 38 L 42 44 C 28 48 24 66 26 84 Z" fill="#2563EB" stroke="#0A0D18" stroke-width="3.5"/><path d="M 184 84 L 240 84 L 232 64 C 208 58 194 60 180 68 Z" fill="#FF0055" stroke="#0A0D18" stroke-width="3.5"/><g transform="translate(94, 50)"><path d="
+              M 24 8
+              C 16 3 9 5 2 9
+              C -1 7 -4 5 -7 3
+              L -5 10
+              L -7 16
+              C -4 14 -1 12 2 10
+              C 9 15 16 17 24 12
+              C 26 10 26 9 24 8
+              Z
+            " fill="#FFFFFF" stroke="#0A0D18" stroke-width="2.5"/></g><g stroke="#CCFF00" stroke-width="4" stroke-linecap="round"><line x1="112" y1="36" x2="134" y2="46"/><line x1="126" y1="48" x2="150" y2="58"/><line x1="142" y1="60" x2="166" y2="70"/></g><rect x="34" y="96" width="40" height="12" rx="6" fill="#38BDF8" stroke="#0A0D18" stroke-width="2.5"/></g><g id="sticker-care-tag" transform="translate(440, 280) rotate(11)" filter="url(#light-sticker-shadow)"><rect x="0" y="0" width="138" height="192" rx="9" fill="#FFFFFF" stroke="#0A0D18" stroke-width="5.5"/><rect x="7" y="7" width="124" height="178" rx="6" fill="#FAFAFA"/><circle cx="69" cy="22" r="5" fill="#E2E8F0" stroke="#0A0D18" stroke-width="2.5"/><text x="69" y="46" text-anchor="middle" fill="#0A0D18" font-size="12" font-weight="900" font-family="sans-serif" letter-spacing="1">YUDA CLOSET</text><text x="69" y="60" text-anchor="middle" fill="#2563EB" font-size="9" font-weight="900" font-family="monospace">CARE &amp;amp; ARCHIVE</text><line x1="16" y1="70" x2="122" y2="70" stroke="#0A0D18" stroke-width="1.5" stroke-dasharray="3 3"/><g transform="translate(19, 78)" stroke="#0A0D18" stroke-width="2" fill="none" stroke-linecap="round"><path d="M 3 6 L 6 18 C 6 20 17 20 17 18 L 20 6 Z"/><path d="M 3 10 Q 12 14 20 10"/><path d="M 34 18 L 43 4 L 52 18 Z"/><path d="M 36 9 L 50 16 M 50 9 L 36 16"/><path d="M 68 18 L 86 18 C 88 18 90 14 86 11 L 78 11 C 72 11 68 14 68 18 Z"/></g><g fill="#0A0D18" font-size="8" font-family="monospace" font-weight="700"><text x="18" y="116">100% DIGITAL COTTON</text><text x="18" y="128">NO BORING OUTFITS</text><text x="18" y="140">MADE IN METAVERSE</text></g><g transform="translate(16, 152)"><rect x="0" y="0" width="3" height="18" fill="#0A0D18"/><rect x="5" y="0" width="1.5" height="18" fill="#0A0D18"/><rect x="9" y="0" width="4" height="18" fill="#0A0D18"/><rect x="16" y="0" width="2" height="18" fill="#0A0D18"/><rect x="21" y="0" width="6" height="18" fill="#0A0D18"/><rect x="30" y="0" width="2" height="18" fill="#0A0D18"/><rect x="35" y="0" width="4" height="18" fill="#0A0D18"/><rect x="42" y="0" width="7" height="18" fill="#0A0D18"/><rect x="52" y="0" width="2" height="18" fill="#0A0D18"/><rect x="57" y="0" width="5" height="18" fill="#0A0D18"/><rect x="65" y="0" width="2" height="18" fill="#0A0D18"/><rect x="70" y="0" width="6" height="18" fill="#0A0D18"/><rect x="79" y="0" width="2" height="18" fill="#0A0D18"/><rect x="84" y="0" width="6" height="18" fill="#0A0D18"/><rect x="94" y="0" width="3" height="18" fill="#0A0D18"/><rect x="100" y="0" width="4" height="18" fill="#0A0D18"/></g></g><g id="sticker-starburst" transform="translate(345, 400) rotate(-6)" filter="url(#light-accent-shadow)"><polygon points="
+            50,0 63,22 88,10 86,35 111,35 98,56 120,68 100,83
+            113,101 90,105 93,128 70,118 60,140 45,120 25,135
+            25,110 2,112 13,90 -5,78 13,62 1,42 23,37 21,13 43,22
+          " fill="#FFFFFF" stroke="#0A0D18" stroke-width="6" stroke-linejoin="round"/><polygon points="
+            50,3 62,24 85,12 83,36 107,36 94,56 115,67 96,81
+            108,98 86,101 89,123 68,114 58,134 44,115 25,129
+            25,106 3,107 14,87 -3,76 14,61 2,42 23,37 21,14 42,22
+          " fill="url(#light-flame)"/><circle cx="56" cy="70" r="35" fill="#FFDE00" stroke="#0A0D18" stroke-width="3"/><text x="56" y="65" text-anchor="middle" fill="#0A0D18" font-size="12" font-weight="900" font-family="sans-serif">FIT!</text><text x="56" y="81" text-anchor="middle" fill="#FF0055" font-size="13" font-weight="900" font-family="sans-serif">#OOTD</text></g><g id="accent-safety-pin" transform="translate(270, 240) rotate(-35)" filter="url(#light-accent-shadow)"><path d="
+            M 12 16
+            C 12 6 22 6 45 6
+            L 115 6
+            C 125 6 132 12 132 20
+            C 132 28 125 34 115 34
+            L 36 34
+            C 20 34 6 45 6 62
+            C 6 78 20 88 36 88
+            L 120 88
+            C 128 88 134 94 134 100
+            C 134 106 128 112 120 112
+            L 32 112
+            C 10 112 -3 92 -3 62
+            C -3 32 6 16 12 16
+            Z
+          " fill="url(#light-chrome)" stroke="#0A0D18" stroke-width="4.5" stroke-linejoin="round"/><rect x="100" y="1" width="38" height="38" rx="8" fill="#FF0055" stroke="#0A0D18" stroke-width="3.5"/><circle cx="118" cy="20" r="4.5" fill="#FFFFFF" stroke="#0A0D18" stroke-width="2"/></g><g id="accent-y2k-star" transform="translate(285, 115)" filter="url(#light-accent-shadow)"><path d="
+            M 0 -36
+            C 4 -14 14 -4 36 0
+            C 14 4 4 14 0 36
+            C -4 14 -14 4 -36 0
+            C -14 -4 -4 -14 0 -36
+            Z
+          " fill="#FFFFFF" stroke="#0A0D18" stroke-width="4.5" stroke-linejoin="round"/><path d="
+            M 0 -32
+            C 3 -12 12 -3 32 0
+            C 12 3 3 12 0 32
+            C -3 12 -12 3 -32 0
+            C -12 -3 -3 -12 0 -32
+            Z
+          " fill="url(#light-chrome)"/><circle cx="0" cy="0" r="4.5" fill="#FF0055" stroke="#0A0D18" stroke-width="2"/></g></svg>

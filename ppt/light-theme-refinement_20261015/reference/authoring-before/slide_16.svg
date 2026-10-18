@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif"><rect x="0" y="0" width="1280" height="720" fill="#EFF6FF" />
+<g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<g id="shape-24" data-pptx-object="shape" data-pptx-frame="0 0 1280 720" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:24" data-pptx-semantic-object="shape">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-part="geometry" fill="#F7F8FA" stroke="none" />
+</g>
+<g id="shape-25" data-pptx-object="shape" data-pptx-frame="93.33 60 666.67 53.33" data-pptx-prst="rect" data-pptx-source-ref="slide:25" data-pptx-semantic-object="shape">
+<path d="M 93.33 60 L 760 60 L 760 113.33 L 93.33 113.33 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="93.33" y="102" text-anchor="start" xml:space="preserve" font-size="40" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">参赛团队：鱼力无限</text>
+</g>
+</g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="96 122.67 400 26.67" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 96 122.67 L 496 122.67 L 496 149.34 L 96 149.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="96" y="142.66666667" text-anchor="start" xml:space="preserve" font-size="16" fill="#1F5C45" data-pptx-text-baseline="metrics-v1">06 · 四项能力方向 / 不代表成员人数</text>
+</g>
+<g id="shape-4" data-pptx-object="shape" data-pptx-frame="106.67 200 69.33 69.33" data-pptx-prst="ellipse" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 106.67 234.66 A 34.66 34.66 0 0 1 141.34 200 A 34.66 34.66 0 0 1 176 234.66 A 34.66 34.66 0 0 1 141.34 269.33 A 34.66 34.66 0 0 1 106.67 234.66 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry" />
+
+
+</g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="106.67 216 69.33 40" data-pptx-prst="rect" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape">
+<path d="M 106.67 216 L 176 216 L 176 256 L 106.67 256 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="141.33" y="244" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold" data-pptx-text-baseline="metrics-v1">1</text>
+</g>
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="100 286.67 226.67 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 100 286.67 L 326.67 286.67 L 326.67 321.34 L 100 321.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="100" y="311.66666667" text-anchor="start" xml:space="preserve" font-size="20" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">前端开发</text>
+</g>
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="100 326.67 240 66.67" data-pptx-prst="rect" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 100 326.67 L 340 326.67 L 340 393.34 L 100 393.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="100" y="366.66666667" text-anchor="start" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">网站界面、响应式交互与画布</text>
+</g>
+<g id="shape-8" data-pptx-object="shape" data-pptx-frame="386.67 200 69.33 69.33" data-pptx-prst="ellipse" data-pptx-source-ref="slide:8" data-pptx-semantic-object="shape">
+<path d="M 386.67 234.66 A 34.66 34.66 0 0 1 421.34 200 A 34.66 34.66 0 0 1 456 234.66 A 34.66 34.66 0 0 1 421.34 269.33 A 34.66 34.66 0 0 1 386.67 234.66 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry" />
+
+
+</g>
+<g id="shape-9" data-pptx-object="shape" data-pptx-frame="386.67 216 69.33 40" data-pptx-prst="rect" data-pptx-source-ref="slide:9" data-pptx-semantic-object="shape">
+<path d="M 386.67 216 L 456 216 L 456 256 L 386.67 256 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="421.33" y="244" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold" data-pptx-text-baseline="metrics-v1">2</text>
+</g>
+<g id="shape-10" data-pptx-object="shape" data-pptx-frame="380 286.67 226.67 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:10" data-pptx-semantic-object="shape">
+<path d="M 380 286.67 L 606.67 286.67 L 606.67 321.34 L 380 321.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="380" y="311.66666667" text-anchor="start" xml:space="preserve" font-size="20" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">后端架构</text>
+</g>
+<g id="shape-11" data-pptx-object="shape" data-pptx-frame="380 326.67 333.33 66.67" data-pptx-prst="rect" data-pptx-source-ref="slide:11" data-pptx-semantic-object="shape">
+<path d="M 380 326.67 L 713.33 326.67 L 713.33 393.34 L 380 393.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="380" y="366.66666667" text-anchor="start" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">API、任务执行、权限与存储</text>
+</g>
+<g id="shape-12" data-pptx-object="shape" data-pptx-frame="666.67 200 69.33 69.33" data-pptx-prst="ellipse" data-pptx-source-ref="slide:12" data-pptx-semantic-object="shape">
+<path d="M 666.67 234.66 A 34.66 34.66 0 0 1 701.34 200 A 34.66 34.66 0 0 1 736 234.66 A 34.66 34.66 0 0 1 701.34 269.33 A 34.66 34.66 0 0 1 666.67 234.66 Z" fill="#EEF6F1" stroke="none" data-pptx-part="geometry" />
+
+
+</g>
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="666.67 216 69.33 40" data-pptx-prst="rect" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 666.67 216 L 736 216 L 736 256 L 666.67 256 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="701.33" y="244" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="21.33" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">3</text>
+</g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="660 286.67 240 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 660 286.67 L 900 286.67 L 900 321.34 L 660 321.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="660" y="311.66666667" text-anchor="start" xml:space="preserve" font-size="20" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">算法与图像处理</text>
+</g>
+<g id="shape-15" data-pptx-object="shape" data-pptx-frame="660 326.67 240 66.67" data-pptx-prst="rect" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 660 326.67 L 900 326.67 L 900 393.34 L 660 393.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="660" y="366.66666667" text-anchor="start" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">规则推荐、本地检索与图像处理</text>
+</g>
+<g id="shape-16" data-pptx-object="shape" data-pptx-frame="946.67 200 69.33 69.33" data-pptx-prst="ellipse" data-pptx-source-ref="slide:16" data-pptx-semantic-object="shape">
+<path d="M 946.67 234.66 A 34.66 34.66 0 0 1 981.34 200 A 34.66 34.66 0 0 1 1016 234.66 A 34.66 34.66 0 0 1 981.34 269.33 A 34.66 34.66 0 0 1 946.67 234.66 Z" fill="#EEF6F1" stroke="none" data-pptx-part="geometry" />
+
+
+</g>
+<g id="shape-17" data-pptx-object="shape" data-pptx-frame="946.67 216 69.33 40" data-pptx-prst="rect" data-pptx-source-ref="slide:17" data-pptx-semantic-object="shape">
+<path d="M 946.67 216 L 1016 216 L 1016 256 L 946.67 256 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="981.33" y="244" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="21.33" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">4</text>
+</g>
+<g id="shape-18" data-pptx-object="shape" data-pptx-frame="940 286.67 240 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:18" data-pptx-semantic-object="shape">
+<path d="M 940 286.67 L 1180 286.67 L 1180 321.34 L 940 321.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="940" y="311.66666667" text-anchor="start" xml:space="preserve" font-size="20" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">产品与设计</text>
+</g>
+<g id="shape-19" data-pptx-object="shape" data-pptx-frame="940 326.67 240 66.67" data-pptx-prst="rect" data-pptx-source-ref="slide:19" data-pptx-semantic-object="shape">
+<path d="M 940 326.67 L 1180 326.67 L 1180 393.34 L 940 393.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="940" y="366.66666667" text-anchor="start" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">需求、交互与视觉、文档</text>
+</g>
+<g id="shape-20" data-pptx-object="connector" data-pptx-frame="93.33 439.33 1093.33 1.33" data-pptx-prst="straightConnector1" transform="rotate(-0.06986667 639.99 439.99)" data-pptx-source-ref="slide:20" data-pptx-semantic-object="shape">
+<path d="M 93.33 439.33 L 1186.66 440.66" fill="#E8E9EE" stroke-width="1.33333" stroke-linecap="butt" stroke="#DCEAE2" stroke-linejoin="round" data-pptx-part="geometry" />
+
+</g>
+<g id="shape-21" data-pptx-object="shape" data-pptx-frame="93.33 473.33 266.67 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:21" data-pptx-semantic-object="shape">
+<path d="M 93.33 473.33 L 360 473.33 L 360 508 L 93.33 508 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="93.33" y="498.33333333" text-anchor="start" xml:space="preserve" font-size="20" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">团队起点与作品证据</text>
+</g>
+<g id="shape-22" data-pptx-object="shape" data-pptx-frame="88.27 520 1093.33 66.67" data-pptx-prst="rect" data-pptx-source-ref="slide:22" data-pptx-semantic-object="shape">
+<path d="M 88.27 520 L 1181.6 520 L 1181.6 586.67 L 88.27 586.67 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="88.27" y="561.6" text-anchor="start" xml:space="preserve" font-size="24" fill="#666B76" font-weight="bold" data-pptx-text-baseline="metrics-v1">全新团队，第一次参加比赛。</text>
+</g>
+<g id="shape-23" data-pptx-object="shape" data-pptx-frame="88.27 586.67 800 32" data-pptx-prst="rect" data-pptx-source-ref="slide:23" data-pptx-semantic-object="shape">
+<path d="M 88.27 586.67 L 888.27 586.67 L 888.27 618.67 L 88.27 618.67 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="88.27" y="605.33333333" text-anchor="start" xml:space="preserve" font-size="20" fill="#25262B" data-pptx-text-baseline="metrics-v1">暂无过往竞赛奖项；用产品闭环、算法依据和工程交付接受评审。</text>
+</g>
+<g id="shape-46" data-pptx-object="group" data-pptx-frame="63.44 672 1152.56 32.23" data-pptx-source-ref="slide:46">
+<g id="shape-43" data-pptx-object="shape" data-pptx-frame="64 672 1152 1" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:43" data-pptx-semantic-object="shape">
+<path d="M 64 672 L 1216 672" data-pptx-part="geometry" fill="none" stroke-width="1" stroke="#E8E9EE" />
+</g>
+<g id="shape-44" data-pptx-object="shape" data-pptx-frame="63.44 682.67 232.33 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:44" data-pptx-semantic-object="shape">
+<path d="M 63.44 682.67 L 295.77 682.67 L 295.77 704.23 L 63.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="63.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text>
+</g>
+<g id="shape-45" data-pptx-object="shape" data-pptx-frame="1183.44 682.67 17.44 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:45" data-pptx-semantic-object="shape">
+<path d="M 1183.44 682.67 L 1200.88 682.67 L 1200.88 704.23 L 1183.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="1183.44" y="696" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1">16</text>
+</g>
+</g></svg>

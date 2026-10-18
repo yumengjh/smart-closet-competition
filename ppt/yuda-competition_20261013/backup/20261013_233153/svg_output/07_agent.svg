@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#D8F36A"/></marker></defs>
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#302238"/>
+<g id="title" data-pptx-bounds="64 44 1152 148" fill="#F5F1E8"><text x="64" y="72" font-size="18" fill="#D8F36A">AGENT / TRUSTED ACTION</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">会聊天，也会把操作做实。</text></g>
+<g id="workspace" data-pptx-bounds="64 227 561 367">
+<rect x="64" y="227" width="561" height="367" rx="12" fill="#F5F1E8"/>
+<rect x="64" y="227" width="561" height="43" fill="#E8E1D6"/><text x="84" y="255" font-size="18" fill="#302238">搭台 · 多画板与图层 / 示意界面</text>
+<rect x="88" y="292" width="310" height="273" fill="#E8E1D6"/>
+<path d="M168 324 L196 337 L224 324 L269 357 L254 390 L233 379 L233 449 L160 449 L160 379 L140 390 L125 357 Z" fill="#BBA4CB"/>
+<path d="M293 339 L333 339 L347 501 L321 501 L313 411 L305 501 L280 501 Z" fill="#302238"/>
+<g fill="#302238" font-size="20"><text x="425" y="325">鱼搭助手</text><text x="425" y="385"><tspan x="425" y="385">调整布局，</tspan><tspan x="425" y="419">并等待回执。</tspan></text><rect x="425" y="462" width="167" height="38" fill="#D8F36A"/><text x="439" y="488">已执行 · ACK</text><text x="425" y="546">用户可接手</text></g>
+</g>
+<g id="execution" data-pptx-bounds="680 228 536 270" fill="#F5F1E8"><text x="680" y="262" font-size="32" font-weight="bold">完成，由实际结果确认。</text><text x="680" y="315" font-size="20" fill="#C7BECC">LangGraph 理解意图，Java 掌握授权。</text>
+<line x1="699" y1="357" x2="699" y2="463" stroke="#D8F36A" stroke-width="2" marker-end="url(#arrow)"/>
+<circle cx="699" cy="353" r="8" fill="#D8F36A"/><text x="728" y="362">后端授权 / 工具与权限</text><circle cx="699" cy="406" r="8" fill="#D8F36A"/><text x="728" y="415">SSE 命令 / 浏览器执行</text><circle cx="699" cy="459" r="8" fill="#D8F36A"/><text x="728" y="468">ACK + revision / 结果确认</text>
+</g>
+<g id="generation" data-pptx-bounds="680 528 536 80" fill="#F5F1E8"><text x="680" y="553" font-size="20"><tspan x="680" y="553">个人 OOTD：确认输入与额度后，</tspan><tspan x="680" y="589">冻结快照，进入持久任务。</tspan></text></g>
+<g id="footer" data-pptx-bounds="64 650 1152 39" fill="#C7BECC" font-size="16"><text x="64" y="680">依据：competition/05 · 示意界面非真实截图</text><text x="1178" y="680">07</text></g>
+</svg>

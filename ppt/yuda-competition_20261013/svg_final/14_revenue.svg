@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#F5F1E8" />
+<g id="title" data-pptx-bounds="64 44 1152 157" fill="#302238"><text x="64" y="72" font-size="18">REVENUE DESIGN / 商业假设</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">第一笔收入，来自持续服务。</text><text x="64" y="192" font-size="20" fill="#6B6071">让基础体验形成习惯；对持续价值与明确成本收费。</text></g>
+<g id="free" data-pptx-bounds="64 225 1152 79" fill="#302238"><text x="64" y="269" font-size="32" font-weight="bold">基础免费</text><text x="340" y="269">衣柜与计算推荐，降低开始使用的门槛。</text><line x1="64" y1="303" x2="1216" y2="303" stroke="#C7BECC" /></g>
+<g id="subscription" data-pptx-bounds="64 325 1152 85" fill="#302238"><rect x="64" y="325" width="1152" height="85" fill="#D8F36A" /><text x="88" y="372" font-size="32" font-weight="bold">持续订阅</text><text x="340" y="372">高级管理、长期洞察与专属服务 / 待验证</text></g>
+<g id="usage" data-pptx-bounds="64 435 1152 81" fill="#302238"><text x="64" y="479" font-size="32" font-weight="bold">生成额度</text><text x="340" y="479">OOTD 按次或额度包，费用与调用成本绑定。</text><line x1="64" y1="515" x2="1216" y2="515" stroke="#C7BECC" /></g>
+<g id="business" data-pptx-bounds="64 540 1152 87" fill="#302238"><text x="64" y="585" font-size="32" font-weight="bold">未来 B2B</text><text x="340" y="583">为造型 / 衣柜整理服务商提供授权工作台。</text><text x="340" y="619" font-size="20" fill="#6B6071">先试点服务，再验证机构持续付费。</text></g>
+<g id="footer" data-pptx-bounds="64 648 1152 51" fill="#6B6071" font-size="16"><text x="64" y="663">商业设计待验证；高级订阅服务与机构方案尚未上线，暂无付费客户证据。</text><text x="64" y="690">不出售用户衣柜数据；不承诺无限生成；商业合作不暗改推荐。</text><text x="1178" y="690">14</text></g>
+</svg>

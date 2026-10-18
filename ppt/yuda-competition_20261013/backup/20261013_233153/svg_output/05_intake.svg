@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#302238"/></marker></defs>
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#F5F1E8"/>
+<g id="title" data-pptx-bounds="64 44 1152 158" fill="#302238"><text x="64" y="72" font-size="18">INTAKE / 照片成为资产</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">拍一张，先变成可用资产。</text><text x="64" y="186" font-size="20" fill="#6B6071">原图与展示派生分开；用户始终可以修正。</text></g>
+<g id="photo-source" data-pptx-bounds="64 235 320 371">
+<g id="p05-photo" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="foldedCorner" data-pptx-frame="64 235 320 324" fill="#E8E1D6" stroke="none">
+<path d="M 64 235 L 384 235 L 384 505.67 L 330.67 559 L 64 559 Z"/>
+<path d="M 330.67 559 L 341.33 516.33 L 384 505.67 Z" fill="#BEB8AF"/>
+<path d="M 330.67 559 L 341.33 516.33 L 384 505.67 L 330.67 559 L 64 559 L 64 235 L 384 235 L 384 505.67" fill="none"/>
+</g>
+<path d="M168 299 L204 317 L240 299 L303 348 L274 402 L253 389 L253 492 L155 492 L155 389 L134 402 L107 348 Z" fill="#BBA4CB"/>
+<text x="90" y="273" font-size="18" fill="#6B6071">01 / ORIGINAL</text><text x="90" y="590" font-size="20" fill="#302238">保留原始资产</text>
+</g>
+<g id="cutout" data-pptx-bounds="421 235 360 371">
+<rect x="421" y="235" width="360" height="324" rx="12" fill="none" stroke="#C7BECC" stroke-width="2"/>
+<path d="M559 295 L595 313 L631 295 L694 344 L665 398 L644 385 L644 488 L546 488 L546 385 L525 398 L498 344 Z" fill="#302238"/>
+<text x="446" y="273" font-size="18" fill="#6B6071">02 / CUTOUT</text><text x="446" y="590" font-size="20" fill="#302238">U²-Net / GrabCut · 透明素材</text>
+</g>
+<g id="attributes" data-pptx-bounds="824 235 392 371" fill="#302238"><text x="845" y="273" font-size="18" fill="#6B6071">03 / EVIDENCE</text><text x="845" y="337" font-size="32" font-weight="bold">属性有证据状态</text><rect x="845" y="367" width="326" height="43" fill="#D8F36A"/><text x="861" y="396">已确认 / 推测</text><text x="861" y="444">未知 / 冲突</text><text x="845" y="510" font-size="20"><tspan x="845" y="510">猜测不直接变成事实；</tspan><tspan x="845" y="543">复杂背景有恢复路径。</tspan></text><text x="845" y="590" font-size="20">人工修正，进入真实衣柜</text></g>
+<g id="arrows" data-pptx-bounds="389 381 31 35"><line x1="391" y1="397" x2="416" y2="397" stroke="#302238" stroke-width="2" marker-end="url(#arrow)"/></g>
+<g id="next-arrow" data-pptx-bounds="786 381 31 35"><line x1="787" y1="397" x2="813" y2="397" stroke="#302238" stroke-width="2" marker-end="url(#arrow)"/></g>
+<g id="footer" data-pptx-bounds="64 651 1152 38" fill="#6B6071" font-size="16"><text x="64" y="680">依据：competition/04、05 · 衣物与图片为原生流程示意</text><text x="1178" y="680">05</text></g>
+</svg>

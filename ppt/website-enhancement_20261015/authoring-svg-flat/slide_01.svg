@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<path fill="#F7F8FA" id="page-field-0" d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-role="background"/>
+<g id="shape-2-foreground" data-pptx-object="picture" data-pptx-frame="440 0 840 720"><image href="../images/website-login-illustration.svg" x="440.0" y="0.0" width="840.0" height="720.0" preserveAspectRatio="xMidYMid slice"/></g></g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="93.33 80 533.33 40" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 93.33 80 L 626.67 80 L 626.67 120 L 93.33 120 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="93.33" y="107.66666667" text-anchor="start" xml:space="preserve" font-size="20" fill="#1F5C45" font-weight="bold" data-pptx-text-baseline="metrics-v1">AI 数字衣柜 · Web 网站</text>
+</g>
+<g id="shape-4" data-pptx-object="shape" data-pptx-frame="82.67 160 440 173.33" data-pptx-prst="rect" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 82.67 160 L 522.67 160 L 522.67 333.33 L 82.67 333.33 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="82.67" y="293.33333333" text-anchor="start" xml:space="preserve" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-size="122.67" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">鱼搭</text>
+</g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="90.67 357.33 373.33 93.33" data-pptx-prst="rect" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape">
+<path d="M 90.67 357.33 L 464 357.33 L 464 450.67 L 90.67 450.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="90.67" y="388.13" text-anchor="start" xml:space="preserve" font-size="28" fill="#25262B" data-pptx-text-baseline="metrics-v1">让已有衣物，<tspan x="90.67" dy="42.0">成为每天的选择。</tspan></text>
+</g>
+<g id="shape-6" data-pptx-object="connector" data-pptx-frame="93.34 495.33 106.67 1.33" data-pptx-prst="straightConnector1" transform="rotate(-0.71615 146.67 496)" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 93.34 495.33 L 200 496.67" fill="#E8E9EE" stroke-width="5.33333" stroke-linecap="butt" stroke="#1F5C45" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+</g>
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="90.67 522.67 400 40" data-pptx-prst="rect" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 90.67 522.67 L 490.67 522.67 L 490.67 562.67 L 90.67 562.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="90.67" y="549.66666667" text-anchor="start" xml:space="preserve" font-size="17.33" fill="#666B76" data-pptx-text-baseline="metrics-v1">参赛团队：鱼力无限　|　网页作品路演</text>
+</g><g id="yuda-footer" data-pptx-bounds="64 671 1152 32" data-pptx-frame="64 671 1152 32"><line x1="64" y1="672" x2="1216" y2="672" stroke="#E8E9EE" stroke-width="1"/><text x="64" y="696" font-size="14" fill="#666B76">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text><text x="1184" y="696" font-size="14" fill="#666B76">01</text></g></svg>

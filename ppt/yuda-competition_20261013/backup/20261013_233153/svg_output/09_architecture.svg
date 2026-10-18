@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#D8F36A" /></marker></defs>
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#302238" />
+<g id="title" data-pptx-bounds="64 44 1152 145" fill="#F5F1E8"><text x="64" y="72" font-size="18" fill="#D8F36A">ARCHITECTURE / 业务掌握边界</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">为可控的真实产品而建。</text></g>
+<g id="architecture" data-pptx-bounds="64 216 1152 382" fill="#F5F1E8">
+<g id="client"><rect x="64" y="224" width="304" height="226" fill="#4A3853" /><text x="87" y="267" font-size="32" font-weight="bold">用户端</text><text x="87" y="312">Vue 3 / TypeScript</text><text x="87" y="351" font-size="20"><tspan x="87" y="351">Ant Design Vue · Pinia</tspan><tspan x="87" y="388">Konva 多画板 · PWA</tspan></text><text x="87" y="430" font-size="18" fill="#C7BECC">交互、编辑、执行回执</text></g>
+<g id="java"><rect x="421" y="224" width="381" height="226" fill="#D8F36A" /><g fill="#302238"><text x="446" y="267" font-size="32" font-weight="bold">Java 业务主服务</text><text x="446" y="312">Java 21 / Spring Boot 4.1</text><text x="446" y="351" font-size="20"><tspan x="446" y="351">Security · 推荐计算 · 数据归属</tspan><tspan x="446" y="388">持久任务 · 资源池 · 成本确认</tspan></text><text x="446" y="430" font-size="18">管理 API 可插拔，默认关闭</text></g></g>
+<g id="agent"><rect x="854" y="224" width="362" height="105" fill="#4A3853" /><text x="879" y="264" font-weight="bold">Node.js / LangGraph</text><text x="879" y="305" font-size="20">TypeScript · 语言与工具编排</text></g>
+<g id="onnx"><rect x="854" y="353" width="362" height="97" fill="#4A3853" /><text x="879" y="389" font-weight="bold">ONNX Runtime</text><text x="879" y="429" font-size="20">U²-Net · BGE · 可选 CLIP</text></g>
+<line x1="369" y1="338" x2="419" y2="338" stroke="#D8F36A" stroke-width="2" marker-end="url(#arrow)" />
+<line x1="804" y1="277" x2="851" y2="277" stroke="#D8F36A" stroke-width="2" marker-end="url(#arrow)" />
+<line x1="804" y1="401" x2="851" y2="401" stroke="#D8F36A" stroke-width="2" marker-end="url(#arrow)" />
+<line x1="612" y1="451" x2="612" y2="486" stroke="#D8F36A" stroke-width="2" marker-end="url(#arrow)" />
+<g id="persistence"><rect x="64" y="490" width="738" height="104" fill="#4A3853" /><text x="88" y="526">H2 / Flyway / MyBatis Plus</text><text x="88" y="568" font-size="20">本地或 S3 图片 · 持久执行记录 · Docker / GitHub Actions</text></g>
+<g id="upstream"><rect x="854" y="490" width="362" height="104" fill="none" stroke="#C7BECC" stroke-width="1" stroke-dasharray="8,4" /><text x="879" y="526">外部服务 / 按需调用</text><text x="879" y="568" font-size="20">识图、生图、天气 · 由后端访问</text></g>
+</g>
+<g id="boundary" data-pptx-bounds="64 611 1152 32" fill="#C7BECC" font-size="16"><text x="64" y="635">当前为可控单机架构；未证明数据库/调度水平扩展或高并发容量。</text></g>
+<g id="footer" data-pptx-bounds="64 653 1152 36" fill="#C7BECC" font-size="16"><text x="64" y="680">依据：competition/03、05 · 主要技术栈；完整版本与取舍见资料</text><text x="1178" y="680">09</text></g>
+</svg>

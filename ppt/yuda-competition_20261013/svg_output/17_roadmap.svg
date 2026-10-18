@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#D8F36A" /></marker></defs>
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#302238" />
+<g id="title" data-pptx-bounds="64 44 1152 168" fill="#F5F1E8"><text x="64" y="72" font-size="18" fill="#D8F36A">ROADMAP / 每阶段以证据验收</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">下一阶段，把可演示变成可复用。</text><text x="64" y="193" font-size="20" fill="#C7BECC">时间为规划示意；用效果和成本决定是否继续放大。</text></g>
+<g id="milestones" data-pptx-bounds="64 251 1152 320" fill="#F5F1E8"><line x1="98" y1="301" x2="1143" y2="301" stroke="#D8F36A" stroke-width="2" stroke-dasharray="8,4" marker-end="url(#arrow)" />
+<g id="now"><circle cx="96" cy="301" r="14" fill="#D8F36A" /><text x="64" y="378" font-size="36" font-family="SimSun, Georgia">已有</text><text x="64" y="433">产品 / 技术闭环</text><text x="64" y="491" font-size="20"><tspan x="64" y="491">可追溯的实现与</tspan><tspan x="64" y="527">历史验证记录</tspan></text></g>
+<g id="day30"><circle cx="414" cy="301" r="10" fill="#302238" stroke="#D8F36A" stroke-width="2" /><text x="349" y="378" font-size="36" font-family="SimSun, Georgia">30 天目标</text><text x="349" y="433">共创观察</text><text x="349" y="491" font-size="20"><tspan x="349" y="491">修正录入摩擦；</tspan><tspan x="349" y="527">四周行为观察</tspan></text></g>
+<g id="day90"><circle cx="752" cy="301" r="10" fill="#302238" stroke="#D8F36A" stroke-width="2" /><text x="655" y="378" font-size="36" font-family="SimSun, Georgia">90 天目标</text><text x="655" y="433">收费验证</text><text x="655" y="491" font-size="20"><tspan x="655" y="491">订阅 / 额度实验；</tspan><tspan x="655" y="527">单位成本核算</tspan></text></g>
+<g id="day180"><circle cx="1104" cy="301" r="10" fill="#302238" stroke="#D8F36A" stroke-width="2" /><text x="993" y="378" font-size="36" font-family="SimSun, Georgia">180 天目标</text><text x="993" y="433">合作试点</text><text x="993" y="491" font-size="20"><tspan x="993" y="491">机构工作台共创；</tspan><tspan x="993" y="527">数据库与容量评估</tspan></text></g>
+</g>
+<g id="criteria" data-pptx-bounds="64 585 1152 49" fill="#D8F36A"><text x="64" y="617">看证据：入柜耗时 · 实际穿着覆盖 · 留存 · 付费 · 单位成本</text></g>
+<g id="footer" data-pptx-bounds="64 651 1152 38" fill="#C7BECC" font-size="16"><text x="64" y="680">路线图目标 / 非已完成成绩或有保证的交付时间</text><text x="1178" y="680">17</text></g>
+</svg>

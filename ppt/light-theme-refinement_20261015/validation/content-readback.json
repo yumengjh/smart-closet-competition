@@ -1,0 +1,164 @@
+{
+  "status": "passed",
+  "slides": 18,
+  "notes": 18,
+  "source_unchanged": true,
+  "source_sha256": "727cd89eef0acf4584039e072df260cd39819441f5f344fefe1fb172b6bcb461",
+  "output_sha256": "458a5cbcb02f954d0aada1b45ba6e37b139add413807a3d33fcc81259fabd9c5",
+  "video_placeholders": [
+    {
+      "left_cm": 1.693,
+      "top_cm": 5.821,
+      "width_cm": 14.605,
+      "height_cm": 8.215,
+      "aspect_ratio": "16:9"
+    },
+    {
+      "left_cm": 17.568,
+      "top_cm": 5.821,
+      "width_cm": 14.605,
+      "height_cm": 8.215,
+      "aspect_ratio": "16:9"
+    }
+  ],
+  "copied_sources": [
+    {
+      "name": "05-核心功能与系统设计.md",
+      "sha256": "1859d967d9eff0763b8e507c4d37143fa5ba459bc26e5b316999d7c202b12df8"
+    },
+    {
+      "name": "07-扫描结论与证据边界.md",
+      "sha256": "bb793f2f5c6046d0df9c3e3afd5dc5f99c3ac6344e1e92e9551fea4b294028de"
+    },
+    {
+      "name": "03-完整技术栈与选型.md",
+      "sha256": "1e20604489e87b38d38971209b526986ec310358c8e92a229f22ed70d89c2616"
+    },
+    {
+      "name": "02-创新立意与竞品对比.md",
+      "sha256": "34875092f30fb71a66c6fea6d844dac00eee1c1d91086d2c581bda07ee68626d"
+    },
+    {
+      "name": "01-项目介绍.md",
+      "sha256": "b03d7e8a46eef7bb733023b60f14130eddde5479414cdb5f7457a0f69f65a227"
+    },
+    {
+      "name": "06-答辩与演示建议.md",
+      "sha256": "1cb1041444778975c6e132615ff8b1b3e0516f0f54a540e62edee3a45ead1086"
+    },
+    {
+      "name": "04-核心算法与实现依据.md",
+      "sha256": "ee05a48d551b053fbc576cb81f04fbc34bb8733f376b5d4b482a6c1ec293ad34"
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "visible_characters": 70,
+      "text_matches_authoring": true,
+      "notes_characters": 68
+    },
+    {
+      "page": 2,
+      "visible_characters": 167,
+      "text_matches_authoring": true,
+      "notes_characters": 90
+    },
+    {
+      "page": 3,
+      "visible_characters": 119,
+      "text_matches_authoring": true,
+      "notes_characters": 131
+    },
+    {
+      "page": 4,
+      "visible_characters": 139,
+      "text_matches_authoring": true,
+      "notes_characters": 117
+    },
+    {
+      "page": 5,
+      "visible_characters": 115,
+      "text_matches_authoring": true,
+      "notes_characters": 109
+    },
+    {
+      "page": 6,
+      "visible_characters": 163,
+      "text_matches_authoring": true,
+      "notes_characters": 150
+    },
+    {
+      "page": 7,
+      "visible_characters": 144,
+      "text_matches_authoring": true,
+      "notes_characters": 106
+    },
+    {
+      "page": 8,
+      "visible_characters": 187,
+      "text_matches_authoring": true,
+      "notes_characters": 160
+    },
+    {
+      "page": 9,
+      "visible_characters": 156,
+      "text_matches_authoring": true,
+      "notes_characters": 165
+    },
+    {
+      "page": 10,
+      "visible_characters": 200,
+      "text_matches_authoring": true,
+      "notes_characters": 187
+    },
+    {
+      "page": 11,
+      "visible_characters": 385,
+      "text_matches_authoring": true,
+      "notes_characters": 264
+    },
+    {
+      "page": 12,
+      "visible_characters": 174,
+      "text_matches_authoring": true,
+      "notes_characters": 154
+    },
+    {
+      "page": 13,
+      "visible_characters": 231,
+      "text_matches_authoring": true,
+      "notes_characters": 191
+    },
+    {
+      "page": 14,
+      "visible_characters": 205,
+      "text_matches_authoring": true,
+      "notes_characters": 145
+    },
+    {
+      "page": 15,
+      "visible_characters": 215,
+      "text_matches_authoring": true,
+      "notes_characters": 161
+    },
+    {
+      "page": 16,
+      "visible_characters": 189,
+      "text_matches_authoring": true,
+      "notes_characters": 116
+    },
+    {
+      "page": 17,
+      "visible_characters": 158,
+      "text_matches_authoring": true,
+      "notes_characters": 156
+    },
+    {
+      "page": 18,
+      "visible_characters": 82,
+      "text_matches_authoring": true,
+      "notes_characters": 82
+    }
+  ]
+}

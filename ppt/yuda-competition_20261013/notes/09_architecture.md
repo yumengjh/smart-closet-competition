@@ -1,0 +1,1 @@
+架构里，用户端使用 Vue、TypeScript、Ant Design Vue、Pinia 和 Konva，负责交互、画板与回执，PWA 提供应用外壳。Java 二十一和 Spring Boot 四点一的主服务负责权限、推荐、数据归属、持久任务、资源池和成本确认。独立的 Node.js、TypeScript、LangGraph 运行时编排语言与工具；ONNX Runtime 承载本地抠图、文本和可选图文推理。数据使用 H2、Flyway、MyBatis Plus，图片可以本地或 S3 存储，Docker 和持续集成支撑交付。识图、生图、天气由后端按需访问，管理接口默认关闭。当前是可控单机架构，尚未证明水平扩展或高并发容量。

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><rect x="0" y="0" width="1280" height="720" fill="#EFF6FF"/>
+<g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<g id="shape-24" data-pptx-object="shape" data-pptx-frame="0 0 1280 720" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:24" data-pptx-semantic-object="shape">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-part="geometry" fill="#F7F8FA" stroke="none"/>
+</g>
+<g id="shape-25" data-pptx-object="shape" data-pptx-frame="64 62 1152 62" data-pptx-prst="rect" data-pptx-source-ref="slide:25" data-pptx-semantic-object="shape">
+<path d="M 64 62 L 1216 62 L 1216 124 L 64 124 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="106" font-size="40" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">鱼力无限，以作品接受评审</text></g>
+</g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="64 128 1152 32" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 64 128 L 1216 128 L 1216 160 L 64 160 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="150" font-size="18" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">06 · 四项能力方向 / 不代表成员人数</text></g>
+<g id="shape-4" data-pptx-object="shape" data-pptx-frame="64 212 48 48" data-pptx-prst="ellipse" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 88.0 212 A 24.0 24.0 0 1 1 88.0 260 A 24.0 24.0 0 1 1 88.0 212 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="64 212 48 48" data-pptx-prst="rect" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape">
+<path d="M 64 212 L 112 212 L 112 260 L 64 260 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="88.0" y="244" font-size="22" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="middle" data-pptx-text-baseline="metrics-v1" xml:space="preserve">1</text></g>
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="64 292 264 42" data-pptx-prst="rect" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 64 292 L 328 292 L 328 334 L 64 334 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="318.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">前端开发</text></g>
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="64 356 264 84" data-pptx-prst="rect" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 64 356 L 328 356 L 328 440 L 64 440 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="379.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">响应式网页<tspan x="64" dy="36">交互与组合画布</tspan></text></g>
+<g id="shape-8" data-pptx-object="shape" data-pptx-frame="352 212 48 48" data-pptx-prst="ellipse" data-pptx-source-ref="slide:8" data-pptx-semantic-object="shape">
+<path d="M 376.0 212 A 24.0 24.0 0 1 1 376.0 260 A 24.0 24.0 0 1 1 376.0 212 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-9" data-pptx-object="shape" data-pptx-frame="352 212 48 48" data-pptx-prst="rect" data-pptx-source-ref="slide:9" data-pptx-semantic-object="shape">
+<path d="M 352 212 L 400 212 L 400 260 L 352 260 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="376.0" y="244" font-size="22" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="middle" data-pptx-text-baseline="metrics-v1" xml:space="preserve">2</text></g>
+<g id="shape-10" data-pptx-object="shape" data-pptx-frame="352 292 264 42" data-pptx-prst="rect" data-pptx-source-ref="slide:10" data-pptx-semantic-object="shape">
+<path d="M 352 292 L 616 292 L 616 334 L 352 334 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="352" y="318.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">后端架构</text></g>
+<g id="shape-11" data-pptx-object="shape" data-pptx-frame="352 356 264 84" data-pptx-prst="rect" data-pptx-source-ref="slide:11" data-pptx-semantic-object="shape">
+<path d="M 352 356 L 616 356 L 616 440 L 352 440 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="352" y="379.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">API · 权限 · 存储<tspan x="352" dy="36">持久任务与调度</tspan></text></g>
+<g id="shape-12" data-pptx-object="shape" data-pptx-frame="640 212 48 48" data-pptx-prst="ellipse" data-pptx-source-ref="slide:12" data-pptx-semantic-object="shape">
+<path d="M 664.0 212 A 24.0 24.0 0 1 1 664.0 260 A 24.0 24.0 0 1 1 664.0 212 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="640 212 48 48" data-pptx-prst="rect" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 640 212 L 688 212 L 688 260 L 640 260 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="664.0" y="244" font-size="22" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="middle" data-pptx-text-baseline="metrics-v1" xml:space="preserve">3</text></g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="640 292 264 42" data-pptx-prst="rect" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 640 292 L 904 292 L 904 334 L 640 334 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="640" y="318.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">算法与图像处理</text></g>
+<g id="shape-15" data-pptx-object="shape" data-pptx-frame="640 356 264 84" data-pptx-prst="rect" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 640 356 L 904 356 L 904 440 L 640 440 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="640" y="379.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">本地检索与抠图<tspan x="640" dy="36">规则推荐与解释</tspan></text></g>
+<g id="shape-16" data-pptx-object="shape" data-pptx-frame="928 212 48 48" data-pptx-prst="ellipse" data-pptx-source-ref="slide:16" data-pptx-semantic-object="shape">
+<path d="M 952.0 212 A 24.0 24.0 0 1 1 952.0 260 A 24.0 24.0 0 1 1 952.0 212 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-17" data-pptx-object="shape" data-pptx-frame="928 212 48 48" data-pptx-prst="rect" data-pptx-source-ref="slide:17" data-pptx-semantic-object="shape">
+<path d="M 928 212 L 976 212 L 976 260 L 928 260 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="952.0" y="244" font-size="22" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="middle" data-pptx-text-baseline="metrics-v1" xml:space="preserve">4</text></g>
+<g id="shape-18" data-pptx-object="shape" data-pptx-frame="928 292 264 42" data-pptx-prst="rect" data-pptx-source-ref="slide:18" data-pptx-semantic-object="shape">
+<path d="M 928 292 L 1192 292 L 1192 334 L 928 334 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="928" y="318.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">产品与设计</text></g>
+<g id="shape-19" data-pptx-object="shape" data-pptx-frame="928 356 264 84" data-pptx-prst="rect" data-pptx-source-ref="slide:19" data-pptx-semantic-object="shape">
+<path d="M 928 356 L 1192 356 L 1192 440 L 928 440 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="928" y="379.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">需求与交互<tspan x="928" dy="36">视觉与项目文档</tspan></text></g>
+<g id="shape-21" data-pptx-object="shape" data-pptx-frame="64 486 1152 34" data-pptx-prst="rect" data-pptx-source-ref="slide:21" data-pptx-semantic-object="shape">
+<path d="M 64 486 L 1216 486 L 1216 520 L 64 520 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="508.0" font-size="20" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">团队起点与作品证据</text></g>
+<g id="shape-22" data-pptx-object="shape" data-pptx-frame="64 536 1152 56" data-pptx-prst="rect" data-pptx-source-ref="slide:22" data-pptx-semantic-object="shape">
+<path d="M 64 536 L 1216 536 L 1216 592 L 64 592 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="573.4" font-size="34" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">全新团队，第一次参加比赛。</text></g>
+<g id="shape-23" data-pptx-object="shape" data-pptx-frame="64 612 1152 32" data-pptx-prst="rect" data-pptx-source-ref="slide:23" data-pptx-semantic-object="shape">
+<path d="M 64 612 L 1216 612 L 1216 644 L 64 644 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="635.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">暂无过往竞赛奖项；以产品闭环、算法依据和工程交付展示实力。</text></g>
+<g id="shape-46" data-pptx-object="group" data-pptx-frame="63.44 672 1152.56 32.23" data-pptx-source-ref="slide:46">
+<g id="shape-43" data-pptx-object="shape" data-pptx-frame="64 672 1152 1" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:43" data-pptx-semantic-object="shape">
+<path d="M 64 672 L 1216 672" data-pptx-part="geometry" fill="none" stroke-width="1" stroke="#E8E9EE"/>
+</g>
+<g id="shape-44" data-pptx-object="shape" data-pptx-frame="63.44 682.67 232.33 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:44" data-pptx-semantic-object="shape">
+<path d="M 63.44 682.67 L 295.77 682.67 L 295.77 704.23 L 63.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="63.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text>
+</g>
+<g id="shape-45" data-pptx-object="shape" data-pptx-frame="1183.44 682.67 17.44 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:45" data-pptx-semantic-object="shape">
+<path d="M 1183.44 682.67 L 1200.88 682.67 L 1200.88 704.23 L 1183.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="1183.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">16</text>
+</g>
+</g></svg>

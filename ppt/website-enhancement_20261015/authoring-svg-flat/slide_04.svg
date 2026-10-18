@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F5C45"/></marker><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A5A5A5"/><stop offset="1" stop-color="#8D739E"/></linearGradient></defs><g id="shape-5" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:5">
+<path fill="#F7F8FA" id="page-field-1" d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-role="background"/><g id="shape-2" data-pptx-object="shape" data-pptx-frame="63.28 57.67 122.4 27.72" data-pptx-prst="rect" data-pptx-source-ref="slide:2" data-pptx-semantic-object="shape">
+<path d="M 63.28 57.67 L 185.68 57.67 L 185.68 85.39 L 63.28 85.39 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="63.28" y="75" text-anchor="start" xml:space="preserve" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-size="18" fill="#1F5C45" data-pptx-text-baseline="metrics-v1">THE REFRAME</text>
+</g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="62.08 105.67 432 58.13" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 62.08 105.67 L 494.08 105.67 L 494.08 163.8 L 62.08 163.8 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="62.08" y="152.33333333" text-anchor="start" xml:space="preserve" font-size="42" fill="#25262B" data-pptx-text-baseline="metrics-v1">把衣柜变成决策资源。</text>
+</g>
+<g id="shape-4" data-pptx-object="shape" data-pptx-frame="62.96 191.67 553.28 40.04" data-pptx-prst="rect" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 62.96 191.67 L 616.24 191.67 L 616.24 231.71 L 62.96 231.71 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="62.96" y="217" text-anchor="start" xml:space="preserve" font-size="24" fill="#25262B" data-pptx-text-baseline="metrics-v1">从真实衣物出发，让每次选择都有依据。</text>
+</g>
+</g>
+<g id="shape-27" data-pptx-object="group" data-pptx-frame="62.09 338.87 1143.96 191.13" data-pptx-source-ref="slide:27">
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="142.53 348.87 976 0" data-pptx-prst="line" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 142.53 348.87 L 1118.53 348.87" fill="none" stroke-width="2" stroke="#1F5C45" marker-end="url(#marrow1)" data-pptx-part="geometry"/>
+
+</g>
+<g id="shape-11" data-pptx-object="group" data-pptx-frame="62.09 338.87 129.44 191.13" data-pptx-source-ref="slide:11">
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="133.53 338.87 20 20" data-pptx-prst="ellipse" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 133.53 348.87 A 10 10 0 0 1 143.53 338.87 A 10 10 0 0 1 153.53 348.87 A 10 10 0 0 1 143.53 358.87 A 10 10 0 0 1 133.53 348.87 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/>
+
+</g>
+<g id="shape-8" data-pptx-object="shape" data-pptx-frame="62.09 379.53 83.52 55.44" data-pptx-prst="rect" data-pptx-source-ref="slide:8" data-pptx-semantic-object="shape">
+<path d="M 62.09 379.53 L 145.61 379.53 L 145.61 434.97 L 62.09 434.97 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="62.09" y="414.2" text-anchor="start" xml:space="preserve" font-size="36" fill="#25262B" data-pptx-text-baseline="metrics-v1">拥有</text>
+</g>
+<g id="shape-9" data-pptx-object="shape" data-pptx-frame="62.49 447.53 112.32 40.04" data-pptx-prst="rect" data-pptx-source-ref="slide:9" data-pptx-semantic-object="shape">
+<path d="M 62.49 447.53 L 174.81 447.53 L 174.81 487.57 L 62.49 487.57 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="62.49" y="472.86666667" text-anchor="start" xml:space="preserve" font-size="26" fill="#25262B" data-pptx-text-baseline="metrics-v1">真实衣物</text>
+</g>
+<g id="shape-10" data-pptx-object="shape" data-pptx-frame="62.73 499.2 128.8 30.8" data-pptx-prst="rect" data-pptx-source-ref="slide:10" data-pptx-semantic-object="shape">
+<path d="M 62.73 499.2 L 191.53 499.2 L 191.53 530 L 62.73 530 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="62.73" y="517.86666667" text-anchor="start" xml:space="preserve" font-size="20" fill="#666B76" data-pptx-text-baseline="metrics-v1">库存成为起点</text>
+</g>
+</g>
+<g id="shape-16" data-pptx-object="group" data-pptx-frame="353.09 338.87 150.64 191.13" data-pptx-source-ref="slide:16">
+<g id="shape-12" data-pptx-object="shape" data-pptx-frame="422.53 338.87 20 20" data-pptx-prst="ellipse" data-pptx-source-ref="slide:12" data-pptx-semantic-object="shape">
+<path d="M 422.53 348.87 A 10 10 0 0 1 432.53 338.87 A 10 10 0 0 1 442.53 348.87 A 10 10 0 0 1 432.53 358.87 A 10 10 0 0 1 422.53 348.87 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/>
+
+</g>
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="353.09 379.53 83.52 55.44" data-pptx-prst="rect" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 353.09 379.53 L 436.61 379.53 L 436.61 434.97 L 353.09 434.97 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="353.09" y="414.2" text-anchor="start" xml:space="preserve" font-size="36" fill="#25262B" data-pptx-text-baseline="metrics-v1">理解</text>
+</g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="353.49 447.53 139.88 40.04" data-pptx-prst="rect" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 353.49 447.53 L 493.37 447.53 L 493.37 487.57 L 353.49 487.57 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="353.49" y="472.86666667" text-anchor="start" xml:space="preserve" font-size="26" fill="#25262B" data-pptx-text-baseline="metrics-v1">属性与图像</text>
+</g>
+<g id="shape-15" data-pptx-object="shape" data-pptx-frame="353.73 499.2 150 30.8" data-pptx-prst="rect" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 353.73 499.2 L 503.73 499.2 L 503.73 530 L 353.73 530 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="353.73" y="517.86666667" text-anchor="start" xml:space="preserve" font-size="20" fill="#666B76" data-pptx-text-baseline="metrics-v1">知道它适合什么</text>
+</g>
+</g>
+<g id="shape-21" data-pptx-object="group" data-pptx-frame="644.09 338.87 222.96 191.13" data-pptx-source-ref="slide:21">
+<g id="shape-17" data-pptx-object="shape" data-pptx-frame="714.53 338.87 20 20" data-pptx-prst="ellipse" data-pptx-source-ref="slide:17" data-pptx-semantic-object="shape">
+<path d="M 714.53 348.87 A 10 10 0 0 1 724.53 338.87 A 10 10 0 0 1 734.53 348.87 A 10 10 0 0 1 724.53 358.87 A 10 10 0 0 1 714.53 348.87 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/>
+
+</g>
+<g id="shape-18" data-pptx-object="shape" data-pptx-frame="644.09 379.53 83.52 55.44" data-pptx-prst="rect" data-pptx-source-ref="slide:18" data-pptx-semantic-object="shape">
+<path d="M 644.09 379.53 L 727.61 379.53 L 727.61 434.97 L 644.09 434.97 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="644.09" y="414.2" text-anchor="start" xml:space="preserve" font-size="36" fill="#25262B" data-pptx-text-baseline="metrics-v1">选择</text>
+</g>
+<g id="shape-19" data-pptx-object="shape" data-pptx-frame="644.49 447.53 222.56 40.04" data-pptx-prst="rect" data-pptx-source-ref="slide:19" data-pptx-semantic-object="shape">
+<path d="M 644.49 447.53 L 867.05 447.53 L 867.05 487.57 L 644.49 487.57 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="644.49" y="472.86666667" text-anchor="start" xml:space="preserve" font-size="26" fill="#25262B" data-pptx-text-baseline="metrics-v1">场景、天气、风格</text>
+</g>
+<g id="shape-20" data-pptx-object="shape" data-pptx-frame="644.73 499.2 128.8 30.8" data-pptx-prst="rect" data-pptx-source-ref="slide:20" data-pptx-semantic-object="shape">
+<path d="M 644.73 499.2 L 773.53 499.2 L 773.53 530 L 644.73 530 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="644.73" y="517.86666667" text-anchor="start" xml:space="preserve" font-size="20" fill="#666B76" data-pptx-text-baseline="metrics-v1">每次都有依据</text>
+</g>
+</g>
+<g id="shape-26" data-pptx-object="group" data-pptx-frame="983.09 338.87 222.96 191.13" data-pptx-source-ref="slide:26">
+<g id="shape-22" data-pptx-object="shape" data-pptx-frame="1076.53 338.87 20 20" data-pptx-prst="ellipse" data-pptx-source-ref="slide:22" data-pptx-semantic-object="shape">
+<path d="M 1076.53 348.87 A 10 10 0 0 1 1086.53 338.87 A 10 10 0 0 1 1096.53 348.87 A 10 10 0 0 1 1086.53 358.87 A 10 10 0 0 1 1076.53 348.87 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/>
+
+</g>
+<g id="shape-23" data-pptx-object="shape" data-pptx-frame="983.09 379.53 83.52 55.44" data-pptx-prst="rect" data-pptx-source-ref="slide:23" data-pptx-semantic-object="shape">
+<path d="M 983.09 379.53 L 1066.61 379.53 L 1066.61 434.97 L 983.09 434.97 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="983.09" y="414.2" text-anchor="start" xml:space="preserve" font-size="36" fill="#25262B" data-pptx-text-baseline="metrics-v1">反馈</text>
+</g>
+<g id="shape-24" data-pptx-object="shape" data-pptx-frame="983.49 447.53 222.56 40.04" data-pptx-prst="rect" data-pptx-source-ref="slide:24" data-pptx-semantic-object="shape">
+<path d="M 983.49 447.53 L 1206.05 447.53 L 1206.05 487.57 L 983.49 487.57 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="983.49" y="472.86666667" text-anchor="start" xml:space="preserve" font-size="26" fill="#25262B" data-pptx-text-baseline="metrics-v1">换件、喜好、恢复</text>
+</g>
+<g id="shape-25" data-pptx-object="shape" data-pptx-frame="983.73 499.2 150 30.8" data-pptx-prst="rect" data-pptx-source-ref="slide:25" data-pptx-semantic-object="shape">
+<path d="M 983.73 499.2 L 1133.73 499.2 L 1133.73 530 L 983.73 530 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="983.73" y="517.86666667" text-anchor="start" xml:space="preserve" font-size="20" fill="#666B76" data-pptx-text-baseline="metrics-v1">影响下一次选择</text>
+</g>
+</g>
+</g>
+<g id="shape-29" data-pptx-object="group" data-pptx-frame="62.96 572.67 718.64 40.04" data-pptx-source-ref="slide:29">
+<g id="shape-28" data-pptx-object="shape" data-pptx-frame="62.96 572.67 718.64 40.04" data-pptx-prst="rect" data-pptx-source-ref="slide:28" data-pptx-semantic-object="shape">
+<path d="M 62.96 572.67 L 781.6 572.67 L 781.6 612.71 L 62.96 612.71 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="62.96" y="598" text-anchor="start" xml:space="preserve" font-size="24" fill="#1F5C45" data-pptx-text-baseline="metrics-v1">让更多已有衣物进入日常；效果仍需用户验证。</text>
+</g>
+</g>
+<g id="shape-32" data-pptx-object="group" data-pptx-frame="63.36 664 1133.94 24.64" data-pptx-source-ref="slide:32">
+<g id="shape-30" data-pptx-object="shape" data-pptx-frame="63.36 664 260 24.64" data-pptx-prst="rect" data-pptx-source-ref="slide:30" data-pptx-semantic-object="shape">
+<path d="M 63.36 664 L 151.98 664 L 151.98 688.64 L 63.36 688.64 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="63.36" y="680" text-anchor="start" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">鱼力无限 / 项目立意</text>
+</g>
+<g id="shape-31" data-pptx-object="shape" data-pptx-frame="1177.36 664 19.94 24.64" data-pptx-prst="rect" data-pptx-source-ref="slide:31" data-pptx-semantic-object="shape">
+<path d="M 1177.36 664 L 1197.3 664 L 1197.3 688.64 L 1177.36 688.64 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="1177.36" y="680" text-anchor="start" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1">04</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#F5F1E8" />
+<g id="title" data-pptx-bounds="64 44 1152 158" fill="#302238"><text x="64" y="72" font-size="18">EVIDENCE / 历史模拟实验</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">让“总穿那几件”成为可测问题。</text><text x="64" y="192" font-size="20" fill="#6B6071">167 件仿内测衣柜 · 固定意图 · 连续模拟 28 天</text></g>
+<g id="coverage" data-pptx-bounds="64 251 548 301" fill="#302238"><text x="64" y="288">进入推荐的衣物</text><text x="64" y="405" font-size="88">49</text><text x="218" y="393" font-size="56" fill="#6B6071">→</text><text x="315" y="405" font-size="88" font-weight="bold">97</text><rect x="64" y="445" width="494" height="55" fill="#D8F36A" /><text x="87" y="481">更多库存，被重新看见。</text><text x="64" y="540" font-size="20" fill="#6B6071">单位：件；统计推荐曝光，非实际穿着。</text></g>
+<g id="concentration" data-pptx-bounds="671 251 545 301" fill="#302238"><text x="671" y="288">单品最高占比</text><text x="671" y="405" font-size="88">20%</text><text x="893" y="393" font-size="56" fill="#6B6071">→</text><text x="985" y="405" font-size="88" font-weight="bold">8%</text><line x1="671" y1="462" x2="1216" y2="462" stroke="#C7BECC" /><text x="671" y="509">避免过度集中在同一件。</text></g>
+<g id="qualifier" data-pptx-bounds="64 578 1152 57" fill="#6B6071" font-size="20"><text x="64" y="610">支持曝光覆盖改善；不等同真实穿着效果，也不代表所有公平指标都改善。</text></g>
+<g id="footer" data-pptx-bounds="64 649 1152 43" fill="#6B6071" font-size="16"><text x="64" y="676">来源：2026-10-10 reports/recommend-aesthetic/README.md · 历史记录，非本轮重测</text><text x="1178" y="676">10</text></g>
+</svg>

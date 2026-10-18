@@ -1,0 +1,37 @@
+[
+  {
+    "source": "/Users/yaopinxin/project/smart-closet-server/competition/01-项目介绍.md",
+    "copy": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/sources/01-项目介绍.md",
+    "sha256": "b03d7e8a46eef7bb733023b60f14130eddde5479414cdb5f7457a0f69f65a227"
+  },
+  {
+    "source": "/Users/yaopinxin/project/smart-closet-server/competition/02-创新立意与竞品对比.md",
+    "copy": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/sources/02-创新立意与竞品对比.md",
+    "sha256": "34875092f30fb71a66c6fea6d844dac00eee1c1d91086d2c581bda07ee68626d"
+  },
+  {
+    "source": "/Users/yaopinxin/project/smart-closet-server/competition/03-完整技术栈与选型.md",
+    "copy": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/sources/03-完整技术栈与选型.md",
+    "sha256": "1e20604489e87b38d38971209b526986ec310358c8e92a229f22ed70d89c2616"
+  },
+  {
+    "source": "/Users/yaopinxin/project/smart-closet-server/competition/04-核心算法与实现依据.md",
+    "copy": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/sources/04-核心算法与实现依据.md",
+    "sha256": "ee05a48d551b053fbc576cb81f04fbc34bb8733f376b5d4b482a6c1ec293ad34"
+  },
+  {
+    "source": "/Users/yaopinxin/project/smart-closet-server/competition/05-核心功能与系统设计.md",
+    "copy": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/sources/05-核心功能与系统设计.md",
+    "sha256": "1859d967d9eff0763b8e507c4d37143fa5ba459bc26e5b316999d7c202b12df8"
+  },
+  {
+    "source": "/Users/yaopinxin/project/smart-closet-server/competition/06-答辩与演示建议.md",
+    "copy": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/sources/06-答辩与演示建议.md",
+    "sha256": "1cb1041444778975c6e132615ff8b1b3e0516f0f54a540e62edee3a45ead1086"
+  },
+  {
+    "source": "/Users/yaopinxin/project/smart-closet-server/competition/07-扫描结论与证据边界.md",
+    "copy": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/sources/07-扫描结论与证据边界.md",
+    "sha256": "bb793f2f5c6046d0df9c3e3afd5dc5f99c3ac6344e1e92e9551fea4b294028de"
+  }
+]

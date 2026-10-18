@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="none" stroke="#1F5C45"/></marker></defs><g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<path fill="#F7F8FA" id="page-field-1" d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-role="background"/>
+<g id="shape-2-foreground" data-pptx-object="shape" data-pptx-frame="93.33 60 933.33 53.33" data-pptx-prst="rect" data-pptx-semantic-object="shape"><path d="M 93.33 60 L 1026.67 60 L 1026.67 113.33 L 93.33 113.33 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="93.33" y="102" text-anchor="start" xml:space="preserve" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-size="40" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">推荐有依据，变化也可计算</text>
+</g></g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="96 122.67 533.33 26.67" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 96 122.67 L 629.33 122.67 L 629.33 149.33 L 96 149.33 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="96" y="142.66666667" text-anchor="start" xml:space="preserve" font-size="16" fill="#1F5C45" data-pptx-text-baseline="metrics-v1">03 · 核心算法 / 计算推荐不依赖远程大模型决策</text>
+</g>
+<g id="shape-4" data-pptx-object="shape" data-pptx-frame="93.33 220 333.33 280" data-pptx-prst="roundRect" data-pptx-av-adj="val 9523" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 93.33 246.66 A 26.66 26.66 0 0 1 120 220 L 400 220 A 26.66 26.66 0 0 1 426.67 246.66 L 426.67 473.34 A 26.66 26.66 0 0 1 400 500 L 120 500 A 26.66 26.66 0 0 1 93.33 473.34 Z" fill="#FFFFFF" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="120 240 64 64" data-pptx-prst="ellipse" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape">
+<path d="M 120 272 A 32 32 0 0 1 152 240 A 32 32 0 0 1 184 272 A 32 32 0 0 1 152 304 A 32 32 0 0 1 120 272 Z" fill="#1F5C45" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g>
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="120 256 64 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 120 256 L 184 256 L 184 290.67 L 120 290.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="152" y="281.33333333" text-anchor="middle" xml:space="preserve" font-size="21.33" fill="#FFFFFF" font-weight="bold" data-pptx-text-baseline="metrics-v1">1</text>
+</g>
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="200 245.33 200 37.33" data-pptx-prst="rect" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 200 245.33 L 400 245.33 L 400 282.67 L 200 282.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="200" y="272.33333333" text-anchor="start" xml:space="preserve" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-size="22.67" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">混合召回</text>
+</g>
+<g id="shape-8" data-pptx-object="shape" data-pptx-frame="120 320 280 80" data-pptx-prst="rect" data-pptx-source-ref="slide:8" data-pptx-semantic-object="shape">
+<path d="M 120 320 L 400 320 L 400 400 L 120 400 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="120" y="340.9" text-anchor="start" xml:space="preserve" font-size="19" fill="#666B76" data-pptx-text-baseline="metrics-v1">字段与关键词先约束，<tspan x="120" dy="28.5">BGE / 可选 CLIP 补充相关性。</tspan></text>
+</g>
+<g id="shape-9" data-pptx-object="connector" data-pptx-frame="433.34 359.33 40 1.33" data-pptx-prst="straightConnector1" transform="rotate(-1.90915 453.34 360)" data-pptx-source-ref="slide:9" data-pptx-semantic-object="shape">
+<path d="M 433.34 359.33 L 473.34 360.67" fill="#E8E9EE" stroke-width="2.66667" stroke-linecap="butt" stroke="#1F5C45" stroke-linejoin="round" marker-end="url(#marrow1)" data-pptx-part="geometry"/>
+
+</g>
+<g id="shape-10" data-pptx-object="shape" data-pptx-frame="486.67 220 333.33 280" data-pptx-prst="roundRect" data-pptx-av-adj="val 9523" data-pptx-source-ref="slide:10" data-pptx-semantic-object="shape">
+<path d="M 486.67 246.66 A 26.66 26.66 0 0 1 513.33 220 L 793.34 220 A 26.66 26.66 0 0 1 820 246.66 L 820 473.34 A 26.66 26.66 0 0 1 793.34 500 L 513.33 500 A 26.66 26.66 0 0 1 486.67 473.34 Z" fill="#FFFFFF" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g>
+<g id="shape-11" data-pptx-object="shape" data-pptx-frame="513.33 240 64 64" data-pptx-prst="ellipse" data-pptx-source-ref="slide:11" data-pptx-semantic-object="shape">
+<path d="M 513.33 272 A 32 32 0 0 1 545.33 240 A 32 32 0 0 1 577.33 272 A 32 32 0 0 1 545.33 304 A 32 32 0 0 1 513.33 272 Z" fill="#1F5C45" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g>
+<g id="shape-12" data-pptx-object="shape" data-pptx-frame="513.33 256 64 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:12" data-pptx-semantic-object="shape">
+<path d="M 513.33 256 L 577.33 256 L 577.33 290.67 L 513.33 290.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="545.33" y="281.33333333" text-anchor="middle" xml:space="preserve" font-size="21.33" fill="#FFFFFF" font-weight="bold" data-pptx-text-baseline="metrics-v1">2</text>
+</g>
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="593.33 245.33 213.33 37.33" data-pptx-prst="rect" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 593.33 245.33 L 806.67 245.33 L 806.67 282.67 L 593.33 282.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="593.33" y="272.33333333" text-anchor="start" xml:space="preserve" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-size="22.67" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">规则与风格</text>
+</g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="513.33 320 280 80" data-pptx-prst="rect" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 513.33 320 L 793.33 320 L 793.33 400 L 513.33 400 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="513.33" y="340.9" text-anchor="start" xml:space="preserve" font-size="19" fill="#666B76" data-pptx-text-baseline="metrics-v1">11 维当前评分、18 风格画像；<tspan x="513.33" dy="28.5">底线约束 + 可解释软评分。</tspan></text>
+</g>
+<g id="shape-15" data-pptx-object="connector" data-pptx-frame="826.68 359.33 40 1.33" data-pptx-prst="straightConnector1" transform="rotate(-1.90915 846.68 360)" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 826.68 359.33 L 866.68 360.67" fill="#E8E9EE" stroke-width="2.66667" stroke-linecap="butt" stroke="#1F5C45" stroke-linejoin="round" marker-end="url(#marrow1)" data-pptx-part="geometry"/>
+
+</g>
+<g id="shape-16" data-pptx-object="shape" data-pptx-frame="880 220 306.67 280" data-pptx-prst="roundRect" data-pptx-av-adj="val 9523" data-pptx-source-ref="slide:16" data-pptx-semantic-object="shape">
+<path d="M 880 246.66 A 26.66 26.66 0 0 1 906.66 220 L 1160 220 A 26.66 26.66 0 0 1 1186.67 246.66 L 1186.67 473.34 A 26.66 26.66 0 0 1 1160 500 L 906.66 500 A 26.66 26.66 0 0 1 880 473.34 Z" fill="#FFFFFF" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g>
+<g id="shape-17" data-pptx-object="shape" data-pptx-frame="906.67 240 64 64" data-pptx-prst="ellipse" data-pptx-source-ref="slide:17" data-pptx-semantic-object="shape">
+<path d="M 906.67 272 A 32 32 0 0 1 938.67 240 A 32 32 0 0 1 970.67 272 A 32 32 0 0 1 938.67 304 A 32 32 0 0 1 906.67 272 Z" fill="#EEF6F1" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g>
+<g id="shape-18" data-pptx-object="shape" data-pptx-frame="906.67 256 64 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:18" data-pptx-semantic-object="shape">
+<path d="M 906.67 256 L 970.67 256 L 970.67 290.67 L 906.67 290.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="938.67" y="281.33333333" text-anchor="middle" xml:space="preserve" font-size="21.33" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">3</text>
+</g>
+<g id="shape-19" data-pptx-object="shape" data-pptx-frame="986.67 245.33 186.67 37.33" data-pptx-prst="rect" data-pptx-source-ref="slide:19" data-pptx-semantic-object="shape">
+<path d="M 986.67 245.33 L 1173.33 245.33 L 1173.33 282.67 L 986.67 282.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="986.67" y="272.33333333" text-anchor="start" xml:space="preserve" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-size="22.67" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">曝光与反馈</text>
+</g>
+<g id="shape-20" data-pptx-object="shape" data-pptx-frame="906.67 320 266.67 80" data-pptx-prst="rect" data-pptx-source-ref="slide:20" data-pptx-semantic-object="shape">
+<path d="M 906.67 320 L 1173.33 320 L 1173.33 400 L 906.67 400 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="906.67" y="340.9" text-anchor="start" xml:space="preserve" font-size="19" fill="#666B76" data-pptx-text-baseline="metrics-v1">动态候选、曝光均衡与重排；<tspan x="906.67" dy="28.5">时间衰减，让偏好可恢复。</tspan></text>
+</g>
+<g id="shape-21" data-pptx-object="shape" data-pptx-frame="93.33 546.67 1066.67 37.33" data-pptx-prst="rect" data-pptx-source-ref="slide:21" data-pptx-semantic-object="shape">
+<path d="M 93.33 546.67 L 1160 546.67 L 1160 584 L 93.33 584 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="93.33" y="572.33333333" text-anchor="start" xml:space="preserve" font-size="20" fill="#1F5C45" font-weight="bold" data-pptx-text-baseline="metrics-v1">复用预训练模型；项目贡献在领域特征、规则、重排和业务执行协议。</text>
+</g><g id="yuda-footer" data-pptx-bounds="64 671 1152 32" data-pptx-frame="64 671 1152 32"><line x1="64" y1="672" x2="1216" y2="672" stroke="#E8E9EE" stroke-width="1"/><text x="64" y="696" font-size="14" fill="#666B76">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text><text x="1184" y="696" font-size="14" fill="#666B76">10</text></g></svg>

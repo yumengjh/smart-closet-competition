@@ -1,0 +1,1 @@
+鱼搭是响应式 Web 网站，前端采用 Vue、TypeScript、Ant Design Vue 和 Konva，承载衣柜、组合台与执行回执。Java 二十一、Spring Boot 和 Security 掌握 API、数据归属、规则、额度与任务；ONNX 运行本地抠图、文本和可选图文模型，LangGraph 编排对话，统一执行器按资源池调度。H2、Flyway、MyBatis Plus 和本地或 S3 图片组成持久层，Docker 与持续集成支撑交付，管理接口默认关闭。网页内查看任务和通知，PWA 缓存应用外壳；当前是可控单机架构，不承诺未经压测的水平扩展或浏览器后台推送。

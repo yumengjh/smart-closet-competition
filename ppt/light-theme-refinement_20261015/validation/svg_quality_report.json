@@ -1,0 +1,574 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "c61ac9517afa2cb89300bdd035ca44f133daa5737ffec737f5ce0eeb0c097519",
+    "file_count": 18,
+    "files": [
+      {
+        "file": "authoring-svg-flat/slide_01.svg",
+        "sha256": "faf8f4444eef094d8749c3bcfa717d915773e407d67b58809440f5a0564631a9"
+      },
+      {
+        "file": "authoring-svg-flat/slide_02.svg",
+        "sha256": "3875c401d47bcbec04ba0d6dce9b835c87d5c9b735466fe5a70227d35845016b"
+      },
+      {
+        "file": "authoring-svg-flat/slide_03.svg",
+        "sha256": "3893bd588946ed86868323aef7728d75c86f75314094f7395e0c4940a996bf69"
+      },
+      {
+        "file": "authoring-svg-flat/slide_04.svg",
+        "sha256": "53e85c44b5bcf080bc45e459e0a3002fef56c31a371df0b49cfb3a80db617798"
+      },
+      {
+        "file": "authoring-svg-flat/slide_05.svg",
+        "sha256": "6e43a6bd0e84233c98c6b5be048891be4618bb8c04e70af8f694b774fcc248c9"
+      },
+      {
+        "file": "authoring-svg-flat/slide_06.svg",
+        "sha256": "4acec0eab8dedfa16cec36d8c9d2db839f7c4bd0e8a7368cc138e34d36faea75"
+      },
+      {
+        "file": "authoring-svg-flat/slide_07.svg",
+        "sha256": "2afec0592a4ca73ab3e3d863e44803030ec1eee9c4eb54738531c83b74aee9c4"
+      },
+      {
+        "file": "authoring-svg-flat/slide_08.svg",
+        "sha256": "ed9574e77560a12ba12c8c09fd7a3135d343a3e1fb2bfba49d074dfb15ad0909"
+      },
+      {
+        "file": "authoring-svg-flat/slide_09.svg",
+        "sha256": "c34897c24012ef275bcb0bf786adf6f6a89e03e1a2345219d0118909b4448cc4"
+      },
+      {
+        "file": "authoring-svg-flat/slide_10.svg",
+        "sha256": "f56edc80fec67934e399428841ddedc994d554f1a061093f7d2e01def48729f6"
+      },
+      {
+        "file": "authoring-svg-flat/slide_11.svg",
+        "sha256": "87c487ee5ea906bd8e317df1b548a762de1c8e8e6ca8d503cb1fb4bd4723c8ff"
+      },
+      {
+        "file": "authoring-svg-flat/slide_12.svg",
+        "sha256": "2d310b450f4eef786259feb45123025c80b6dc9894e256622e12a9f59149c2db"
+      },
+      {
+        "file": "authoring-svg-flat/slide_13.svg",
+        "sha256": "c8903d026e1fa518db15728d0c3b9e0e8abf6c35ea50f3dcf90fac5388dc360b"
+      },
+      {
+        "file": "authoring-svg-flat/slide_14.svg",
+        "sha256": "5d2ff7f5edb02dd490b8b1bfb198d4e4e362102c90bce020ed3532e047b1b4c6"
+      },
+      {
+        "file": "authoring-svg-flat/slide_15.svg",
+        "sha256": "b60e09821b60d668a0f9ba50c86d683b84b1355a22eef62f098f078e673c0689"
+      },
+      {
+        "file": "authoring-svg-flat/slide_16.svg",
+        "sha256": "18bf2aebcb0ad213578bfed4d07f345438d1e132c8628c51c66da6a26fe02cb5"
+      },
+      {
+        "file": "authoring-svg-flat/slide_17.svg",
+        "sha256": "f4141baa0362c097e5bc2a10adcf68d12d0ba9c173d8abbdd1d68081f61fa700"
+      },
+      {
+        "file": "authoring-svg-flat/slide_18.svg",
+        "sha256": "211af6ac61334e50593c3a6045faef9feae636220156f690c391c568940c103f"
+      }
+    ]
+  },
+  "summary": {
+    "total": 18,
+    "passed": 18,
+    "warnings": 0,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 0,
+      "issues": []
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {},
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 0,
+    "totals": {
+      "text_elements": 0,
+      "image_placements": 0,
+      "icons": 0,
+      "svg_geometry_elements": 0,
+      "preset_shapes": 0,
+      "page_frame_elements": 0,
+      "marker_uses": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 0,
+      "icons": 0,
+      "presets": 0,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 0,
+      "gradient_uses": 0,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "relationship_pages": null,
+    "geometry_elements": {},
+    "preset_names": {},
+    "native_objects": {},
+    "image_page_max_frame_share_range": []
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "slide_01.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_01.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 1,
+        "source_slide": 1,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 6,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "faf8f4444eef094d8749c3bcfa717d915773e407d67b58809440f5a0564631a9"
+    },
+    {
+      "file": "slide_02.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_02.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 2,
+        "source_slide": 2,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 22,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "3875c401d47bcbec04ba0d6dce9b835c87d5c9b735466fe5a70227d35845016b"
+    },
+    {
+      "file": "slide_03.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_03.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 3,
+        "source_slide": 3,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 14,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "3893bd588946ed86868323aef7728d75c86f75314094f7395e0c4940a996bf69"
+    },
+    {
+      "file": "slide_04.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_04.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 4,
+        "source_slide": 4,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 18,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "53e85c44b5bcf080bc45e459e0a3002fef56c31a371df0b49cfb3a80db617798"
+    },
+    {
+      "file": "slide_05.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_05.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 5,
+        "source_slide": 5,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 14,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "6e43a6bd0e84233c98c6b5be048891be4618bb8c04e70af8f694b774fcc248c9"
+    },
+    {
+      "file": "slide_06.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_06.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 6,
+        "source_slide": 6,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 23,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "4acec0eab8dedfa16cec36d8c9d2db839f7c4bd0e8a7368cc138e34d36faea75"
+    },
+    {
+      "file": "slide_07.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_07.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 7,
+        "source_slide": 7,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 11,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "2afec0592a4ca73ab3e3d863e44803030ec1eee9c4eb54738531c83b74aee9c4"
+    },
+    {
+      "file": "slide_08.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_08.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 8,
+        "source_slide": 8,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 19,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "ed9574e77560a12ba12c8c09fd7a3135d343a3e1fb2bfba49d074dfb15ad0909"
+    },
+    {
+      "file": "slide_09.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_09.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 9,
+        "source_slide": 9,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 14,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "c34897c24012ef275bcb0bf786adf6f6a89e03e1a2345219d0118909b4448cc4"
+    },
+    {
+      "file": "slide_10.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_10.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 10,
+        "source_slide": 10,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 14,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "f56edc80fec67934e399428841ddedc994d554f1a061093f7d2e01def48729f6"
+    },
+    {
+      "file": "slide_11.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_11.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 11,
+        "source_slide": 11,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 17,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "87c487ee5ea906bd8e317df1b548a762de1c8e8e6ca8d503cb1fb4bd4723c8ff"
+    },
+    {
+      "file": "slide_12.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_12.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 12,
+        "source_slide": 12,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 17,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "2d310b450f4eef786259feb45123025c80b6dc9894e256622e12a9f59149c2db"
+    },
+    {
+      "file": "slide_13.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_13.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 13,
+        "source_slide": 13,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 15,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "c8903d026e1fa518db15728d0c3b9e0e8abf6c35ea50f3dcf90fac5388dc360b"
+    },
+    {
+      "file": "slide_14.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_14.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 14,
+        "source_slide": 14,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 17,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "5d2ff7f5edb02dd490b8b1bfb198d4e4e362102c90bce020ed3532e047b1b4c6"
+    },
+    {
+      "file": "slide_15.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_15.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 15,
+        "source_slide": 15,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 19,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "b60e09821b60d668a0f9ba50c86d683b84b1355a22eef62f098f078e673c0689"
+    },
+    {
+      "file": "slide_16.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_16.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 16,
+        "source_slide": 16,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 19,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "18bf2aebcb0ad213578bfed4d07f345438d1e132c8628c51c66da6a26fe02cb5"
+    },
+    {
+      "file": "slide_17.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_17.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 17,
+        "source_slide": 17,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 13,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "f4141baa0362c097e5bc2a10adcf68d12d0ba9c173d8abbdd1d68081f61fa700"
+    },
+    {
+      "file": "slide_18.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/authoring-svg-flat/slide_18.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "output_page": 18,
+        "source_slide": 18,
+        "viewbox": "0 0 1280 720",
+        "edited_text_elements": 5,
+        "fonts": [
+          "Microsoft YaHei, Arial, PingFang SC, sans-serif"
+        ],
+        "roundtrip_text_calibration": {
+          "factor": 0.0,
+          "measured_unchanged": 0,
+          "positive_unchanged": 0
+        }
+      },
+      "passed": true,
+      "source_sha256": "211af6ac61334e50593c3a6045faef9feae636220156f690c391c568940c103f"
+    }
+  ]
+}

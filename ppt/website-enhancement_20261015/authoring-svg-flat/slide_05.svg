@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<path fill="#F7F8FA" id="page-field-0" d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-role="background"/>
+<g id="shape-2-foreground" data-pptx-object="shape" data-pptx-frame="0 80 1280 32" data-pptx-prst="rect" data-pptx-semantic-object="shape"><path d="M 0 80 L 1280 80 L 1280 112 L 0 112 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="640" y="103" text-anchor="middle" xml:space="preserve" font-size="17.33" fill="#1F5C45" font-weight="bold" data-pptx-text-baseline="metrics-v1"><tspan>02</tspan><tspan>·</tspan><tspan>产品与核心功能</tspan></text>
+</g></g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="160 160 960 173.33" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 160 160 L 1120 160 L 1120 333.33 L 160 333.33 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="640" y="208.4" text-anchor="middle" xml:space="preserve" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-size="44" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">拍照入柜，<tspan x="640" dy="66.0">在网站里管理自己的衣橱</tspan></text>
+</g>
+<g id="shape-4" data-pptx-object="picture" data-pptx-frame="200 340 880 300" data-pptx-source-ref="slide:4">
+<image href="../images/web-wardrobe.png" x="200.0" y="340.0" width="880.0" height="300.0" preserveAspectRatio="xMidYMid slice"/></g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="0 666.67 1280 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape" transform="translate(0 -35)">
+<path d="M 0 666.67 L 1280 666.67 L 1280 701.33 L 0 701.33 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="640" y="691.33333333" text-anchor="middle" xml:space="preserve" font-size="20" fill="#666B76" data-pptx-text-baseline="metrics-v1">批量上传 → 后台处理 → 核对入柜 → 进入真实衣柜</text>
+</g><g id="yuda-footer" data-pptx-bounds="64 671 1152 32" data-pptx-frame="64 671 1152 32"><line x1="64" y1="672" x2="1216" y2="672" stroke="#E8E9EE" stroke-width="1"/><text x="64" y="696" font-size="14" fill="#666B76">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text><text x="1184" y="696" font-size="14" fill="#666B76">05</text></g></svg>

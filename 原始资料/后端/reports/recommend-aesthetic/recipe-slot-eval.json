@@ -1,0 +1,327 @@
+{
+  "model" : "local-text-cls-v1:69a0b846f4f116b5:45bbac6b:512",
+  "cases" : [ {
+    "topSim" : 0.648,
+    "second" : 0.547,
+    "text" : "白色T恤",
+    "expect" : [ "tee-white" ],
+    "top" : "tee-white",
+    "expectedSim" : 0.648
+  }, {
+    "topSim" : 0.519,
+    "second" : 0.452,
+    "text" : "条纹上衣",
+    "expect" : [ "shirt-stripe" ],
+    "top" : "shirt-stripe",
+    "expectedSim" : 0.519
+  }, {
+    "topSim" : 0.602,
+    "second" : 0.595,
+    "text" : "白色衬衫",
+    "expect" : [ "shirt-office" ],
+    "top" : "shirt-office",
+    "expectedSim" : 0.602
+  }, {
+    "topSim" : 0.592,
+    "second" : 0.548,
+    "text" : "格纹衬衫",
+    "expect" : [ "shirt-check" ],
+    "top" : "shirt-check",
+    "expectedSim" : 0.592
+  }, {
+    "topSim" : 0.582,
+    "second" : 0.512,
+    "text" : "灰色卫衣",
+    "expect" : [ "hoodie-gray" ],
+    "top" : "hoodie-gray",
+    "expectedSim" : 0.582
+  }, {
+    "topSim" : 0.546,
+    "second" : 0.426,
+    "text" : "毛衣",
+    "expect" : [ "sweater-navy" ],
+    "top" : "sweater-navy",
+    "expectedSim" : 0.546
+  }, {
+    "topSim" : 0.549,
+    "second" : 0.508,
+    "text" : "Polo衫",
+    "expect" : [ "polo-navy" ],
+    "top" : "polo-navy",
+    "expectedSim" : 0.549
+  }, {
+    "topSim" : 0.582,
+    "second" : 0.44,
+    "text" : "亚麻衬衫",
+    "expect" : [ "shirt-linen" ],
+    "top" : "shirt-linen",
+    "expectedSim" : 0.582
+  }, {
+    "topSim" : 0.631,
+    "second" : 0.599,
+    "text" : "蓝色牛仔裤",
+    "expect" : [ "jeans-blue" ],
+    "top" : "jeans-blue",
+    "expectedSim" : 0.631
+  }, {
+    "topSim" : 0.651,
+    "second" : 0.526,
+    "text" : "黑色西裤",
+    "expect" : [ "trousers-black" ],
+    "top" : "trousers-black",
+    "expectedSim" : 0.651
+  }, {
+    "topSim" : 0.574,
+    "second" : 0.482,
+    "text" : "阔腿裤",
+    "expect" : [ "pants-linen" ],
+    "top" : "pants-linen",
+    "expectedSim" : 0.574
+  }, {
+    "topSim" : 0.619,
+    "second" : 0.574,
+    "text" : "运动裤",
+    "expect" : [ "joggers-gray" ],
+    "top" : "joggers-gray",
+    "expectedSim" : 0.619
+  }, {
+    "topSim" : 0.588,
+    "second" : 0.547,
+    "text" : "牛仔短裤",
+    "expect" : [ "shorts-denim" ],
+    "top" : "shorts-denim",
+    "expectedSim" : 0.588
+  }, {
+    "topSim" : 0.663,
+    "second" : 0.575,
+    "text" : "百褶半身裙",
+    "expect" : [ "skirt-pleated" ],
+    "top" : "skirt-pleated",
+    "expectedSim" : 0.663
+  }, {
+    "topSim" : 0.707,
+    "second" : 0.555,
+    "text" : "格纹半身裙",
+    "expect" : [ "skirt-plaid" ],
+    "top" : "skirt-plaid",
+    "expectedSim" : 0.707
+  }, {
+    "topSim" : 0.611,
+    "second" : 0.465,
+    "text" : "碎花连衣裙",
+    "expect" : [ "dress-floral" ],
+    "top" : "dress-floral",
+    "expectedSim" : 0.611
+  }, {
+    "topSim" : 0.55,
+    "second" : 0.441,
+    "text" : "小黑裙",
+    "expect" : [ "dress-black" ],
+    "top" : "dress-black",
+    "expectedSim" : 0.55
+  }, {
+    "topSim" : 0.684,
+    "second" : 0.525,
+    "text" : "白色运动鞋",
+    "expect" : [ "sneakers-white" ],
+    "top" : "sneakers-white",
+    "expectedSim" : 0.684
+  }, {
+    "topSim" : 0.6,
+    "second" : 0.491,
+    "text" : "马丁靴",
+    "expect" : [ "boots-brown" ],
+    "top" : "boots-brown",
+    "expectedSim" : 0.6
+  }, {
+    "topSim" : 0.547,
+    "second" : 0.412,
+    "text" : "乐福鞋",
+    "expect" : [ "loafers-black" ],
+    "top" : "loafers-black",
+    "expectedSim" : 0.547
+  }, {
+    "topSim" : 0.561,
+    "second" : 0.476,
+    "text" : "凉鞋",
+    "expect" : [ "sandals-beige" ],
+    "top" : "sandals-beige",
+    "expectedSim" : 0.561
+  }, {
+    "topSim" : 0.53,
+    "second" : 0.424,
+    "text" : "高跟鞋",
+    "expect" : [ "heels-nude" ],
+    "top" : "heels-nude",
+    "expectedSim" : 0.53
+  }, {
+    "topSim" : 0.671,
+    "second" : 0.486,
+    "text" : "米色风衣",
+    "expect" : [ "trench-beige" ],
+    "top" : "trench-beige",
+    "expectedSim" : 0.671
+  }, {
+    "topSim" : 0.633,
+    "second" : 0.626,
+    "text" : "针织开衫",
+    "expect" : [ "cardigan-green", "cardigan-cream" ],
+    "top" : "cardigan-cream",
+    "expectedSim" : 0.633
+  }, {
+    "topSim" : 0.412,
+    "second" : 0.403,
+    "text" : "玛丽珍鞋",
+    "expect" : [ ],
+    "top" : "heels-nude",
+    "expectedSim" : ""
+  }, {
+    "topSim" : 0.439,
+    "second" : 0.41,
+    "text" : "JSK背带裙",
+    "expect" : [ ],
+    "top" : "dress-black",
+    "expectedSim" : ""
+  }, {
+    "topSim" : 0.479,
+    "second" : 0.433,
+    "text" : "纱裙",
+    "expect" : [ ],
+    "top" : "skirt-pleated",
+    "expectedSim" : ""
+  }, {
+    "topSim" : 0.385,
+    "second" : 0.379,
+    "text" : "立领盘扣上衣",
+    "expect" : [ ],
+    "top" : "polo-navy",
+    "expectedSim" : ""
+  }, {
+    "topSim" : 0.477,
+    "second" : 0.474,
+    "text" : "工装裤",
+    "expect" : [ ],
+    "top" : "joggers-gray",
+    "expectedSim" : ""
+  }, {
+    "topSim" : 0.411,
+    "second" : 0.409,
+    "text" : "红色上衣",
+    "expect" : [ ],
+    "top" : "shirt-stripe",
+    "expectedSim" : ""
+  }, {
+    "topSim" : 0.544,
+    "second" : 0.523,
+    "text" : "黄色T恤",
+    "expect" : [ ],
+    "top" : "tee-white",
+    "expectedSim" : ""
+  }, {
+    "topSim" : 0.399,
+    "second" : 0.392,
+    "text" : "铅笔裙",
+    "expect" : [ ],
+    "top" : "skirt-plaid",
+    "expectedSim" : ""
+  }, {
+    "topSim" : 0.4,
+    "second" : 0.384,
+    "text" : "老爹鞋",
+    "expect" : [ ],
+    "top" : "loafers-black",
+    "expectedSim" : ""
+  }, {
+    "topSim" : 0.506,
+    "second" : 0.503,
+    "text" : "吊带连衣裙",
+    "expect" : [ ],
+    "top" : "dress-black",
+    "expectedSim" : ""
+  } ],
+  "sweep" : [ {
+    "high" : 0.5,
+    "negativeFalseFaithful" : "2/10",
+    "positiveFaithful" : "24/24"
+  }, {
+    "high" : 0.51,
+    "negativeFalseFaithful" : "1/10",
+    "positiveFaithful" : "24/24"
+  }, {
+    "high" : 0.52,
+    "negativeFalseFaithful" : "1/10",
+    "positiveFaithful" : "23/24"
+  }, {
+    "high" : 0.53,
+    "negativeFalseFaithful" : "1/10",
+    "positiveFaithful" : "23/24"
+  }, {
+    "high" : 0.54,
+    "negativeFalseFaithful" : "1/10",
+    "positiveFaithful" : "22/24"
+  }, {
+    "high" : 0.55,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "19/24"
+  }, {
+    "high" : 0.56,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "18/24"
+  }, {
+    "high" : 0.57,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "17/24"
+  }, {
+    "high" : 0.58,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "16/24"
+  }, {
+    "high" : 0.59,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "13/24"
+  }, {
+    "high" : 0.6,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "11/24"
+  }, {
+    "high" : 0.61,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "10/24"
+  }, {
+    "high" : 0.62,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "8/24"
+  }, {
+    "high" : 0.63,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "8/24"
+  }, {
+    "high" : 0.64,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "6/24"
+  }, {
+    "high" : 0.65,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "5/24"
+  }, {
+    "high" : 0.66,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "4/24"
+  }, {
+    "high" : 0.67,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "3/24"
+  }, {
+    "high" : 0.68,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "2/24"
+  }, {
+    "high" : 0.69,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "1/24"
+  }, {
+    "high" : 0.7,
+    "negativeFalseFaithful" : "0/10",
+    "positiveFaithful" : "1/24"
+  } ]
+}

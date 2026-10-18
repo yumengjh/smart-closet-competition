@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="ending">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#D8F36A" />
+<g id="masthead" data-pptx-bounds="64 44 1152 49" fill="#302238" font-size="18"><text x="64" y="74">YU / DA</text><text x="1001" y="74">RE: WEAR / 2026</text><line x1="64" y1="91" x2="1216" y2="91" stroke="#302238" stroke-opacity="0.3" /></g>
+<g id="title" data-pptx-bounds="64 167 775 246" fill="#302238"><text font-weight="bold" font-size="64" x="64" y="239">给已有衣物，</text><text font-weight="bold" font-size="64" x="64" y="330">一个新的出场机会。</text><text x="68" y="402">鱼搭 / 理解衣柜，解释选择，持续反馈。</text></g>
+<g id="new-outfit" data-pptx-bounds="866 164 350 428">
+<path d="M989 190 L1022 207 L1055 190 L1116 240 L1087 289 L1066 277 L1066 389 L978 389 L978 277 L957 289 L928 240 Z" fill="#302238" />
+<path d="M994 205 L1022 252 L1050 205 L1043 192 L1022 207 L1003 192 Z" fill="#F5F1E8" />
+<circle cx="1022" cy="280" r="4" fill="#D8F36A" /><circle cx="1022" cy="309" r="4" fill="#D8F36A" />
+<path d="M980 410 L1067 410 L1113 584 L935 584 Z" fill="#BBA4CB" />
+<line x1="1001" y1="419" x2="982" y2="573" stroke="#302238" stroke-opacity="0.2" stroke-width="2" /><line x1="1044" y1="419" x2="1067" y2="573" stroke="#302238" stroke-opacity="0.2" stroke-width="2" />
+<text x="886" y="576" font-size="18" fill="#302238" transform="rotate(-90 886 576)">A NEW CHANCE</text>
+</g>
+<g id="call-to-action" data-pptx-bounds="64 479 775 123" fill="#302238"><line x1="64" y1="480" x2="799" y2="480" stroke="#302238" stroke-opacity="0.3" /><text x="68" y="532" font-size="32" font-weight="bold">下一步：招募首批共创者。</text><text x="68" y="583">一起验证，让更多衣物真正进入日常选择。</text></g>
+<g id="footer" data-pptx-bounds="64 648 1152 43" fill="#302238" font-size="16"><text x="64" y="677">可持续利用是愿景；消费减少与减排效果尚未量化。</text><text x="1178" y="677">18</text></g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="cover">
+<defs><linearGradient id="coat" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#BBA4CB" /><stop offset="1" stop-color="#8D739E" /></linearGradient></defs>
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#302238" />
+<g id="masthead" data-pptx-bounds="64 44 1152 48" fill="#F5F1E8" font-size="18"><text x="64" y="73">YU / DA</text><text x="936" y="73">个人衣柜 · 新的可能</text><line x1="64" y1="90" x2="1216" y2="90" stroke="#C7BECC" stroke-opacity="0.3" /></g>
+<g id="cover-title" data-pptx-bounds="64 133 614 359" fill="#F5F1E8"><text x="64" y="222" font-family="SimSun, Georgia" font-size="88">鱼搭</text><text font-weight="bold" font-size="56" x="68" y="316">让衣柜里的每一件，</text><text font-weight="bold" font-size="56" x="68" y="392" fill="#D8F36A">重新有机会。</text><text x="68" y="470">可解释 AI 数字衣柜与穿搭决策系统</text></g>
+<g id="wardrobe-hero" data-pptx-bounds="734 133 482 458">
+<line x1="755" y1="149" x2="1195" y2="149" stroke="#C7BECC" stroke-width="2" />
+<path d="M953 191 Q943 158 959 151 Q974 147 977 159" fill="none" stroke="#D8F36A" stroke-width="3" />
+<path d="M867 236 L953 191 L1067 239" fill="none" stroke="#D8F36A" stroke-width="3" />
+<path d="M895 223 L927 233 L968 230 L994 216 L1078 267 L1123 389 L1084 408 L1049 341 L1065 555 L832 555 L851 343 L818 409 L774 389 L816 269 Z" fill="url(#coat)" />
+<path d="M895 223 L947 337 L968 230 L948 253 L917 291 Z" fill="#E8E1D6" />
+<path d="M994 216 L947 337 L968 230 L982 260 L976 283 Z" fill="#D8F36A" />
+<line x1="947" y1="337" x2="947" y2="550" stroke="#302238" stroke-width="2" stroke-opacity="0.4" />
+<circle cx="974" cy="374" r="4" fill="#302238" /><circle cx="974" cy="416" r="4" fill="#302238" />
+<rect x="873" y="439" width="38" height="6" fill="#302238" fill-opacity="0.3" /><rect x="993" y="439" width="38" height="6" fill="#302238" fill-opacity="0.3" />
+<text x="1074" y="536" font-size="18" fill="#D8F36A" transform="rotate(-90 1074 536)">RE: WEAR</text>
+</g>
+<g id="cover-deckline" data-pptx-bounds="64 536 620 70" fill="#C7BECC"><text font-size="20" x="68" y="566">从已有衣物出发，</text><text font-size="20" x="68" y="600">把每一次选择变得有依据。</text></g>
+<g id="footer" data-pptx-bounds="64 649 1152 40" fill="#C7BECC" font-size="16"><line x1="64" y1="652" x2="1216" y2="652" stroke="#C7BECC" stroke-opacity="0.3" /><text x="64" y="682">竞赛路演 / 2026</text><text x="1178" y="682">01</text></g>
+</svg>

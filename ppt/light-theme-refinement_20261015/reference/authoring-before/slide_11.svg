@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif"><rect x="0" y="0" width="1280" height="720" fill="#EFF6FF" />
+<g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<g id="shape-21" data-pptx-object="shape" data-pptx-frame="0 0 1280 720" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:21" data-pptx-semantic-object="shape">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-part="geometry" fill="#F7F8FA" stroke="none" />
+</g>
+<g id="shape-22" data-pptx-object="shape" data-pptx-frame="93.33 53.33 933.33 50.67" data-pptx-prst="rect" data-pptx-source-ref="slide:22" data-pptx-semantic-object="shape">
+<path d="M 93.33 53.33 L 1026.66 53.33 L 1026.66 104 L 93.33 104 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="93.33" y="91.66666667" text-anchor="start" xml:space="preserve" font-size="36" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">网站架构：交互、计算与执行解耦</text>
+</g>
+</g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="96 106.67 400 26.67" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 96 106.67 L 496 106.67 L 496 133.34 L 96 133.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="96" y="126.66666667" text-anchor="start" xml:space="preserve" font-size="16" fill="#1F5C45" data-pptx-text-baseline="metrics-v1">04 · 技术架构</text>
+</g>
+<g id="shape-4" data-pptx-object="shape" data-pptx-frame="93.33 149.33 773.33 82.67" data-pptx-prst="roundRect" data-pptx-av-adj="val 19354" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 93.33 165.33 A 16 16 0 0 1 109.33 149.33 L 850.66 149.33 A 16 16 0 0 1 866.66 165.33 L 866.66 216 A 16 16 0 0 1 850.66 232 L 109.33 232 A 16 16 0 0 1 93.33 216 Z" fill="#FFFFFF" stroke="none" data-pptx-part="geometry" />
+
+
+</g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="120 160 700 32" data-pptx-prst="rect" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape">
+<path d="M 120 160 L 820 160 L 820 192 L 120 192 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="120" y="183.33333333" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="18.93" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">Vue 3 / TypeScript / Ant Design Vue / Konva</text>
+</g>
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="120 194.67 720 26.67" data-pptx-prst="rect" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 120 194.67 L 840 194.67 L 840 221.34 L 120 221.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="120" y="214.66666667" text-anchor="start" xml:space="preserve" font-size="18" fill="#666B76" data-pptx-text-baseline="metrics-v1">浏览器响应式界面 · 衣柜、组合台与执行回执</text>
+</g>
+<g id="shape-7" data-pptx-object="connector" data-pptx-frame="474.66 236.71 10.67 1.33" data-pptx-prst="straightConnector1" transform="rotate(82.87498333 480 237.38)" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 474.66 236.71 L 485.33 238.04" fill="#E8E9EE" stroke-width="2.66667" stroke-linecap="butt" stroke="#666B76" stroke-linejoin="round" data-pptx-part="geometry" />
+
+</g>
+<g id="shape-8" data-pptx-object="shape" data-pptx-frame="93.33 245.33 773.33 82.67" data-pptx-prst="roundRect" data-pptx-av-adj="val 19354" data-pptx-source-ref="slide:8" data-pptx-semantic-object="shape">
+<path d="M 93.33 261.33 A 16 16 0 0 1 109.33 245.33 L 850.66 245.33 A 16 16 0 0 1 866.66 261.33 L 866.66 312 A 16 16 0 0 1 850.66 328 L 109.33 328 A 16 16 0 0 1 93.33 312 Z" fill="#FFFFFF" stroke="none" data-pptx-part="geometry" />
+
+
+</g>
+<g id="shape-9" data-pptx-object="shape" data-pptx-frame="120 256 700 32" data-pptx-prst="rect" data-pptx-source-ref="slide:9" data-pptx-semantic-object="shape">
+<path d="M 120 256 L 820 256 L 820 288 L 120 288 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="120" y="279.33333333" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="18.93" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">Java 21 / Spring Boot / Spring Security</text>
+</g>
+<g id="shape-10" data-pptx-object="shape" data-pptx-frame="120 290.67 720 26.67" data-pptx-prst="rect" data-pptx-source-ref="slide:10" data-pptx-semantic-object="shape">
+<path d="M 120 290.67 L 840 290.67 L 840 317.34 L 120 317.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="120" y="310.66666667" text-anchor="start" xml:space="preserve" font-size="18" fill="#666B76" data-pptx-text-baseline="metrics-v1">API、归属与权限 · 推荐规则 · 额度与持久任务</text>
+</g>
+<g id="shape-11" data-pptx-object="connector" data-pptx-frame="474.66 332.71 10.67 1.33" data-pptx-prst="straightConnector1" transform="rotate(82.87498333 480 333.38)" data-pptx-source-ref="slide:11" data-pptx-semantic-object="shape">
+<path d="M 474.66 332.71 L 485.33 334.04" fill="#E8E9EE" stroke-width="2.66667" stroke-linecap="butt" stroke="#666B76" stroke-linejoin="round" data-pptx-part="geometry" />
+
+</g>
+<g id="shape-12" data-pptx-object="shape" data-pptx-frame="93.33 341.33 773.33 104" data-pptx-prst="roundRect" data-pptx-av-adj="val 15384" data-pptx-source-ref="slide:12" data-pptx-semantic-object="shape">
+<path d="M 93.33 357.33 A 16 16 0 0 1 109.33 341.33 L 850.66 341.33 A 16 16 0 0 1 866.66 357.33 L 866.66 429.33 A 16 16 0 0 1 850.66 445.33 L 109.33 445.33 A 16 16 0 0 1 93.33 429.33 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry" />
+
+
+</g>
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="120 354.67 400 32" data-pptx-prst="rect" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 120 354.67 L 520 354.67 L 520 386.67 L 120 386.67 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="120" y="378.33333333" text-anchor="start" xml:space="preserve" font-size="20" fill="#FFFFFF" font-weight="bold" data-pptx-text-baseline="metrics-v1">本地推理 + Agent + 统一任务执行器</text>
+</g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="120 394.67 720 42.67" data-pptx-prst="rect" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 120 394.67 L 840 394.67 L 840 437.34 L 120 437.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="120" y="414.47002625" text-anchor="start" xml:space="preserve" font-size="18" fill="#DCEAE2" data-pptx-text-baseline="metrics-v1" data-pptx-text-model="lines" data-paragraph-line-height="27"><tspan><tspan>ONNX：U²-Net / BGE / 可选 CLIP；LangGraph 对话编排；</tspan></tspan><tspan data-paragraph-line-break="1">CPU / 识别 / 生成分池，公平调度与保守恢复。</tspan></text>
+</g>
+<g id="shape-15" data-pptx-object="connector" data-pptx-frame="474.67 450.05 10.67 1.33" data-pptx-prst="straightConnector1" transform="rotate(82.87498333 480.01 450.71)" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 474.67 450.05 L 485.34 451.38" fill="#E8E9EE" stroke-width="2.66667" stroke-linecap="butt" stroke="#666B76" stroke-linejoin="round" data-pptx-part="geometry" />
+
+</g>
+<g id="shape-16" data-pptx-object="shape" data-pptx-frame="93.33 458.67 773.33 82.67" data-pptx-prst="roundRect" data-pptx-av-adj="val 19354" data-pptx-source-ref="slide:16" data-pptx-semantic-object="shape">
+<path d="M 93.33 474.67 A 16 16 0 0 1 109.33 458.67 L 850.66 458.67 A 16 16 0 0 1 866.66 474.67 L 866.66 525.34 A 16 16 0 0 1 850.66 541.34 L 109.33 541.34 A 16 16 0 0 1 93.33 525.34 Z" fill="#FFFFFF" stroke="none" data-pptx-part="geometry" />
+
+
+</g>
+<g id="shape-17" data-pptx-object="shape" data-pptx-frame="120 469.33 700 32" data-pptx-prst="rect" data-pptx-source-ref="slide:17" data-pptx-semantic-object="shape">
+<path d="M 120 469.33 L 820 469.33 L 820 501.33 L 120 501.33 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="120" y="492.66666667" text-anchor="start" xml:space="preserve" font-size="18.93" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1">H2 / Flyway / MyBatis Plus · 本地或 S3 图片</text>
+</g>
+<g id="shape-18" data-pptx-object="shape" data-pptx-frame="120 504 720 26.67" data-pptx-prst="rect" data-pptx-source-ref="slide:18" data-pptx-semantic-object="shape">
+<path d="M 120 504 L 840 504 L 840 530.67 L 120 530.67 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="120" y="524" text-anchor="start" xml:space="preserve" font-size="17.07" fill="#666B76" data-pptx-text-baseline="metrics-v1">默认可控单机部署；Docker / CI；管理 API 可插拔且默认关闭</text>
+</g>
+<g id="shape-19" data-pptx-object="shape" data-pptx-frame="920 160 293.33 32" data-pptx-prst="rect" data-pptx-source-ref="slide:19" data-pptx-semantic-object="shape">
+<path d="M 920 160 L 1213.33 160 L 1213.33 192 L 920 192 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="920" y="183.33333333" text-anchor="start" xml:space="preserve" font-size="20" fill="#1F5C45" font-weight="bold" data-pptx-text-baseline="metrics-v1">明确的运行边界</text>
+</g>
+<g id="shape-20" data-pptx-object="shape" data-pptx-frame="920 202.67 306.67 160" data-pptx-prst="rect" data-pptx-source-ref="slide:20" data-pptx-semantic-object="shape">
+<path d="M 920 202.67 L 1226.67 202.67 L 1226.67 362.67 L 920 362.67 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="920" y="223.56997375" text-anchor="start" xml:space="preserve" font-size="18.93" fill="#666B76" data-pptx-text-baseline="metrics-v1" data-pptx-text-model="lines" data-paragraph-line-height="28.506667"><tspan><tspan>任务有持久记录</tspan></tspan><tspan data-paragraph-line-break="1">网页内查看状态与通知</tspan><tspan data-paragraph-line-break="1">UNKNOWN 不自动重发</tspan><tspan data-paragraph-line-break="1">PWA 缓存应用外壳</tspan></text>
+</g>
+<g id="shape-38" data-pptx-object="group" data-pptx-frame="63.44 672 1152.56 32.23" data-pptx-source-ref="slide:38">
+<g id="shape-35" data-pptx-object="shape" data-pptx-frame="64 672 1152 1" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:35" data-pptx-semantic-object="shape">
+<path d="M 64 672 L 1216 672" data-pptx-part="geometry" fill="none" stroke-width="1" stroke="#E8E9EE" />
+</g>
+<g id="shape-36" data-pptx-object="shape" data-pptx-frame="63.44 682.67 232.33 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:36" data-pptx-semantic-object="shape">
+<path d="M 63.44 682.67 L 295.77 682.67 L 295.77 704.23 L 63.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="63.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text>
+</g>
+<g id="shape-37" data-pptx-object="shape" data-pptx-frame="1183.44 682.67 17.44 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:37" data-pptx-semantic-object="shape">
+<path d="M 1183.44 682.67 L 1200.88 682.67 L 1200.88 704.23 L 1183.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="1183.44" y="696" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1">11</text>
+</g>
+</g></svg>

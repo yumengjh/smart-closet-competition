@@ -1,0 +1,151 @@
+{
+  "version": "feature-tables-v3",
+  "note": "Matched in order; the first category keyword contained in the effective category wins. Warmth 0-5, formality 1-5.",
+  "categories": [
+    {"match": "羽绒", "warmth": 5.0, "formality": 2.0},
+    {"match": "大衣", "warmth": 4.5, "formality": 3.5},
+    {"match": "冲锋衣", "warmth": 3.5, "formality": 1.5},
+    {"match": "风衣", "warmth": 3.0, "formality": 3.5},
+    {"match": "西装外套", "warmth": 2.5, "formality": 4.5},
+    {"match": "西装", "warmth": 2.5, "formality": 4.5},
+    {"match": "夹克", "warmth": 3.0, "formality": 2.5},
+    {"match": "开衫", "warmth": 2.0, "formality": 2.5},
+    {"match": "毛衣", "warmth": 3.0, "formality": 2.5},
+    {"match": "针织", "warmth": 2.5, "formality": 2.5},
+    {"match": "卫衣", "warmth": 2.5, "formality": 1.5},
+    {"match": "衬衫", "warmth": 1.5, "formality": 3.5},
+    {"match": "Polo", "warmth": 1.2, "formality": 2.5},
+    {"match": "T恤", "warmth": 1.0, "formality": 2.0},
+    {"match": "马甲", "warmth": 1.0, "formality": 2.5},
+    {"match": "背心", "warmth": 0.5, "formality": 1.8},
+    {"match": "吊带", "warmth": 0.5, "formality": 2.0},
+    {"match": "连衣裙", "warmth": 1.5, "formality": 3.0},
+    {"match": "连体", "warmth": 2.0, "formality": 2.5},
+    {"match": "半身裙", "warmth": 1.5, "formality": 3.0},
+    {"match": "短裤", "warmth": 0.5, "formality": 1.5},
+    {"match": "牛仔裤", "warmth": 2.0, "formality": 2.0},
+    {"match": "运动裤", "warmth": 2.0, "formality": 1.0},
+    {"match": "西裤", "warmth": 2.0, "formality": 4.0},
+    {"match": "长裤", "warmth": 2.0, "formality": 3.0},
+    {"match": "裤", "warmth": 2.0, "formality": 2.5},
+    {"match": "裙", "warmth": 1.5, "formality": 3.0},
+    {"match": "靴", "warmth": 3.0, "formality": 3.0},
+    {"match": "皮鞋", "warmth": 2.0, "formality": 4.0},
+    {"match": "高跟", "warmth": 1.5, "formality": 4.0},
+    {"match": "细跟", "warmth": 1.5, "formality": 4.0},
+    {"match": "尖头鞋", "warmth": 1.5, "formality": 4.0},
+    {"match": "坡跟", "warmth": 1.5, "formality": 4.0},
+    {"match": "猫跟", "warmth": 1.5, "formality": 4.0},
+    {"match": "运动鞋", "warmth": 2.0, "formality": 1.5},
+    {"match": "帆布鞋", "warmth": 1.5, "formality": 1.8},
+    {"match": "凉鞋", "warmth": 0.5, "formality": 1.5},
+    {"match": "拖鞋", "warmth": 0.3, "formality": 1.0},
+    {"match": "鞋", "warmth": 1.8, "formality": 2.5},
+    {"match": "棒球帽", "warmth": 0.0, "formality": 1.5},
+    {"match": "手提包", "warmth": 0.0, "formality": 3.5},
+    {"match": "斜挎包", "warmth": 0.0, "formality": 2.5},
+    {"match": "背包", "warmth": 0.0, "formality": 1.8},
+    {"match": "围巾", "warmth": 1.0, "formality": 3.0},
+    {"match": "手套", "warmth": 1.0, "formality": 2.5}
+  ],
+  "defaultCategory": {"warmth": 1.5, "formality": 2.5},
+  "thickness": {"薄": -0.7, "常规": 0.0, "厚": 1.0},
+  "sleeve": {"无袖": -0.5, "短袖": -0.3, "五分袖": -0.1, "七分袖": 0.0, "长袖": 0.2},
+  "styleSynonyms": {"可爱": ["甜美"], "少女": ["甜美"], "甜": ["甜美"], "甜美风": ["甜美"], "洛丽塔": ["甜美"], "lolita": ["甜美"], "女仆": ["甜美", "复古"], "公主": ["甜美"], "温柔": ["甜美"], "淑女": ["甜美", "复古"], "仙女": ["甜美"], "日系": ["休闲", "甜美"], "清新": ["休闲", "甜美"], "文艺": ["复古", "休闲"], "学院": ["复古"], "中式": ["复古"], "法式": ["复古", "甜美"], "优雅": ["复古", "通勤"], "知性": ["通勤"], "职场": ["通勤"], "上班": ["通勤"], "商务": ["通勤", "正式"], "派对": ["正式"], "帅气": ["休闲", "运动"], "酷": ["休闲"], "街头": ["休闲", "运动"], "简约": ["休闲", "通勤"], "舒服": ["休闲"], "慵懒": ["休闲"], "运动风": ["运动"], "户外风": ["户外"]},
+  "styleExemplars": {
+    "休闲": ["休闲", "日常", "舒适", "随性", "慵懒", "宽松", "街头", "简约", "居家"],
+    "运动": ["运动", "健身", "跑步", "篮球", "运动服", "速干", "球鞋", "活力"],
+    "通勤": ["通勤", "上班", "职场", "干练", "知性", "白领", "商务休闲", "办公室"],
+    "正式": ["正式", "商务", "典礼", "宴会", "派对", "端庄", "西装", "礼服"],
+    "复古": ["复古", "怀旧", "文艺", "学院", "中式", "年代感", "旧时光", "古着"],
+    "甜美": ["甜美", "可爱", "少女", "公主", "洛丽塔", "蕾丝", "蝴蝶结", "粉嫩", "温柔"],
+    "户外": ["户外", "登山", "徒步", "野营", "防风", "冲锋衣", "探险"]
+  },
+  "styleFormality": {"运动": 1.0, "户外": 1.5, "休闲": 2.0, "甜美": 2.5, "复古": 2.5, "通勤": 3.5, "正式": 4.5},
+  "neutralFamilies": ["BLACK", "WHITE", "GRAY", "BEIGE", "BROWN", "NAVY", "DENIM"],
+  "clashPairs": [["RED", "GREEN"], ["PURPLE", "YELLOW"], ["ORANGE", "PURPLE"], ["ORANGE", "PINK"], ["RED", "ORANGE"]],
+  "classicPairs": [
+    {"colors": ["NAVY", "WHITE"], "text": "藏蓝+白，经典配色"},
+    {"colors": ["BLACK", "WHITE"], "text": "黑白经典，干净利落"},
+    {"colors": ["BEIGE", "BROWN"], "text": "大地色系，温和统一"},
+    {"colors": ["DENIM", "WHITE"], "text": "牛仔蓝+白，清爽"},
+    {"colors": ["GRAY", "NAVY"], "text": "灰+藏蓝，沉稳耐看"},
+    {"colors": ["BLACK", "GRAY"], "text": "黑灰同色系，低调"},
+    {"colors": ["BEIGE", "WHITE"], "text": "米白浅色系，柔和"},
+    {"colors": ["NAVY", "BEIGE"], "text": "藏蓝+米色，学院感"}
+  ],
+  "strongPatterns": ["花卉", "图形印花", "迷彩", "动物纹", "拼色", "文字", "标志"],
+  "mildPatterns": ["条纹", "格纹", "波点"],
+  "temperatureBands": [
+    {"name": "炎热", "minC": 28, "ideal": [1.5, 4.5]},
+    {"name": "温暖", "minC": 22, "ideal": [3.0, 6.0]},
+    {"name": "舒适", "minC": 15, "ideal": [4.5, 7.5]},
+    {"name": "微凉", "minC": 8, "ideal": [6.0, 9.0]},
+    {"name": "寒冷", "minC": -100, "ideal": [7.5, 11.0]}
+  ],
+  "compatibility": {
+    "version": "shoe-bottom-v3",
+    "note": "鞋款 × 下装 × 场景兼容表。取值 OK / PENALTY（扣分并给依据）/ SEVERE（重扣分 penalties.compatSevere，v2 起不再硬排除，决策 D27）。对象形式 {verdict, onlyIn, otherwise} 表示只在 onlyIn 场景取 verdict，其余场景取 otherwise。依据只有推测（INFERRED/UNKNOWN）或鞋与下装都是用户指定时 SEVERE 降为 PENALTY。",
+    "shoeKinds": [
+      {"kind": "HEELS", "label": "高跟鞋", "match": ["高跟", "细跟", "尖头鞋", "坡跟", "猫跟", "粗跟", "恨天高"]},
+      {"kind": "SLIPPERS", "label": "拖鞋", "match": ["拖鞋", "人字拖", "洞洞鞋", "拖"]},
+      {"kind": "SANDALS", "label": "凉鞋", "match": ["凉鞋"]},
+      {"kind": "BOOTS", "label": "靴子", "match": ["靴"]},
+      {"kind": "CANVAS", "label": "帆布鞋", "match": ["帆布"]},
+      {"kind": "SNEAKERS", "label": "运动鞋", "match": ["运动鞋", "跑鞋", "板鞋", "球鞋", "老爹鞋", "训练鞋", "休闲鞋"]},
+      {"kind": "LEATHER", "label": "皮鞋", "match": ["皮鞋", "乐福", "牛津", "德比", "单鞋", "玛丽珍"]}
+    ],
+    "bottomKinds": [
+      {"kind": "SPORT_PANTS", "label": "运动裤", "match": ["运动裤", "卫裤", "瑜伽裤", "束脚裤", "运动短裤"]},
+      {"kind": "SHORTS", "label": "短裤", "match": ["短裤", "热裤"]},
+      {"kind": "JEANS", "label": "牛仔裤", "match": ["牛仔"]},
+      {"kind": "TROUSERS", "label": "西裤", "match": ["西裤", "西装裤"]},
+      {"kind": "SKIRT", "label": "半身裙", "match": ["裙", "SK"]},
+      {"kind": "CASUAL_PANTS", "label": "休闲长裤", "match": ["裤"]}
+    ],
+    "onePieceKinds": [
+      {"kind": "DRESS", "label": "连衣裙", "match": ["裙", "OP", "礼服", "旗袍", "婚纱"]},
+      {"kind": "JUMPSUIT", "label": "连体衣", "match": ["连体", "背带"]}
+    ],
+    "trouserStyles": ["通勤", "正式"],
+    "casualTrouserStyles": ["休闲", "运动", "户外"],
+    "trouserLabelByStyle": "正装长裤",
+    "matrix": {
+      "HEELS": {"TROUSERS": {"verdict": "OK", "onlyIn": ["COMMUTE", "FORMAL", "DATE"], "otherwise": "PENALTY"}, "CASUAL_PANTS": "PENALTY", "JEANS": "PENALTY", "SPORT_PANTS": "SEVERE", "SHORTS": "PENALTY", "SKIRT": "OK", "DRESS": "OK", "JUMPSUIT": {"verdict": "OK", "onlyIn": ["COMMUTE", "FORMAL", "DATE"], "otherwise": "PENALTY"}},
+      "LEATHER": {"TROUSERS": "OK", "CASUAL_PANTS": "OK", "JEANS": "OK", "SPORT_PANTS": "PENALTY", "SHORTS": "PENALTY", "SKIRT": "OK", "DRESS": "OK", "JUMPSUIT": "OK"},
+      "SNEAKERS": {"TROUSERS": "PENALTY", "CASUAL_PANTS": "OK", "JEANS": "OK", "SPORT_PANTS": "OK", "SHORTS": "OK", "SKIRT": "OK", "DRESS": "OK", "JUMPSUIT": "OK"},
+      "CANVAS": {"TROUSERS": "PENALTY", "CASUAL_PANTS": "OK", "JEANS": "OK", "SPORT_PANTS": "OK", "SHORTS": "OK", "SKIRT": "OK", "DRESS": "OK", "JUMPSUIT": "OK"},
+      "BOOTS": {"TROUSERS": "OK", "CASUAL_PANTS": "OK", "JEANS": "OK", "SPORT_PANTS": "PENALTY", "SHORTS": "PENALTY", "SKIRT": "OK", "DRESS": "OK", "JUMPSUIT": "OK"},
+      "SANDALS": {"TROUSERS": "PENALTY", "CASUAL_PANTS": "OK", "JEANS": "OK", "SPORT_PANTS": "PENALTY", "SHORTS": "OK", "SKIRT": "OK", "DRESS": "OK", "JUMPSUIT": "OK"},
+      "SLIPPERS": {"TROUSERS": "SEVERE", "CASUAL_PANTS": "OK", "JEANS": "OK", "SPORT_PANTS": "OK", "SHORTS": "OK", "SKIRT": "OK", "DRESS": "OK", "JUMPSUIT": "OK"}
+    },
+    "occasions": {
+      "HEELS": {"SPORT": "SEVERE", "OUTDOOR": "SEVERE", "HOME": "SEVERE", "TRAVEL": "PENALTY"},
+      "SLIPPERS": {"COMMUTE": "SEVERE", "FORMAL": "SEVERE", "DATE": "SEVERE", "SPORT": "SEVERE", "OUTDOOR": "SEVERE", "DAILY": "PENALTY"},
+      "LEATHER": {"SPORT": "SEVERE", "OUTDOOR": "PENALTY", "HOME": "PENALTY"},
+      "SANDALS": {"FORMAL": "PENALTY", "SPORT": "PENALTY", "OUTDOOR": "PENALTY"},
+      "SNEAKERS": {"FORMAL": "PENALTY"},
+      "CANVAS": {"FORMAL": "PENALTY", "SPORT": "PENALTY"},
+      "BOOTS": {"SPORT": "PENALTY"}
+    },
+    "unsetSexOverrides": {
+      "HEELS": {"TROUSERS": "SEVERE", "CASUAL_PANTS": "SEVERE", "JEANS": "SEVERE", "SPORT_PANTS": "SEVERE", "SHORTS": "SEVERE", "JUMPSUIT": "SEVERE"}
+    },
+    "heelsTopPenalty": {"categories": ["卫衣"], "styles": ["运动"]},
+    "femaleCategories": ["高跟", "细跟", "尖头鞋", "坡跟", "猫跟", "恨天高", "玛丽珍", "连衣裙", "半身裙", "短裙", "长裙", "吊带", "抹胸", "裙", "JSK", "洛丽塔"],
+    "penaltyWeight": 0.35
+  },
+  "penalties": {
+    "note": "软规则扣分（总分 100 制，决策 D27）。只有结构、用户明确表达、男性×女款三类硬排除，其余一律扣分并写依据。",
+    "compatMild": 4, "compatSevere": 25, "weatherPerItem": 20, "weatherCap": 30, "formalitySpan3": 20,
+    "mixingBase": 3, "mixingLearned": 9, "idlePerItem": 1.5, "idleCap": 3, "idleDays": 30, "noShoes": 8, "doubleDenim": 8
+  },
+  "feedback": {
+    "note": "反馈三层与冷却（决策 D28）。倾向 = (正面 − 负面) / max(prior, 正面 + 负面)，取值 −1~1。负面半衰期 30 天，正面 60 天。单品倾向 ≤ cooldownLeaning 且负面量 ≥ cooldownMass 时冷却，之后出现正面信号立即恢复。正面倾向只按 positiveScale 折算加分，合计不超过 positiveCap，避免保存过的搭配一律满分。",
+    "negativeHalfLifeDays": 30, "positiveHalfLifeDays": 60, "prior": 1,
+    "outfitWeight": 14, "pairWeight": 8, "kindWeight": 8, "itemWeight": 10,
+    "cooldownLeaning": -0.6, "cooldownMass": 1.2,
+    "warmthStep": 0.5, "warmthCap": 1.5, "formalityStep": 0.3, "formalityCap": 1,
+    "positiveScale": 0.3, "positiveCap": 6
+  }
+}

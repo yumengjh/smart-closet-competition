@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#302238" /></marker></defs>
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#F5F1E8" />
+<g id="title" data-pptx-bounds="64 44 1152 151" fill="#302238"><text x="64" y="72" font-size="18">02 / PRODUCT LOOP</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">一个从入柜到出门的闭环。</text><text x="64" y="188" font-size="20" fill="#6B6071">围绕真实衣柜，把能力接起来。</text></g>
+<g id="loop" data-pptx-bounds="64 230 1152 355" fill="#302238">
+<line x1="199" y1="275" x2="1070" y2="275" stroke="#302238" stroke-width="2" marker-end="url(#arrow)" />
+<line x1="1085" y1="285" x2="1085" y2="454" stroke="#302238" stroke-width="2" marker-end="url(#arrow)" />
+<line x1="1080" y1="462" x2="197" y2="462" stroke="#302238" stroke-width="2" marker-end="url(#arrow)" />
+<line x1="176" y1="456" x2="176" y2="286" stroke="#302238" stroke-width="2" stroke-dasharray="8,4" marker-end="url(#arrow)" />
+<g id="intake"><circle cx="176" cy="275" r="24" fill="#D8F36A" /><text x="176" y="283" text-anchor="middle" font-size="20">1</text><text x="244" y="263" font-size="32" font-weight="bold">拍照入柜</text><text x="244" y="304" font-size="20">图片整理 · 属性修正</text></g>
+<g id="search"><circle cx="632" cy="275" r="24" fill="#D8F36A" /><text x="632" y="283" text-anchor="middle" font-size="20">2</text><text x="689" y="263" font-size="32" font-weight="bold">混合检索</text><text x="689" y="304" font-size="20">字段 · 文本 · 图像</text></g>
+<g id="recommend"><circle cx="1085" cy="275" r="24" /><text x="1085" y="283" text-anchor="middle" font-size="20" fill="#F5F1E8">3</text><text x="891" y="369" font-size="32" font-weight="bold">计算推荐</text><text x="891" y="406" font-size="20">组合 · 评分 · 理由</text></g>
+<g id="compose"><circle cx="1085" cy="462" r="24" fill="#D8F36A" /><text x="1085" y="470" text-anchor="middle" font-size="20">4</text><text x="885" y="521" font-size="32" font-weight="bold">搭台编辑</text><text x="885" y="558" font-size="20">多画板 · 可接手</text></g>
+<g id="ootd"><circle cx="632" cy="462" r="24" fill="#D8F36A" /><text x="632" y="470" text-anchor="middle" font-size="20">5</text><text x="535" y="521" font-size="32" font-weight="bold">OOTD 预览</text><text x="535" y="558" font-size="20">模特 · 动作 · 调整</text></g>
+<g id="feedback"><circle cx="176" cy="462" r="24" fill="#D8F36A" /><text x="176" y="470" text-anchor="middle" font-size="20">6</text><text x="81" y="521" font-size="32" font-weight="bold">反馈调整</text><text x="81" y="558" font-size="20">有粒度 · 可恢复</text></g>
+</g>
+<g id="boundary" data-pptx-bounds="64 605 1152 34" fill="#6B6071" font-size="16"><text x="64" y="628">OOTD 用于效果预览，不能证明尺码合身或保证衣物细节完全一致。</text></g>
+<g id="footer" data-pptx-bounds="64 651 1152 38" fill="#6B6071" font-size="16"><text x="64" y="680">依据：competition/01、05 · 用户链路整理</text><text x="1178" y="680">04</text></g>
+</svg>

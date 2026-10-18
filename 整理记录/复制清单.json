@@ -1,0 +1,783 @@
+{
+  "scan_date": "2026-10-13",
+  "snapshot": "current working tree including pre-existing changes",
+  "operation": "copy2, no move and no source rewrite",
+  "primary_files": 58,
+  "total_copies": 86,
+  "files": [
+    {
+      "repository": "前端",
+      "source_relative_path": "AGENTS.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet/AGENTS.md",
+      "copy_relative_path": "原始资料/前端/AGENTS.md",
+      "category": "前端说明与依赖",
+      "bytes": 1018,
+      "sha256": "72ae31aa535559f7634ff6657ed65978aeabf3b6d058f4917b0a593b5b86b318"
+    },
+    {
+      "repository": "前端",
+      "source_relative_path": "README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet/README.md",
+      "copy_relative_path": "原始资料/前端/README.md",
+      "category": "前端说明与依赖",
+      "bytes": 6046,
+      "sha256": "c043993ce514db6f68d29593776226203fe2a4f45e7bd8dd335cdfd7a2db93cc"
+    },
+    {
+      "repository": "前端",
+      "source_relative_path": "docs/2026-10-12-OOTD模特、动作与身材调节界面.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet/docs/2026-10-12-OOTD模特、动作与身材调节界面.md",
+      "copy_relative_path": "原始资料/前端/docs/2026-10-12-OOTD模特、动作与身材调节界面.md",
+      "category": "前端说明与依赖",
+      "bytes": 4068,
+      "sha256": "744b2b10abb907e16b4d0b48dddff2390baf848b2534f2beeac077bc20c6cad5"
+    },
+    {
+      "repository": "前端",
+      "source_relative_path": "docs/INTERACTION.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet/docs/INTERACTION.md",
+      "copy_relative_path": "原始资料/前端/docs/INTERACTION.md",
+      "category": "前端说明与依赖",
+      "bytes": 10193,
+      "sha256": "eb5fe3375bbbb71503cf3d3b800b3314aee941cf28794535f17559e77a434afb"
+    },
+    {
+      "repository": "前端",
+      "source_relative_path": "docs/PWA.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet/docs/PWA.md",
+      "copy_relative_path": "原始资料/前端/docs/PWA.md",
+      "category": "前端说明与依赖",
+      "bytes": 20068,
+      "sha256": "85017d8971a79fe021a4e22ffe843ef80b340da771fd9512eb371b5ded99943b"
+    },
+    {
+      "repository": "前端",
+      "source_relative_path": "package.json",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet/package.json",
+      "copy_relative_path": "原始资料/前端/package.json",
+      "category": "前端说明与依赖",
+      "bytes": 1036,
+      "sha256": "e9ea424e423131297c322724ea4fac30fd42dc1dc548eef0a4d83c8a5e52fb6d"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-08-搭配模板库初稿（待审核）.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-08-搭配模板库初稿（待审核）.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-08-搭配模板库初稿（待审核）.md",
+      "category": "原文引用依赖",
+      "bytes": 9967,
+      "sha256": "3607b2129db16a0543648cea5944d1221d8eba2ad5d46185a3211b4c4bcd74ec"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/添加衣物与手机端体验.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/添加衣物与手机端体验.md",
+      "copy_relative_path": "原始资料/后端/docs/design/添加衣物与手机端体验.md",
+      "category": "原文引用依赖",
+      "bytes": 7983,
+      "sha256": "4f778a0e4443b995e72503334c92c7ceb71840ed9fa23d7c3683ee0aa840db2e"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/蓝色Bloub助手悬浮球.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/蓝色Bloub助手悬浮球.md",
+      "copy_relative_path": "原始资料/后端/docs/design/蓝色Bloub助手悬浮球.md",
+      "category": "原文引用依赖",
+      "bytes": 5738,
+      "sha256": "ecf0e7f152ddb853b0c93fa9f0a4822e9f5e19317682f57e09c7db5b9cac00a0"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/衣物批次与合图试验.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/衣物批次与合图试验.md",
+      "copy_relative_path": "原始资料/后端/docs/design/衣物批次与合图试验.md",
+      "category": "原文引用依赖",
+      "bytes": 5817,
+      "sha256": "1a6abca6f16e46211ba6585b20103af386be71b243d33a98aa30e237cadc2167"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/透明背景与图片工作流.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/透明背景与图片工作流.md",
+      "copy_relative_path": "原始资料/后端/docs/design/透明背景与图片工作流.md",
+      "category": "原文引用依赖",
+      "bytes": 7734,
+      "sha256": "2d8dea6ffe4c54fdf99586a7d06a6f21df93f252dcc7f41a8733cff151a5f0b6"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-02-batch-experiment.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-02-batch-experiment.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-02-batch-experiment.md",
+      "category": "原文引用依赖",
+      "bytes": 2360,
+      "sha256": "12cab1755019a0407691505887884675b498c2d776b7e8a78d08fb23d6fe61ba"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-02-intake-ux.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-02-intake-ux.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-02-intake-ux.md",
+      "category": "原文引用依赖",
+      "bytes": 2773,
+      "sha256": "a3d86146029044f35adc4d5c5801c8d82e33ac314bf45fb2e54f51c40c373bc0"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-02-native-output-size.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-02-native-output-size.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-02-native-output-size.md",
+      "category": "原文引用依赖",
+      "bytes": 1042,
+      "sha256": "676e784977223355a682216b84df96322f11524b9f4df2443b3a54e7ea1d0ec8"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-02-sprite-trial.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-02-sprite-trial.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-02-sprite-trial.md",
+      "category": "原文引用依赖",
+      "bytes": 2175,
+      "sha256": "6389aa553a35aed1f089411d6e7a07baac960afa169fd0596a79258bba482982"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-03-sprite-state-and-layout.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-03-sprite-state-and-layout.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-03-sprite-state-and-layout.md",
+      "category": "原文引用依赖",
+      "bytes": 2652,
+      "sha256": "bea032c8ee6431115cb5df98ff1f8b8eadb9cdfe3e5c871b70e63bf23ee434b8"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-07-8080平台级鱼搭部署记录.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-07-8080平台级鱼搭部署记录.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-07-8080平台级鱼搭部署记录.md",
+      "category": "原文引用依赖",
+      "bytes": 4048,
+      "sha256": "bc1ee560906d4a218b2603300c2564eb7da77446bf1a8574ccd2c87649ee9555"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-07-基准人物提交反馈与断网恢复修复.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-07-基准人物提交反馈与断网恢复修复.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-07-基准人物提交反馈与断网恢复修复.md",
+      "category": "原文引用依赖",
+      "bytes": 4475,
+      "sha256": "0a4000729f50bc62af5904537c89531189c39ca389c91b1df88a64dee031027f"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "category": "原文引用依赖",
+      "bytes": 16267,
+      "sha256": "472750f888c34aaa761bcb90d32d951771ce3f62dec7a6e624628508e9418135"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "category": "原文引用依赖",
+      "bytes": 11288,
+      "sha256": "4d54a08226b9431a2c3ddef8d0baee7911ed3254619d60c8c6719136a4c7b877"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-08-智能搭配P1.1与P2复盘.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-08-智能搭配P1.1与P2复盘.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-08-智能搭配P1.1与P2复盘.md",
+      "category": "原文引用依赖",
+      "bytes": 20592,
+      "sha256": "3699d302da43c1504f3ee46602181ddb9c72e82783216c2d02e2700ca0ca692a"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/EXPERIMENT.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/EXPERIMENT.md",
+      "copy_relative_path": "原始资料/后端/reports/EXPERIMENT.md",
+      "category": "原文引用依赖",
+      "bytes": 4400,
+      "sha256": "897de131844b1f4bae3a8dc4ac85fb9ca2c5c14811a7d2c5a0903d6c445563fc"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/agent/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/agent/README.md",
+      "copy_relative_path": "原始资料/后端/reports/agent/README.md",
+      "category": "原文引用依赖",
+      "bytes": 6168,
+      "sha256": "a571232797a745e3c436bde2bb9d0e4c4c39a2eb82b0ffe1d1787daf3b77e992"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/closet/OPEN_METADATA.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/closet/OPEN_METADATA.md",
+      "copy_relative_path": "原始资料/后端/reports/closet/OPEN_METADATA.md",
+      "category": "原文引用依赖",
+      "bytes": 2765,
+      "sha256": "759d47ee913a0547f2786b969eb0140a6986667a2b017121b3953895aa99cb0f"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/closet/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/closet/README.md",
+      "copy_relative_path": "原始资料/后端/reports/closet/README.md",
+      "category": "原文引用依赖",
+      "bytes": 4392,
+      "sha256": "210359541ea0fdcae9463b0400255f29db661bc9d0d63d90c244cc906804e877"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/closet/STICKER_RECOVERY.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/closet/STICKER_RECOVERY.md",
+      "copy_relative_path": "原始资料/后端/reports/closet/STICKER_RECOVERY.md",
+      "category": "原文引用依赖",
+      "bytes": 1421,
+      "sha256": "4423b934f4983d086691146db44de92d6586d5af638769f528cb7d48f2865c53"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/generation/provider-check.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/generation/provider-check.md",
+      "copy_relative_path": "原始资料/后端/reports/generation/provider-check.md",
+      "category": "原文引用依赖",
+      "bytes": 3471,
+      "sha256": "f4de799f49d884d02878fe630d03f09df141fc69102abd8356e4177374348421"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/outfit-workspace/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/outfit-workspace/README.md",
+      "copy_relative_path": "原始资料/后端/reports/outfit-workspace/README.md",
+      "category": "原文引用依赖",
+      "bytes": 3339,
+      "sha256": "c67a3b1158f3b85d895e0f79513351f029afe32da5beac28e35633623a6a29d6"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/outfit-workspace/header-redesign/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/outfit-workspace/header-redesign/README.md",
+      "copy_relative_path": "原始资料/后端/reports/outfit-workspace/header-redesign/README.md",
+      "category": "原文引用依赖",
+      "bytes": 2177,
+      "sha256": "3c45ebf15460b3b209a40af9518083a1062f988ad71958f644c14b59ff53d65d"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/recognition/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/recognition/README.md",
+      "copy_relative_path": "原始资料/后端/reports/recognition/README.md",
+      "category": "原文引用依赖",
+      "bytes": 4732,
+      "sha256": "a808f3b09896050e41d390d73d673c0d5e1df24d4f60fc5dabf7aa426dcbf47c"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/round2/REVIEW.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/round2/REVIEW.md",
+      "copy_relative_path": "原始资料/后端/reports/round2/REVIEW.md",
+      "category": "原文引用依赖",
+      "bytes": 5462,
+      "sha256": "de99d37ef64ddadc0e1bd14df8b8d029bac6a12cf5f560236682aefb207b69a3"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/stickers/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/stickers/README.md",
+      "copy_relative_path": "原始资料/后端/reports/stickers/README.md",
+      "category": "原文引用依赖",
+      "bytes": 4005,
+      "sha256": "468b076ff3829ad1dbeedd1cafeb2404311adb09b16e0ae44951ab2cb4aeae92"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "samples/SOURCES.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/samples/SOURCES.md",
+      "copy_relative_path": "原始资料/后端/samples/SOURCES.md",
+      "category": "原文引用依赖",
+      "bytes": 1508,
+      "sha256": "68ad35fdfe514b5993b034022918d4a9924861a5d8e2e08aa54001d6b825a423"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "samples/round2/SOURCES.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/samples/round2/SOURCES.md",
+      "copy_relative_path": "原始资料/后端/samples/round2/SOURCES.md",
+      "category": "原文引用依赖",
+      "bytes": 3684,
+      "sha256": "3daec59a713b67e51eac8130d777a3613d6761aa4398638507c983832574c657"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/README.md",
+      "copy_relative_path": "原始资料/后端/README.md",
+      "category": "接口与架构",
+      "bytes": 24441,
+      "sha256": "f6a7e00adae17975db6f39839ab8508a1dbcbc16604ba9f0807d7d14ab32f4e6"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/AGENT.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/AGENT.md",
+      "copy_relative_path": "原始资料/后端/docs/AGENT.md",
+      "category": "接口与架构",
+      "bytes": 11657,
+      "sha256": "9a671f16c404e64e78cd3d37519d5f34230cd5541cd29124b09f130a139db83e"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/CLOSET_PRODUCT.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/CLOSET_PRODUCT.md",
+      "copy_relative_path": "原始资料/后端/docs/CLOSET_PRODUCT.md",
+      "category": "接口与架构",
+      "bytes": 12229,
+      "sha256": "da7fc2f3cbe6d8a941585a4b694095046d0173fe38795b34ebfc09f0720ce7a1"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/DEPLOYMENT_TOPOLOGY.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/DEPLOYMENT_TOPOLOGY.md",
+      "copy_relative_path": "原始资料/后端/docs/DEPLOYMENT_TOPOLOGY.md",
+      "category": "接口与架构",
+      "bytes": 8614,
+      "sha256": "b11bc5b7cd6a59d1698d6d255a2649f185a88f7600c1d6af97ae4fdc94596195"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/IMAGE_SEARCH_TESTING.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/IMAGE_SEARCH_TESTING.md",
+      "copy_relative_path": "原始资料/后端/docs/IMAGE_SEARCH_TESTING.md",
+      "category": "接口与架构",
+      "bytes": 10944,
+      "sha256": "0c8c5cbbd2bd6e28cc6ace71feb86a6612e12bc1d64bde54646c0f66321704a0"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/IMAGE_WORKFLOWS.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/IMAGE_WORKFLOWS.md",
+      "copy_relative_path": "原始资料/后端/docs/IMAGE_WORKFLOWS.md",
+      "category": "接口与架构",
+      "bytes": 19640,
+      "sha256": "a78c4023b0c9e3c6b505d672eb81215f02eb84c3630453f5b5d36cba8ecd9008"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/INDEPENDENT_DEPLOYMENT.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/INDEPENDENT_DEPLOYMENT.md",
+      "copy_relative_path": "原始资料/后端/docs/INDEPENDENT_DEPLOYMENT.md",
+      "category": "接口与架构",
+      "bytes": 10287,
+      "sha256": "8ebdec396bf92d5c89f48dffb0fc18bd1db367fbe657b9546bbca40cb1043279"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/MANAGEMENT_API.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/MANAGEMENT_API.md",
+      "copy_relative_path": "原始资料/后端/docs/MANAGEMENT_API.md",
+      "category": "接口与架构",
+      "bytes": 32245,
+      "sha256": "c9684d31e4e4e81fddfad471c7fd3a6289037012007513f8694b5c97ae63ba88"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/OOTD_SAMPLE_COLLECTION.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/OOTD_SAMPLE_COLLECTION.md",
+      "copy_relative_path": "原始资料/后端/docs/OOTD_SAMPLE_COLLECTION.md",
+      "category": "接口与架构",
+      "bytes": 4699,
+      "sha256": "b3a760d4f7c9b9d618f3f0543a047513cde244723b8ff6658d88f6574d5f9789"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/OUTFIT_WORKSPACE.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/OUTFIT_WORKSPACE.md",
+      "copy_relative_path": "原始资料/后端/docs/OUTFIT_WORKSPACE.md",
+      "category": "接口与架构",
+      "bytes": 5945,
+      "sha256": "3afdf34fccb6dba2fde05d1b68beaaded6645d1974d221e9a5971f9cf141c7ea"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/PLATFORM_AGENT_OOTD.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/PLATFORM_AGENT_OOTD.md",
+      "copy_relative_path": "原始资料/后端/docs/PLATFORM_AGENT_OOTD.md",
+      "category": "接口与架构",
+      "bytes": 13177,
+      "sha256": "fb82fb44e2b8686e0c23563551b5cf5f17d574eed568cd246d1a34d6bf4e1b78"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/PORTABLE_LOGIN.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/PORTABLE_LOGIN.md",
+      "copy_relative_path": "原始资料/后端/docs/PORTABLE_LOGIN.md",
+      "category": "接口与架构",
+      "bytes": 2831,
+      "sha256": "81e8b225a659947768f2039efa8b1198501b8d669ca2bcacd00dbf47c8caf415"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/RECOGNITION.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/RECOGNITION.md",
+      "copy_relative_path": "原始资料/后端/docs/RECOGNITION.md",
+      "category": "接口与架构",
+      "bytes": 10938,
+      "sha256": "015742d389486bba8daea85047df71cdebf1cde280ab53a1679fa6b96d30e4fe"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/management-api.yaml",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/management-api.yaml",
+      "copy_relative_path": "原始资料/后端/docs/management-api.yaml",
+      "category": "接口与架构",
+      "bytes": 43243,
+      "sha256": "9cd2288b54d375e5a13d1d3bb50c2a263a9efbe62e812440f9582ff448a932c9"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-05-快速入柜与统一任务执行架构.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-05-快速入柜与统一任务执行架构.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-05-快速入柜与统一任务执行架构.md",
+      "category": "核心设计",
+      "bytes": 34241,
+      "sha256": "b4afcd550533830a6f3b1fe23d9af83fd929603fc24a9584c312ea1a87423742"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-06-平台级鱼搭助手与个人OOTD设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-06-平台级鱼搭助手与个人OOTD设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-06-平台级鱼搭助手与个人OOTD设计.md",
+      "category": "核心设计",
+      "bytes": 35965,
+      "sha256": "ea20f303a7ce5de9ac7639213ce102e61ae2989730d1777cdc6ce4b462be76d5"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-07-管理平台接入与可插拔管理接口设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-07-管理平台接入与可插拔管理接口设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-07-管理平台接入与可插拔管理接口设计.md",
+      "category": "核心设计",
+      "bytes": 42182,
+      "sha256": "341292d8746d64fe7f4497b672c70d5165b305bc2e643445349fb04bcc32bc28"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-08-智能搭配P1.1与P2实现设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-08-智能搭配P1.1与P2实现设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-08-智能搭配P1.1与P2实现设计.md",
+      "category": "核心设计",
+      "bytes": 51441,
+      "sha256": "d530b69a1bfe5313985fd10f6714bae736b19cfc9a221c83c1859ee18e0c9102"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-08-智能搭配推荐引擎与语义召回设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-08-智能搭配推荐引擎与语义召回设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-08-智能搭配推荐引擎与语义召回设计.md",
+      "category": "核心设计",
+      "bytes": 66716,
+      "sha256": "080e101193945f87fc7d5ae7a5385446a0e783442d350e34ea77bc21b8003b3f"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-09-全身穿搭与呈现增强设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-09-全身穿搭与呈现增强设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-09-全身穿搭与呈现增强设计.md",
+      "category": "核心设计",
+      "bytes": 18993,
+      "sha256": "56d76e73b07f28379ba207cc772630cae39feacd7d6b2443367274fc6e4c2067"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-09-搭配审美：风格搭法与语义填位设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-09-搭配审美：风格搭法与语义填位设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-09-搭配审美：风格搭法与语义填位设计.md",
+      "category": "核心设计",
+      "bytes": 86937,
+      "sha256": "1f98f88561313b7534be9ecf01927c07e98e9b231c92757d339491b005c3b199"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-09-智能搭配P3实现设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-09-智能搭配P3实现设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-09-智能搭配P3实现设计.md",
+      "category": "核心设计",
+      "bytes": 20608,
+      "sha256": "b677264498010d0fc8669eeec3db8a0105bc6691db55d7ac424426d614244859"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-09-智能搭配P4实现设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-09-智能搭配P4实现设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-09-智能搭配P4实现设计.md",
+      "category": "核心设计",
+      "bytes": 12880,
+      "sha256": "35db1056154cf568007f40e957822e352cf683a3737ae66b885a2db4de0b2a49"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-09-模型内存管理与图像向量设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-09-模型内存管理与图像向量设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-09-模型内存管理与图像向量设计.md",
+      "category": "核心设计",
+      "bytes": 21003,
+      "sha256": "59921fdf39778aff7f38acf921c295d431a3a3942ee7f2de290c3e2212a12194"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-09-相似衣物提示与以图搜图设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-09-相似衣物提示与以图搜图设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-09-相似衣物提示与以图搜图设计.md",
+      "category": "核心设计",
+      "bytes": 10095,
+      "sha256": "919221a3d8688cfa63b0e8c5e92bba8ef1c41d1e9e104c62b3a2fdf823a0f400"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-09-管理接口二期：运维、KPI与大屏数据设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-09-管理接口二期：运维、KPI与大屏数据设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-09-管理接口二期：运维、KPI与大屏数据设计.md",
+      "category": "核心设计",
+      "bytes": 15254,
+      "sha256": "8bcd7773744459fc9f75e38ecb6c0c3fdb0215d3db736cd6d6d9d410026e37e6"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-10-搭配审美实现设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-10-搭配审美实现设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-10-搭配审美实现设计.md",
+      "category": "核心设计",
+      "bytes": 34458,
+      "sha256": "f09e9fb9db6251dfe6df3dc3a3ccc37e6ccf1afeb204d47cdb59a5c0c0cabd1d"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-10-风格画像设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-10-风格画像设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-10-风格画像设计.md",
+      "category": "核心设计",
+      "bytes": 10361,
+      "sha256": "66c97314dce4c403572cee66aba8336d43895265ac112b9074c712ffc9d97553"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-11-对象存储（S3兼容·腾讯云COS）设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-11-对象存储（S3兼容·腾讯云COS）设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-11-对象存储（S3兼容·腾讯云COS）设计.md",
+      "category": "核心设计",
+      "bytes": 10258,
+      "sha256": "da89961491c229f25ca423490917fe207cf139e9ff9231258dad751694d47332"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/2026-10-12-多模特、OOTD动作与身材调节设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/2026-10-12-多模特、OOTD动作与身材调节设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/2026-10-12-多模特、OOTD动作与身材调节设计.md",
+      "category": "核心设计",
+      "bytes": 11280,
+      "sha256": "9df0bef207bf6d9fec5610d7b1ce48429bec45113d3fd4f707adde45fdab5625"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/design/衣物入库最新设计.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/design/衣物入库最新设计.md",
+      "copy_relative_path": "原始资料/后端/docs/design/衣物入库最新设计.md",
+      "category": "核心设计",
+      "bytes": 51840,
+      "sha256": "85d68ef0ee9a9318468a32ecd4ad51ffd8af716aa19fa82c97c1b80b7767c21e"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "agent-runtime/package.json",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/agent-runtime/package.json",
+      "copy_relative_path": "原始资料/后端/agent-runtime/package.json",
+      "category": "规则与依赖",
+      "bytes": 536,
+      "sha256": "b81aa29193130367bd781f650322d38e22c07ff1c0c26d8644b98ae91cd823d7"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "models/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/models/README.md",
+      "copy_relative_path": "原始资料/后端/models/README.md",
+      "category": "规则与依赖",
+      "bytes": 9607,
+      "sha256": "99266bf03af25886f96dd8149cefb0f51e5c92a16af2bdda624974e55c5c75b6"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "pom.xml",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/pom.xml",
+      "copy_relative_path": "原始资料/后端/pom.xml",
+      "category": "规则与依赖",
+      "bytes": 4150,
+      "sha256": "d4eddce5bb19819c65857a6b435c3a6479ef677ba70b1207c067d9c8937e7b4f"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "src/main/resources/recommend/aesthetic-rules.json",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/src/main/resources/recommend/aesthetic-rules.json",
+      "copy_relative_path": "原始资料/后端/src/main/resources/recommend/aesthetic-rules.json",
+      "category": "规则与依赖",
+      "bytes": 33004,
+      "sha256": "4c0512207a0042de09146370592c5e358ee6e15f4c93816fe5f9e5d1b8918fa0"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "src/main/resources/recommend/feature-tables.json",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/src/main/resources/recommend/feature-tables.json",
+      "copy_relative_path": "原始资料/后端/src/main/resources/recommend/feature-tables.json",
+      "category": "规则与依赖",
+      "bytes": 11593,
+      "sha256": "a81c1d65b255b715f23d741c3a0e0405f25f0040484b2ba5e9bf156145f7ac1a"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "src/main/resources/recommend/outfit-templates.json",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/src/main/resources/recommend/outfit-templates.json",
+      "copy_relative_path": "原始资料/后端/src/main/resources/recommend/outfit-templates.json",
+      "category": "规则与依赖",
+      "bytes": 54367,
+      "sha256": "0d322f2af057bc02640c68823872b0390cbaac0756d3e8a8c6475edcadb9fb85"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "src/main/resources/recommend/style-looks.json",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/src/main/resources/recommend/style-looks.json",
+      "copy_relative_path": "原始资料/后端/src/main/resources/recommend/style-looks.json",
+      "category": "规则与依赖",
+      "bytes": 32801,
+      "sha256": "acbb37c7d0bf84d66898774d224fb1f2a892230a82c40e79ff572a23691f8bee"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "docs/reports/2026-10-09-智能搭配推荐引擎最终验收.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/docs/reports/2026-10-09-智能搭配推荐引擎最终验收.md",
+      "copy_relative_path": "原始资料/后端/docs/reports/2026-10-09-智能搭配推荐引擎最终验收.md",
+      "category": "验证报告",
+      "bytes": 14216,
+      "sha256": "2cd113b6b6f25a00dd3f5fa2b5fd10e566585c023538ee8087ac7968721edf95"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/fullbody/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/fullbody/README.md",
+      "copy_relative_path": "原始资料/后端/reports/fullbody/README.md",
+      "category": "验证报告",
+      "bytes": 5760,
+      "sha256": "47a16630509413ab1193e372702cc26c2e04ac994b990a1eb67d5a87c2eea34a"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/image-search/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/image-search/README.md",
+      "copy_relative_path": "原始资料/后端/reports/image-search/README.md",
+      "category": "验证报告",
+      "bytes": 6277,
+      "sha256": "dd88f6a17ed0c1dacc535052128704675edd0190995ba0ac5f7f9b4af3a2b8ea"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/models-poses-2026-10-12/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/models-poses-2026-10-12/README.md",
+      "copy_relative_path": "原始资料/后端/reports/models-poses-2026-10-12/README.md",
+      "category": "验证报告",
+      "bytes": 3694,
+      "sha256": "1b5d1e0ae572e2d0939594a89d9482033549d91624d2e30a43397e137058a207"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/object-storage/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/object-storage/README.md",
+      "copy_relative_path": "原始资料/后端/reports/object-storage/README.md",
+      "category": "验证报告",
+      "bytes": 3363,
+      "sha256": "d49449b564640e00590f7c0085e12b0d66148247c1535c75bc7e503bc7cc3b6d"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/optimization-2026-10-11/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/optimization-2026-10-11/README.md",
+      "copy_relative_path": "原始资料/后端/reports/optimization-2026-10-11/README.md",
+      "category": "验证报告",
+      "bytes": 6053,
+      "sha256": "c45511a1563c0ecbe91be32d9cc0e7947c91ae661bafc668236435a2a8ae7d46"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/recommend-aesthetic/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/recommend-aesthetic/README.md",
+      "copy_relative_path": "原始资料/后端/reports/recommend-aesthetic/README.md",
+      "category": "验证报告",
+      "bytes": 15876,
+      "sha256": "32472d176a826aff585ca4339e3af7f297dbc5926a9cfb5295d811b881dcf368"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/recommend-aesthetic/recipe-slot-eval.json",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/recommend-aesthetic/recipe-slot-eval.json",
+      "copy_relative_path": "原始资料/后端/reports/recommend-aesthetic/recipe-slot-eval.json",
+      "category": "验证报告",
+      "bytes": 7639,
+      "sha256": "c27348071d9d000b79c09a2d91940c9b3653a348ae6396628462fe01e14d8a43"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/recommend-aesthetic/recommend-snapshot.html",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/recommend-aesthetic/recommend-snapshot.html",
+      "copy_relative_path": "原始资料/后端/reports/recommend-aesthetic/recommend-snapshot.html",
+      "category": "验证报告",
+      "bytes": 21936,
+      "sha256": "f4ada3fe032daa9a394f673027dce22c5742bafa3c3b2ac9e673836f3c5d97a5"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/recommend-p1/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/recommend-p1/README.md",
+      "copy_relative_path": "原始资料/后端/reports/recommend-p1/README.md",
+      "category": "验证报告",
+      "bytes": 6474,
+      "sha256": "6158da1e6eff3bc60cc0b80565179c05233163ed3caa7d0a04d3c3ff2d820826"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/recommend-p2/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/recommend-p2/README.md",
+      "copy_relative_path": "原始资料/后端/reports/recommend-p2/README.md",
+      "category": "验证报告",
+      "bytes": 16062,
+      "sha256": "abf43e13b381a58c400658b55c528b19338739f0e62428b4255522a10aeed8f4"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/recommend-p3/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/recommend-p3/README.md",
+      "copy_relative_path": "原始资料/后端/reports/recommend-p3/README.md",
+      "category": "验证报告",
+      "bytes": 10798,
+      "sha256": "06581d3f5ac75910af0c948be0f0f866ea0c46b83bf1d45833a257d5221a2403"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/recommend-p4/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/recommend-p4/README.md",
+      "copy_relative_path": "原始资料/后端/reports/recommend-p4/README.md",
+      "category": "验证报告",
+      "bytes": 7305,
+      "sha256": "03bb7a0e0d658c6b3a3f83915e3d9662e610336898acc1a1df68b2acf29bff79"
+    },
+    {
+      "repository": "后端",
+      "source_relative_path": "reports/similar-garments/README.md",
+      "source_absolute_path": "/Users/yaopinxin/project/smart-closet-server/reports/similar-garments/README.md",
+      "copy_relative_path": "原始资料/后端/reports/similar-garments/README.md",
+      "category": "验证报告",
+      "bytes": 4441,
+      "sha256": "ce497973a3d448a649ffd4b30cbc9b980f54bb9f1a1badc8df81e51cfc0df36f"
+    }
+  ]
+}

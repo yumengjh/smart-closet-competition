@@ -1,0 +1,28 @@
+{
+  "schema": "ppt-master.source_to_md.profile.v1",
+  "converter": "ppt_to_md.py",
+  "conversion_type": "pptx",
+  "source": {
+    "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/light-theme-refinement_20261015/exports/light-theme-refinement_20261015_20261015_233059.pptx",
+    "name": "light-theme-refinement_20261015_20261015_233059.pptx",
+    "suffix": ".pptx",
+    "kind": "file",
+    "exists": true,
+    "size_bytes": 2119710
+  },
+  "outputs": {
+    "markdown": "readback.md",
+    "asset_dir": "readback_files",
+    "image_manifest": "readback_files/image_manifest.json",
+    "image_count": 3
+  },
+  "markdown": {
+    "line_count": 711,
+    "char_count": 7171,
+    "heading_count": 37,
+    "table_count": 0,
+    "image_ref_count": 3,
+    "link_count": 0
+  },
+  "warnings": []
+}

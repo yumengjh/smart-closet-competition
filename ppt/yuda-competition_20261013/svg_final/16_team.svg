@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#F5F1E8" />
+<g id="title" data-pptx-bounds="64 44 1152 146" fill="#302238"><text x="64" y="72" font-size="18">05 / TEAM WITH A WORKING PRODUCT</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">新团队，拿作品建立信任。</text></g>
+<g id="first-entry" data-pptx-bounds="64 224 443 383" fill="#F5F1E8"><rect x="64" y="224" width="443" height="383" fill="#302238" /><text x="90" y="276" font-size="18" fill="#D8F36A">FIRST ENTRY</text><text font-weight="bold" font-size="56" x="90" y="363">我们第一次</text><text font-weight="bold" font-size="56" x="90" y="439">参加比赛。</text><line x1="90" y1="482" x2="469" y2="482" stroke="#C7BECC" stroke-opacity="0.4" /><text font-size="20" x="90" y="535">全新团队，暂无过往竞赛奖项。</text><text font-size="20" x="90" y="573">让已做出的系统成为实力依据。</text></g>
+<g id="product-proof" data-pptx-bounds="567 224 649 103" fill="#302238"><text x="567" y="263" font-size="32" font-weight="bold">产品闭环</text><text x="567" y="311">前后端、搭台与个人 OOTD 已有实现。</text></g>
+<g id="algorithm-proof" data-pptx-bounds="567 362 649 109" fill="#302238"><line x1="567" y1="363" x2="1216" y2="363" stroke="#C7BECC" /><text x="567" y="406" font-size="32" font-weight="bold">算法依据</text><text x="567" y="454">领域规则、风格画像、反例与快照守护。</text></g>
+<g id="engineering-proof" data-pptx-bounds="567 507 649 100" fill="#302238"><line x1="567" y1="508" x2="1216" y2="508" stroke="#C7BECC" /><text x="567" y="549" font-size="32" font-weight="bold">工程保障</text><text x="567" y="592">持久任务、数据归属、CI 与接口契约。</text></g>
+<g id="footer" data-pptx-bounds="64 646 1152 48" fill="#6B6071" font-size="16"><text x="64" y="661">团队经历来自用户陈述；能力来自当前实现与既有验证记录，不虚构成员履历。</text><text x="64" y="686">用户和商业验证是下一步；本轮未运行业务测试或确认线上部署。</text><text x="1178" y="686">16</text></g>
+</svg>

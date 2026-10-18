@@ -1,0 +1,2149 @@
+{
+ "version": "aesthetic-rules-v1",
+ "note": "搭配审美规则库（设计第十八~二十一、二十九~三十、三十九节）。避坑表在封闭维度上按维度对穷举，每格都有结论（含 OK）；styles 列为风格放宽/收紧（OK 不扣、MILD 减半）。改动后跑 GoldenOutfitsTest、AestheticSpreadTest、ExposureBalanceTest。",
+ "weights": {
+  "DEFAULT": {
+   "color": 15,
+   "warmth": 17,
+   "style": 12,
+   "occasion": 12,
+   "relevance": 8,
+   "preference": 8,
+   "freshness": 3,
+   "scheme": 10,
+   "proportion": 7,
+   "focus": 3,
+   "harmony": 5
+  },
+  "COMMUTE": {
+   "color": 15,
+   "warmth": 13,
+   "style": 16,
+   "occasion": 17,
+   "relevance": 4,
+   "preference": 8,
+   "freshness": 2,
+   "scheme": 10,
+   "proportion": 7,
+   "focus": 3,
+   "harmony": 5
+  },
+  "FORMAL": {
+   "color": 15,
+   "warmth": 13,
+   "style": 16,
+   "occasion": 17,
+   "relevance": 4,
+   "preference": 8,
+   "freshness": 2,
+   "scheme": 10,
+   "proportion": 7,
+   "focus": 3,
+   "harmony": 5
+  },
+  "SPORT": {
+   "color": 10,
+   "warmth": 22,
+   "style": 11,
+   "occasion": 16,
+   "relevance": 7,
+   "preference": 7,
+   "freshness": 2,
+   "scheme": 8,
+   "proportion": 6,
+   "focus": 4,
+   "harmony": 7
+  },
+  "OUTDOOR": {
+   "color": 10,
+   "warmth": 22,
+   "style": 11,
+   "occasion": 16,
+   "relevance": 7,
+   "preference": 7,
+   "freshness": 2,
+   "scheme": 8,
+   "proportion": 6,
+   "focus": 4,
+   "harmony": 7
+  }
+ },
+ "area": {
+  "ONE_PIECE": 0.65,
+  "OVERALL": 0.45,
+  "TOP": 0.35,
+  "TOP_UNDER_OUTER": 0.2,
+  "INNER": 0.1,
+  "BOTTOM": 0.35,
+  "OUTER": 0.45,
+  "SHOES": 0.08
+ },
+ "colorNames": [
+  {
+   "match": "米白",
+   "lab": [
+    92,
+    1,
+    9
+   ]
+  },
+  {
+   "match": "奶白",
+   "lab": [
+    92,
+    1,
+    10
+   ]
+  },
+  {
+   "match": "奶油",
+   "lab": [
+    90,
+    2,
+    14
+   ]
+  },
+  {
+   "match": "象牙",
+   "lab": [
+    93,
+    0,
+    10
+   ]
+  },
+  {
+   "match": "冷白",
+   "lab": [
+    95,
+    0,
+    -3
+   ]
+  },
+  {
+   "match": "冷灰",
+   "lab": [
+    60,
+    -1,
+    -5
+   ]
+  },
+  {
+   "match": "银灰",
+   "lab": [
+    72,
+    -1,
+    -4
+   ]
+  },
+  {
+   "match": "暖灰",
+   "lab": [
+    58,
+    2,
+    6
+   ]
+  },
+  {
+   "match": "浅灰",
+   "lab": [
+    76,
+    0,
+    0
+   ]
+  },
+  {
+   "match": "炭灰",
+   "lab": [
+    33,
+    0,
+    -1
+   ]
+  },
+  {
+   "match": "深灰",
+   "lab": [
+    36,
+    0,
+    0
+   ]
+  },
+  {
+   "match": "卡其",
+   "lab": [
+    62,
+    3,
+    22
+   ]
+  },
+  {
+   "match": "驼",
+   "lab": [
+    60,
+    10,
+    28
+   ]
+  },
+  {
+   "match": "杏",
+   "lab": [
+    84,
+    5,
+    18
+   ]
+  },
+  {
+   "match": "咖啡",
+   "lab": [
+    32,
+    9,
+    16
+   ]
+  },
+  {
+   "match": "深棕",
+   "lab": [
+    28,
+    10,
+    14
+   ]
+  },
+  {
+   "match": "藏蓝",
+   "lab": [
+    22,
+    4,
+    -26
+   ]
+  },
+  {
+   "match": "深蓝",
+   "lab": [
+    25,
+    6,
+    -30
+   ]
+  },
+  {
+   "match": "海军",
+   "lab": [
+    22,
+    4,
+    -26
+   ]
+  },
+  {
+   "match": "牛仔",
+   "lab": [
+    48,
+    -1,
+    -26
+   ]
+  },
+  {
+   "match": "雾蓝",
+   "lab": [
+    65,
+    -3,
+    -12
+   ]
+  },
+  {
+   "match": "灰蓝",
+   "lab": [
+    60,
+    -3,
+    -12
+   ]
+  },
+  {
+   "match": "蓝灰",
+   "lab": [
+    58,
+    -2,
+    -10
+   ]
+  },
+  {
+   "match": "浅蓝",
+   "lab": [
+    76,
+    -6,
+    -20
+   ]
+  },
+  {
+   "match": "天蓝",
+   "lab": [
+    74,
+    -10,
+    -26
+   ]
+  },
+  {
+   "match": "宝蓝",
+   "lab": [
+    38,
+    18,
+    -62
+   ]
+  },
+  {
+   "match": "酒红",
+   "lab": [
+    30,
+    40,
+    15
+   ]
+  },
+  {
+   "match": "砖红",
+   "lab": [
+    45,
+    38,
+    30
+   ]
+  },
+  {
+   "match": "玫红",
+   "lab": [
+    50,
+    65,
+    0
+   ]
+  },
+  {
+   "match": "豆沙",
+   "lab": [
+    62,
+    18,
+    8
+   ]
+  },
+  {
+   "match": "浅粉",
+   "lab": [
+    88,
+    12,
+    2
+   ]
+  },
+  {
+   "match": "雾粉",
+   "lab": [
+    78,
+    13,
+    5
+   ]
+  },
+  {
+   "match": "裸粉",
+   "lab": [
+    80,
+    12,
+    10
+   ]
+  },
+  {
+   "match": "墨绿",
+   "lab": [
+    30,
+    -25,
+    8
+   ]
+  },
+  {
+   "match": "橄榄",
+   "lab": [
+    45,
+    -8,
+    25
+   ]
+  },
+  {
+   "match": "军绿",
+   "lab": [
+    42,
+    -8,
+    22
+   ]
+  },
+  {
+   "match": "薄荷",
+   "lab": [
+    86,
+    -24,
+    6
+   ]
+  },
+  {
+   "match": "牛油果",
+   "lab": [
+    80,
+    -15,
+    35
+   ]
+  },
+  {
+   "match": "莫兰迪",
+   "lab": [
+    65,
+    -3,
+    8
+   ]
+  },
+  {
+   "match": "鹅黄",
+   "lab": [
+    92,
+    -4,
+    35
+   ]
+  },
+  {
+   "match": "姜黄",
+   "lab": [
+    68,
+    12,
+    62
+   ]
+  },
+  {
+   "match": "芥末",
+   "lab": [
+    62,
+    2,
+    55
+   ]
+  },
+  {
+   "match": "浅紫",
+   "lab": [
+    72,
+    15,
+    -20
+   ]
+  },
+  {
+   "match": "薰衣草",
+   "lab": [
+    74,
+    12,
+    -18
+   ]
+  },
+  {
+   "match": "香芋",
+   "lab": [
+    70,
+    14,
+    -14
+   ]
+  },
+  {
+   "match": "荧光",
+   "lab": [
+    90,
+    -40,
+    85
+   ]
+  }
+ ],
+ "familyLab": {
+  "BLACK": [
+   15,
+   0,
+   0
+  ],
+  "WHITE": [
+   95,
+   0,
+   2
+  ],
+  "GRAY": [
+   56,
+   0,
+   0
+  ],
+  "BEIGE": [
+   82,
+   3,
+   16
+  ],
+  "BROWN": [
+   40,
+   12,
+   22
+  ],
+  "NAVY": [
+   22,
+   4,
+   -26
+  ],
+  "DENIM": [
+   48,
+   -1,
+   -26
+  ],
+  "BLUE": [
+   50,
+   5,
+   -45
+  ],
+  "RED": [
+   45,
+   62,
+   40
+  ],
+  "ORANGE": [
+   65,
+   40,
+   65
+  ],
+  "YELLOW": [
+   88,
+   -5,
+   75
+  ],
+  "GREEN": [
+   50,
+   -45,
+   30
+  ],
+  "PURPLE": [
+   40,
+   40,
+   -40
+  ],
+  "PINK": [
+   78,
+   25,
+   3
+  ]
+ },
+ "neutralLab": {
+  "maxChroma": 12,
+  "earthHue": [
+   40,
+   100
+  ],
+  "earthMaxChroma": 32,
+  "navyHue": [
+   240,
+   320
+  ],
+  "navyMaxL": 35
+ },
+ "scheme": {
+  "maxUnknownArea": 0.4,
+  "accentMin": 0.08,
+  "accentMax": 0.35,
+  "hueGroup": 30,
+  "analogous": 60,
+  "complementary": 150,
+  "clashHue": 90,
+  "clashArea": 0.25,
+  "clashChroma": 35,
+  "layeredL": 25,
+  "flatL": 10,
+  "monoL": 20,
+  "smallArea": 0.15,
+  "scores": {
+   "MONO": 0.9,
+   "ACCENT": 0.8,
+   "PRINT_NEUTRAL": 0.85,
+   "NEUTRAL_LAYERED": 0.85,
+   "STATEMENT": 0.75,
+   "ANALOGOUS": 0.75,
+   "CONTRAST_ACCENT": 0.75,
+   "NEUTRAL": 0.65,
+   "MONO_FLAT": 0.7,
+   "NEUTRAL_FLAT": 0.5,
+   "PRINT_COLOR": 0.45,
+   "MIXED": 0.45,
+   "CLASH": 0.3,
+   "CLASH_ALLOWED": 0.7,
+   "UNKNOWN": 0.5
+  },
+  "named": 1.0,
+  "echo": 0.1,
+  "echoDeltaE": 12,
+  "muddy": -0.15,
+  "mutedChroma": [
+   12,
+   25
+  ],
+  "vividChroma": 50,
+  "toneMix": -0.1,
+  "warmB": 6,
+  "coolB": -2,
+  "valueContrast": 0.05,
+  "valueContrastL": 30
+ },
+ "focus": {
+  "heroWeight": 0.25,
+  "heroPatternArea": 0.3,
+  "heroMaterialArea": 0.3,
+  "vividChroma": 45,
+  "one": 1.0,
+  "none": 0.7,
+  "noneMinimal": 0.9,
+  "many": 0.3,
+  "manyAllowed": 0.85,
+  "materials": [
+   "LACE",
+   "SATIN",
+   "LEATHER",
+   "SEQUIN"
+  ]
+ },
+ "harmony": {
+  "base": 0.5,
+  "echo": 0.2,
+  "mismatch": 0.2,
+  "seasonGap": 2.5,
+  "warmthGapUnknown": 2.8,
+  "mismatchPoints": 8,
+  "shoeSeasonPoints": 3,
+  "inSeason": 0.5,
+  "coldC": 12,
+  "hotC": 24
+ },
+ "proportion": {
+  "contrast": 0.9,
+  "sameSlim": 0.7,
+  "sameRegular": 0.7,
+  "looseLoose": 0.5,
+  "looseLooseAllowed": 0.7,
+  "waist": 0.15,
+  "longLong": -0.25,
+  "dressWaist": 0.85,
+  "dressNoWaist": 0.65,
+  "unknown": 0.65,
+  "looseLooseLong": 0.35
+ },
+ "silhouette": {
+  "topLoose": [
+   "宽松",
+   "廓形",
+   "oversize",
+   "落肩",
+   "阔版",
+   "蝙蝠袖",
+   "bf"
+  ],
+  "topSlim": [
+   "修身",
+   "紧身",
+   "贴身"
+  ],
+  "topRegular": [
+   "合体",
+   "常规"
+  ],
+  "topShort": [
+   "短款",
+   "露腰",
+   "crop",
+   "露脐"
+  ],
+  "topLong": [
+   "长款",
+   "中长款",
+   "长版",
+   "盖臀"
+  ],
+  "tuckable": [
+   "T恤",
+   "衬衫",
+   "针织衫",
+   "背心",
+   "吊带",
+   "Polo",
+   "上衣",
+   "打底"
+  ],
+  "untuckable": [
+   "卫衣",
+   "毛衣",
+   "外套",
+   "夹克",
+   "开衫",
+   "马甲",
+   "羽绒",
+   "大衣"
+  ],
+  "bottomLoose": [
+   "阔腿",
+   "A字",
+   "百褶",
+   "伞裙",
+   "蓬",
+   "喇叭",
+   "哈伦",
+   "灯笼",
+   "宽松",
+   "廓形",
+   "工装裤"
+  ],
+  "bottomSlim": [
+   "铅笔",
+   "紧身",
+   "小脚",
+   "修身",
+   "打底裤",
+   "包臀",
+   "鱼尾"
+  ],
+  "bottomRegular": [
+   "直筒",
+   "烟管",
+   "合体"
+  ],
+  "highWaist": [
+   "高腰"
+  ],
+  "bottomShort": [
+   "短裤",
+   "短裙",
+   "迷你",
+   "热裤"
+  ],
+  "bottomMid": [
+   "及膝",
+   "中长",
+   "七分",
+   "九分",
+   "五分"
+  ],
+  "bottomLong": [
+   "长裙",
+   "长裤",
+   "阔腿",
+   "拖地",
+   "西裤",
+   "牛仔裤",
+   "运动裤",
+   "卫裤"
+  ],
+  "dressWaist": [
+   "收腰",
+   "X型",
+   "系带",
+   "腰带",
+   "高腰"
+  ],
+  "dressNoWaist": [
+   "直筒",
+   "H型",
+   "宽松",
+   "廓形",
+   "oversize",
+   "茧型"
+  ]
+ },
+ "materials": [
+  {
+   "family": "DENIM",
+   "match": [
+    "牛仔"
+   ]
+  },
+  {
+   "family": "DOWN",
+   "match": [
+    "羽绒"
+   ]
+  },
+  {
+   "family": "LACE",
+   "match": [
+    "蕾丝"
+   ]
+  },
+  {
+   "family": "SEQUIN",
+   "match": [
+    "亮片"
+   ]
+  },
+  {
+   "family": "LEATHER",
+   "match": [
+    "皮衣",
+    "皮裙",
+    "皮裤",
+    "皮革",
+    "PU"
+   ]
+  },
+  {
+   "family": "WOOL",
+   "match": [
+    "毛呢",
+    "呢子",
+    "羊绒大衣",
+    "粗花呢"
+   ]
+  },
+  {
+   "family": "SHEER",
+   "match": [
+    "雪纺",
+    "网纱",
+    "薄纱",
+    "纱裙",
+    "欧根纱",
+    "网眼"
+   ]
+  },
+  {
+   "family": "SATIN",
+   "match": [
+    "丝缎",
+    "缎面",
+    "真丝",
+    "丝绸",
+    "光泽"
+   ]
+  },
+  {
+   "family": "SPORT",
+   "match": [
+    "运动",
+    "速干",
+    "冲锋",
+    "瑜伽",
+    "卫裤"
+   ]
+  },
+  {
+   "family": "CORDUROY",
+   "match": [
+    "灯芯绒",
+    "条绒"
+   ]
+  },
+  {
+   "family": "LINEN",
+   "match": [
+    "亚麻",
+    "棉麻"
+   ]
+  },
+  {
+   "family": "KNIT",
+   "match": [
+    "针织",
+    "毛衣",
+    "毛线",
+    "羊毛",
+    "开衫"
+   ]
+  }
+ ],
+ "styleAllowances": {
+  "美式": [
+   "double-denim"
+  ],
+  "工装": [
+   "double-denim",
+   "loose-loose"
+  ],
+  "牛仔": [
+   "double-denim"
+  ],
+  "西部": [
+   "double-denim"
+  ],
+  "古着": [
+   "double-denim"
+  ],
+  "y2k": [
+   "double-denim",
+   "clash"
+  ],
+  "街头": [
+   "loose-loose"
+  ],
+  "嘻哈": [
+   "loose-loose"
+  ],
+  "oversize": [
+   "loose-loose"
+  ],
+  "慵懒": [
+   "loose-loose"
+  ],
+  "宽松": [
+   "loose-loose"
+  ],
+  "多巴胺": [
+   "clash"
+  ],
+  "撞色": [
+   "clash"
+  ],
+  "孟菲斯": [
+   "clash"
+  ],
+  "洛丽塔": [
+   "multi-focus"
+  ],
+  "lolita": [
+   "multi-focus"
+  ],
+  "哥特": [
+   "multi-focus"
+  ],
+  "地雷": [
+   "multi-focus"
+  ],
+  "量产": [
+   "multi-focus"
+  ],
+  "极简": [
+   "minimal"
+  ],
+  "简约": [
+   "minimal"
+  ],
+  "性冷淡": [
+   "minimal"
+  ]
+ },
+ "balance": {
+  "outerStyleBonus": 0.1,
+  "outerStylePenalty": 0.25,
+  "rotationShare": 0.3,
+  "recallGrowth": 1.5,
+  "recallCapFactor": 2.0,
+  "rotationRelevanceGap": 0.15,
+  "rotationRelevanceFloor": 0.35,
+  "debtPerDay": 0.15,
+  "debtCap": 4,
+  "debtMinDays": 7,
+  "newItemDays": 7,
+  "newItemBonus": 2,
+  "nearTie": 1.5,
+  "structureStep": 0.03,
+  "throttleShare": 0.25,
+  "throttleFactor": 0.85,
+  "throttleGap": 3,
+  "exposureWindowDays": 30,
+  "shareWindowDays": 14,
+  "outerCreditMaxC": 22,
+  "maxCombos": 2400,
+  "shoeSwapGap": 3
+ },
+ "styleMix": {
+  "note": "主体风格完全不重合时风格维度的起点（P4 为 0.5）；有部分重合时按重合度向 1 靠近。2026-10-10 用户反馈：休闲衬衫配甜美背带裙还有 90 分",
+  "floor": 0.3
+ },
+ "shoeStyle": {
+  "note": "鞋的风格：按名称和品类认出鞋款，取鞋款风格并上鞋自己的风格标签；与主体风格完全不重合时扣风格分（2026-10-10 用户反馈：玛丽珍鞋配背带裤和 T 恤）。靴子、凉鞋百搭（styles 为空），认不出的鞋款不判断。weakTags：鞋自己的这些宽泛标签不并入鞋款风格（识别几乎给每双鞋都标休闲，否则玛丽珍鞋配任何休闲主体都不判冲突）",
+  "penalty": 0.3,
+  "weakTags": ["休闲", "日常", "百搭"],
+  "kinds": [
+   {"match": ["玛丽珍", "洛丽塔"], "label": "玛丽珍鞋", "styles": ["甜美", "复古", "通勤"]},
+   {"match": ["靴", "凉鞋"], "label": "靴子/凉鞋", "styles": []},
+   {"match": ["乐福", "牛津", "德比"], "label": "乐福鞋/牛津鞋", "styles": ["通勤", "复古", "正式"]},
+   {"match": ["高跟", "细跟", "尖头鞋", "猫跟"], "label": "高跟鞋", "styles": ["通勤", "正式", "甜美"]},
+   {"match": ["运动鞋", "跑鞋", "训练鞋", "球鞋"], "label": "运动鞋", "styles": ["运动", "休闲", "户外"]},
+   {"match": ["板鞋", "帆布", "老爹鞋", "休闲鞋"], "label": "休闲鞋", "styles": ["休闲", "运动"]},
+   {"match": ["拖鞋", "人字拖", "洞洞鞋"], "label": "拖鞋", "styles": ["休闲"]}
+  ]
+ },
+ "colorCells": [
+  {
+   "a": "BLACK",
+   "b": "BLACK",
+   "verdict": "OK",
+   "text": "同色"
+  },
+  {
+   "a": "BLACK",
+   "b": "WHITE",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BLACK",
+   "b": "GRAY",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BLACK",
+   "b": "BEIGE",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BLACK",
+   "b": "BROWN",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BLACK",
+   "b": "NAVY",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BLACK",
+   "b": "DENIM",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BLACK",
+   "b": "BLUE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BLACK",
+   "b": "RED",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BLACK",
+   "b": "ORANGE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BLACK",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BLACK",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BLACK",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BLACK",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "WHITE",
+   "b": "WHITE",
+   "verdict": "OK",
+   "text": "同色"
+  },
+  {
+   "a": "WHITE",
+   "b": "GRAY",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "WHITE",
+   "b": "BEIGE",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "WHITE",
+   "b": "BROWN",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "WHITE",
+   "b": "NAVY",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "WHITE",
+   "b": "DENIM",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "WHITE",
+   "b": "BLUE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "WHITE",
+   "b": "RED",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "WHITE",
+   "b": "ORANGE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "WHITE",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "WHITE",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "WHITE",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "WHITE",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "GRAY",
+   "b": "GRAY",
+   "verdict": "OK",
+   "text": "同色"
+  },
+  {
+   "a": "GRAY",
+   "b": "BEIGE",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "GRAY",
+   "b": "BROWN",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "GRAY",
+   "b": "NAVY",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "GRAY",
+   "b": "DENIM",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "GRAY",
+   "b": "BLUE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "GRAY",
+   "b": "RED",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "GRAY",
+   "b": "ORANGE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "GRAY",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "GRAY",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "GRAY",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "GRAY",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BEIGE",
+   "b": "BEIGE",
+   "verdict": "OK",
+   "text": "同色"
+  },
+  {
+   "a": "BEIGE",
+   "b": "BROWN",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BEIGE",
+   "b": "NAVY",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BEIGE",
+   "b": "DENIM",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BEIGE",
+   "b": "BLUE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BEIGE",
+   "b": "RED",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BEIGE",
+   "b": "ORANGE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BEIGE",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BEIGE",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BEIGE",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BEIGE",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BROWN",
+   "b": "BROWN",
+   "verdict": "OK",
+   "text": "同色"
+  },
+  {
+   "a": "BROWN",
+   "b": "NAVY",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BROWN",
+   "b": "DENIM",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "BROWN",
+   "b": "BLUE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BROWN",
+   "b": "RED",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BROWN",
+   "b": "ORANGE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BROWN",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BROWN",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BROWN",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BROWN",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "NAVY",
+   "b": "NAVY",
+   "verdict": "OK",
+   "text": "同色"
+  },
+  {
+   "a": "NAVY",
+   "b": "DENIM",
+   "verdict": "OK",
+   "text": "中性色互搭"
+  },
+  {
+   "a": "NAVY",
+   "b": "BLUE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "NAVY",
+   "b": "RED",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "NAVY",
+   "b": "ORANGE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "NAVY",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "NAVY",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "NAVY",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "NAVY",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "DENIM",
+   "b": "DENIM",
+   "verdict": "OK",
+   "text": "同色"
+  },
+  {
+   "a": "DENIM",
+   "b": "BLUE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "DENIM",
+   "b": "RED",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "DENIM",
+   "b": "ORANGE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "DENIM",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "DENIM",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "DENIM",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "DENIM",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "中性色配彩色"
+  },
+  {
+   "a": "BLUE",
+   "b": "BLUE",
+   "verdict": "OK",
+   "text": "同色系，交给配色手法判断深浅"
+  },
+  {
+   "a": "BLUE",
+   "b": "RED",
+   "verdict": "OK",
+   "text": "对比色，按面积交给配色手法判断"
+  },
+  {
+   "a": "BLUE",
+   "b": "ORANGE",
+   "verdict": "OK",
+   "text": "互补色，小面积点缀才好看，交给配色手法"
+  },
+  {
+   "a": "BLUE",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "对比色，交给配色手法"
+  },
+  {
+   "a": "BLUE",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "邻近色"
+  },
+  {
+   "a": "BLUE",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "邻近色"
+  },
+  {
+   "a": "BLUE",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "柔和对比"
+  },
+  {
+   "a": "RED",
+   "b": "RED",
+   "verdict": "OK",
+   "text": "同色系，交给配色手法判断深浅"
+  },
+  {
+   "a": "RED",
+   "b": "ORANGE",
+   "verdict": "PENALTY",
+   "text": "红橙相撞",
+   "styles": {
+    "多巴胺": "OK",
+    "撞色": "OK",
+    "孟菲斯": "OK",
+    "街头": "MILD",
+    "节日": "MILD"
+   }
+  },
+  {
+   "a": "RED",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "高饱和时偏跳，交给饱和度与面积判断"
+  },
+  {
+   "a": "RED",
+   "b": "GREEN",
+   "verdict": "PENALTY",
+   "text": "红绿撞色",
+   "styles": {
+    "多巴胺": "OK",
+    "撞色": "OK",
+    "孟菲斯": "OK",
+    "街头": "MILD",
+    "节日": "MILD"
+   }
+  },
+  {
+   "a": "RED",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "邻近偏暖冷，交给配色手法"
+  },
+  {
+   "a": "RED",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "同色系深浅"
+  },
+  {
+   "a": "ORANGE",
+   "b": "ORANGE",
+   "verdict": "OK",
+   "text": "同色系，交给配色手法判断深浅"
+  },
+  {
+   "a": "ORANGE",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "邻近色"
+  },
+  {
+   "a": "ORANGE",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "对比偏跳，交给配色手法"
+  },
+  {
+   "a": "ORANGE",
+   "b": "PURPLE",
+   "verdict": "PENALTY",
+   "text": "橙紫撞色",
+   "styles": {
+    "多巴胺": "OK",
+    "撞色": "OK",
+    "孟菲斯": "OK",
+    "街头": "MILD",
+    "节日": "MILD"
+   }
+  },
+  {
+   "a": "ORANGE",
+   "b": "PINK",
+   "verdict": "PENALTY",
+   "text": "橙粉撞色",
+   "styles": {
+    "多巴胺": "OK",
+    "撞色": "OK",
+    "孟菲斯": "OK",
+    "街头": "MILD",
+    "节日": "MILD"
+   }
+  },
+  {
+   "a": "YELLOW",
+   "b": "YELLOW",
+   "verdict": "OK",
+   "text": "同色系，交给配色手法判断深浅"
+  },
+  {
+   "a": "YELLOW",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "邻近色"
+  },
+  {
+   "a": "PURPLE",
+   "b": "YELLOW",
+   "verdict": "PENALTY",
+   "text": "紫黄撞色",
+   "styles": {
+    "多巴胺": "OK",
+    "撞色": "OK",
+    "孟菲斯": "OK",
+    "街头": "MILD",
+    "节日": "MILD"
+   }
+  },
+  {
+   "a": "YELLOW",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "甜美撞色，常见于甜美风"
+  },
+  {
+   "a": "GREEN",
+   "b": "GREEN",
+   "verdict": "OK",
+   "text": "同色系，交给配色手法判断深浅"
+  },
+  {
+   "a": "GREEN",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "对比色，交给配色手法"
+  },
+  {
+   "a": "GREEN",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "经典粉绿撞色，小面积可行"
+  },
+  {
+   "a": "PURPLE",
+   "b": "PURPLE",
+   "verdict": "OK",
+   "text": "同色系，交给配色手法判断深浅"
+  },
+  {
+   "a": "PURPLE",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "邻近色"
+  },
+  {
+   "a": "PINK",
+   "b": "PINK",
+   "verdict": "OK",
+   "text": "同色系，交给配色手法判断深浅"
+  }
+ ],
+ "materialCells": [
+  {
+   "a": "DENIM",
+   "b": "DENIM",
+   "verdict": "PENALTY",
+   "points": 8,
+   "text": "牛仔叠牛仔容易显得厚重单调",
+   "styles": {
+    "美式": "OK",
+    "工装": "OK",
+    "牛仔": "OK",
+    "西部": "OK",
+    "古着": "OK",
+    "y2k": "OK"
+   },
+   "rule": "material.double-denim"
+  },
+  {
+   "a": "DENIM",
+   "b": "KNIT",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "LACE",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "LEATHER",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "WOOL",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "SHEER",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "SATIN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "DOWN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "SPORT",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "CORDUROY",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "LINEN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DENIM",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "KNIT",
+   "verdict": "OK",
+   "text": "针织叠针织，同色系时柔和"
+  },
+  {
+   "a": "KNIT",
+   "b": "LACE",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "LEATHER",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "WOOL",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "SHEER",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "SATIN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "DOWN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "SPORT",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "CORDUROY",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "LINEN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "KNIT",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LACE",
+   "b": "LACE",
+   "verdict": "OK",
+   "text": "蕾丝叠蕾丝，交给焦点与风格判断"
+  },
+  {
+   "a": "LACE",
+   "b": "LEATHER",
+   "verdict": "OK",
+   "text": "蕾丝配皮革，甜酷对比"
+  },
+  {
+   "a": "LACE",
+   "b": "WOOL",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LACE",
+   "b": "SHEER",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LACE",
+   "b": "SATIN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LACE",
+   "b": "DOWN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SPORT",
+   "b": "LACE",
+   "verdict": "PENALTY",
+   "points": 4,
+   "text": "运动面料配蕾丝，质感冲突",
+   "styles": {
+    "街头": "MILD"
+   },
+   "rule": "material.pair"
+  },
+  {
+   "a": "LACE",
+   "b": "CORDUROY",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LACE",
+   "b": "LINEN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LACE",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LEATHER",
+   "b": "LEATHER",
+   "verdict": "OK",
+   "text": "皮革叠皮革偏重，交给焦点判断"
+  },
+  {
+   "a": "LEATHER",
+   "b": "WOOL",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LEATHER",
+   "b": "SHEER",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LEATHER",
+   "b": "SATIN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LEATHER",
+   "b": "DOWN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LEATHER",
+   "b": "SPORT",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LEATHER",
+   "b": "CORDUROY",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LEATHER",
+   "b": "LINEN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LEATHER",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "WOOL",
+   "b": "WOOL",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "WOOL",
+   "b": "SHEER",
+   "verdict": "PENALTY",
+   "points": 4,
+   "text": "厚毛呢配薄纱，季节感不统一",
+   "styles": {
+    "洛丽塔": "OK",
+    "哥特": "OK",
+    "lolita": "OK"
+   },
+   "rule": "material.pair"
+  },
+  {
+   "a": "WOOL",
+   "b": "SATIN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "WOOL",
+   "b": "DOWN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SPORT",
+   "b": "WOOL",
+   "verdict": "OK",
+   "points": 0,
+   "text": "运动面料配毛呢大衣是常见的运动休闲穿法（2026-10-10 模型复核后由 MILD 改为 OK）",
+   "styles": {}
+  },
+  {
+   "a": "WOOL",
+   "b": "CORDUROY",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "WOOL",
+   "b": "LINEN",
+   "verdict": "MILD",
+   "points": 2,
+   "text": "厚毛呢配亚麻，季节感略不统一（2026-10-10 模型复核后由 −4 降为 −2：换季时常见）",
+   "styles": {},
+   "rule": "material.pair"
+  },
+  {
+   "a": "WOOL",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SHEER",
+   "b": "SHEER",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SHEER",
+   "b": "SATIN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DOWN",
+   "b": "SHEER",
+   "verdict": "PENALTY",
+   "points": 4,
+   "text": "羽绒配薄纱，季节感不统一",
+   "styles": {},
+   "rule": "material.pair"
+  },
+  {
+   "a": "SHEER",
+   "b": "SPORT",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "CORDUROY",
+   "b": "SHEER",
+   "verdict": "MILD",
+   "points": 2,
+   "text": "灯芯绒配薄纱，季节感略不统一",
+   "styles": {
+    "复古": "OK"
+   },
+   "rule": "material.pair"
+  },
+  {
+   "a": "SHEER",
+   "b": "LINEN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SHEER",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SATIN",
+   "b": "SATIN",
+   "verdict": "OK",
+   "text": "同为光泽面料"
+  },
+  {
+   "a": "DOWN",
+   "b": "SATIN",
+   "verdict": "MILD",
+   "points": 2,
+   "text": "羽绒配丝缎，质感差距大",
+   "styles": {},
+   "rule": "material.pair"
+  },
+  {
+   "a": "SPORT",
+   "b": "SATIN",
+   "verdict": "PENALTY",
+   "points": 4,
+   "text": "运动面料配丝缎，质感冲突",
+   "styles": {
+    "街头": "MILD"
+   },
+   "rule": "material.pair"
+  },
+  {
+   "a": "SATIN",
+   "b": "CORDUROY",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SATIN",
+   "b": "LINEN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SATIN",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DOWN",
+   "b": "DOWN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DOWN",
+   "b": "SPORT",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DOWN",
+   "b": "CORDUROY",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "DOWN",
+   "b": "LINEN",
+   "verdict": "MILD",
+   "points": 2,
+   "text": "羽绒配亚麻，季节感略不统一（2026-10-10 模型复核后由 −4 降为 −2：换季时常见）",
+   "styles": {},
+   "rule": "material.pair"
+  },
+  {
+   "a": "DOWN",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SPORT",
+   "b": "SPORT",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SPORT",
+   "b": "CORDUROY",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SPORT",
+   "b": "LINEN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "SPORT",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "CORDUROY",
+   "b": "CORDUROY",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "CORDUROY",
+   "b": "LINEN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "CORDUROY",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LINEN",
+   "b": "LINEN",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "LINEN",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  },
+  {
+   "a": "COTTON",
+   "b": "COTTON",
+   "verdict": "OK",
+   "text": "质感可以共存"
+  }
+ ],
+ "recipes": {
+  "note": "搭法优先（设计 8.4、S1）：每个位置最多取 perSlot 件；语义候选要求相似度 ≥ floor 且与同位置第一名差距 ≤ window。忠实于搭法（显示搭法名并加分）= 关键词命中，或相似度 ≥ high，或相似度 ≥ floor 且领先同位置其他衣物 ≥ faithfulGap。2026-10-10 用 bge-small-zh 在 41 件标注衣柜上标定（RecipeSlotEvaluationTest）：24 个正例同位置第一名全部正确、按此规则全部忠实；10 个衣柜里没有的反例无一误判为忠实。",
+  "perSlot": 3,
+  "floor": 0.5,
+  "high": 0.55,
+  "window": 0.06,
+  "maxFills": 400,
+  "fillersPerRole": 2,
+  "faithfulGap": 0.03
+ }
+}

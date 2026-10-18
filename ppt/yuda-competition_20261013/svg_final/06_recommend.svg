@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#F5F1E8" />
+<g id="title" data-pptx-bounds="64 44 1152 159" fill="#302238"><text x="64" y="72" font-size="18">RECOMMEND / 理由与选择</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">先给你理由，再给你选择。</text><text x="64" y="191" font-size="20" fill="#6B6071">明天通勤，想精致一些。 / 功能情景示意</text></g>
+<g id="outfit" data-pptx-bounds="64 238 548 354"><rect x="64" y="238" width="548" height="354" fill="#E8E1D6" />
+<path d="M180 279 L214 295 L248 279 L300 316 L280 355 L257 341 L257 433 L172 433 L172 341 L150 355 L130 316 Z" fill="#F5F1E8" />
+<path d="M370 282 L441 282 L460 464 L420 468 L404 358 L391 468 L351 464 Z" fill="#302238" />
+<path d="M168 514 L206 514 L220 535 L274 544 Q288 550 281 568 L162 568 L160 543 Z" fill="#BBA4CB" />
+<path d="M337 514 L375 514 L389 535 L443 544 Q457 550 450 568 L331 568 L329 543 Z" fill="#302238" />
+<text x="90" y="470" font-size="18" fill="#6B6071">配色呼应</text><text x="90" y="276" font-size="18" fill="#6B6071">通勤组合</text>
+</g>
+<g id="reasons" data-pptx-bounds="667 238 549 233" fill="#302238"><text x="667" y="277" font-size="32" font-weight="bold">为什么这样搭？</text><text x="667" y="337">配色关系、场景适配、近期曝光，</text><text x="667" y="379">都可以成为具体依据。</text><text x="667" y="442" font-size="20" fill="#6B6071">也能查看：为什么没推荐那件。</text></g>
+<g id="swap" data-pptx-bounds="667 498 549 104" fill="#302238"><rect x="667" y="498" width="549" height="104" fill="#D8F36A" /><text x="692" y="538" font-size="32" font-weight="bold">换双鞋，重新计算。</text><text x="692" y="580" font-size="20">这次不合适，不等于永久讨厌这件单品。</text></g>
+<g id="footer" data-pptx-bounds="64 640 1152 50" fill="#6B6071" font-size="16"><text x="64" y="658">页面推荐与微调：零远程大模型决策调用；本地计算仍有成本。</text><text x="64" y="684">依据：competition/04 · 衣物为示意，不对应实际评分</text><text x="1178" y="684">06</text></g>
+</svg>

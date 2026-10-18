@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#F5F1E8" />
+<g id="title" data-pptx-bounds="64 44 1152 140" fill="#302238"><text x="64" y="72" font-size="18">01 / THE DAILY DECISION</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">衣柜很满，却总穿那几件。</text></g>
+<g id="morning" data-pptx-bounds="64 215 432 398" fill="#302238"><text x="64" y="305" font-size="88">07:50</text><text x="70" y="363" font-size="20" fill="#6B6071">出门前十分钟 · 情景示意</text><line x1="70" y1="407" x2="445" y2="407" stroke="#C7BECC" /><text x="70" y="462" font-size="32"><tspan x="70" y="462">照片有，灵感有。</tspan><tspan x="70" y="510">今天怎么穿，</tspan><tspan x="70" y="558">还是没有答案。</tspan></text></g>
+<g id="missing-choice" data-pptx-bounds="550 216 666 391" fill="#302238">
+<g fill="#E8E1D6"><path d="M591 220 L609 230 L626 220 L660 247 L646 275 L634 266 L634 333 L581 333 L581 266 L566 275 L550 247 Z" /><path d="M753 220 L770 230 L787 220 L822 247 L808 275 L796 266 L796 333 L744 333 L744 266 L728 275 L713 247 Z" /><path d="M1088 220 L1105 230 L1122 220 L1157 247 L1143 275 L1131 266 L1131 333 L1079 333 L1079 266 L1063 275 L1048 247 Z" /></g>
+<path d="M921 220 L938 230 L955 220 L990 247 L976 275 L964 266 L964 333 L912 333 L912 266 L896 275 L881 247 Z" />
+<circle cx="938" cy="282" r="21" fill="#D8F36A" /><text x="938" y="290" text-anchor="middle" font-size="20">选它</text>
+<g id="pain-find"><text x="560" y="402" font-size="32" font-weight="bold">找不到</text><text x="728" y="402">照片分散，属性不清</text><line x1="560" y1="433" x2="1194" y2="433" stroke="#C7BECC" /></g>
+<g id="pain-match"><text x="560" y="475" font-size="32" font-weight="bold">不会配</text><text x="728" y="475">灵感落不到已有衣物</text><line x1="560" y1="507" x2="1194" y2="507" stroke="#C7BECC" /></g>
+<g id="pain-try"><text x="560" y="549" font-size="32" font-weight="bold">不敢试</text><text x="728" y="549">缺少理由，也缺少预览</text></g>
+</g>
+<g id="footer" data-pptx-bounds="64 651 1152 38" fill="#6B6071" font-size="16"><text x="64" y="680">鱼搭 / 用户困境的情景表达，非调查数据</text><text x="1178" y="680">02</text></g>
+</svg>

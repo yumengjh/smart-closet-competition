@@ -1,0 +1,209 @@
+{
+  "status": "passed",
+  "slide_count": 18,
+  "notes_count": 18,
+  "source_original_unchanged": true,
+  "source_pptx_sha256": "bb7fe9ebcbb55e8531460f3b3fc55308db12f6e787ad5a64826419badb98f849",
+  "output_sha256": "727cd89eef0acf4584039e072df260cd39819441f5f344fefe1fb172b6bcb461",
+  "copied_documents": [
+    {
+      "name": "05-核心功能与系统设计.md",
+      "sha256": "1859d967d9eff0763b8e507c4d37143fa5ba459bc26e5b316999d7c202b12df8",
+      "copy_verified": true
+    },
+    {
+      "name": "07-扫描结论与证据边界.md",
+      "sha256": "bb793f2f5c6046d0df9c3e3afd5dc5f99c3ac6344e1e92e9551fea4b294028de",
+      "copy_verified": true
+    },
+    {
+      "name": "03-完整技术栈与选型.md",
+      "sha256": "1e20604489e87b38d38971209b526986ec310358c8e92a229f22ed70d89c2616",
+      "copy_verified": true
+    },
+    {
+      "name": "02-创新立意与竞品对比.md",
+      "sha256": "34875092f30fb71a66c6fea6d844dac00eee1c1d91086d2c581bda07ee68626d",
+      "copy_verified": true
+    },
+    {
+      "name": "01-项目介绍.md",
+      "sha256": "b03d7e8a46eef7bb733023b60f14130eddde5479414cdb5f7457a0f69f65a227",
+      "copy_verified": true
+    },
+    {
+      "name": "06-答辩与演示建议.md",
+      "sha256": "1cb1041444778975c6e132615ff8b1b3e0516f0f54a540e62edee3a45ead1086",
+      "copy_verified": true
+    },
+    {
+      "name": "04-核心算法与实现依据.md",
+      "sha256": "ee05a48d551b053fbc576cb81f04fbc34bb8733f376b5d4b482a6c1ec293ad34",
+      "copy_verified": true
+    }
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "slide_part": "ppt/slides/slide1.xml",
+      "authoring_svg": "slide_01.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide1_tf1.xml",
+      "notes_characters": 68,
+      "visible_text": "AI数字衣柜·Web网站鱼搭让已有衣物，成为每天的选择。参赛团队：鱼力无限|网页作品路演鱼力无限/鱼搭·AI数字衣柜网站01"
+    },
+    {
+      "page": 2,
+      "slide_part": "ppt/slides/slide2.xml",
+      "authoring_svg": "slide_02.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide2_tf1.xml",
+      "notes_characters": 90,
+      "visible_text": "目录CONTENTS1项目背景与需求分析照片分散·缺少决策依据2产品与核心功能入柜·推荐·组合台·OOTD3创新对比与算法可解释推荐·本地检索4技术架构Web·本地模型·持久任务5市场与商业模式用户验证·订阅与额度6团队与未来鱼力无限·作品与规划鱼力无限/鱼搭·AI数字衣柜网站02"
+    },
+    {
+      "page": 3,
+      "slide_part": "ppt/slides/slide3.xml",
+      "authoring_svg": "slide_03.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide3_tf1.xml",
+      "notes_characters": 131,
+      "visible_text": "01·项目背景与需求分析衣柜已经装满，为什么仍不知道穿什么？照片分散、灵感难落地，出门前仍然反复选择那几件。1今天的场合和天气，适合穿什么？鱼搭给你建议2衣物多，难以记忆、查找和整理。鱼搭帮你记忆3收藏了穿搭灵感，却难用自己的衣物还原。鱼搭助你还原鱼力无限/鱼搭·AI数字衣柜网站03"
+    },
+    {
+      "page": 4,
+      "slide_part": "ppt/slides/slide4.xml",
+      "authoring_svg": "slide_04.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide4_tf1.xml",
+      "notes_characters": 117,
+      "visible_text": "THEREFRAME把衣柜变成决策资源。从真实衣物出发，让每次选择都有依据。拥有真实衣物库存成为起点理解属性与图像知道它适合什么选择场景、天气、风格每次都有依据反馈换件、喜好、恢复影响下一次选择让更多已有衣物进入日常；效果仍需用户验证。鱼力无限/项目立意04"
+    },
+    {
+      "page": 5,
+      "slide_part": "ppt/slides/slide5.xml",
+      "authoring_svg": "slide_05.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide5_tf1.xml",
+      "notes_characters": 85,
+      "visible_text": "02·产品与核心功能拍照入柜，在网站里管理自己的衣橱批量上传→后台处理→核对入柜→进入真实衣柜鱼力无限/鱼搭·AI数字衣柜网站05"
+    },
+    {
+      "page": 6,
+      "slide_part": "ppt/slides/slide6.xml",
+      "authoring_svg": "slide_06.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide6.xml",
+      "notes_characters": 150,
+      "visible_text": "1拍照入柜图片整理·属性修正2混合检索字段·文本·图像3计算推荐组合·评分·理由4搭台编辑多画板·可接手5OOTD预览模特·动作·调整6反馈调整有粒度·可恢复OOTD为效果预览，不承诺真实尺码合身或衣物细节完全一致。一个从入柜到出门的闭环。02·产品与核心功能鱼力无限/鱼搭·AI数字衣柜网站06"
+    },
+    {
+      "page": 7,
+      "slide_part": "ppt/slides/slide7.xml",
+      "authoring_svg": "slide_07.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide6_tf1.xml",
+      "notes_characters": 127,
+      "visible_text": "浏览器里，把衣柜用起来02·核心功能我的衣柜：字段、语义与图像检索组合台：推荐、编辑与保存搭配1批量上传·图片预处理2AI自动抠图去背景3自动识别打标签4穿搭辅助网站实际页面截图·2026-10-15·已裁去账户栏鱼力无限/鱼搭·AI数字衣柜网站07"
+    },
+    {
+      "page": 8,
+      "slide_part": "ppt/slides/slide8.xml",
+      "authoring_svg": "slide_08.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide7_tf1.xml",
+      "notes_characters": 160,
+      "visible_text": "从用户问题，到可解释的实现03·创新设计/机制与用户价值维度用户遇到的问题鱼搭的实现机制图片处理上传与耗时处理混在一起持久任务，提交后查看状态图像可靠性复杂背景、属性猜测难确认本地抠图+属性证据与人工核对推荐选择不知道为什么，也总是重复规则解释+曝光均衡+可恢复反馈执行与成本耗时任务与生成结果不确定授权/回执/额度快照，未知不盲重试鱼力无限/鱼搭·AI数字衣柜网站08"
+    },
+    {
+      "page": 9,
+      "slide_part": "ppt/slides/slide9.xml",
+      "authoring_svg": "slide_09.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide8_tf1.xml",
+      "notes_characters": 165,
+      "visible_text": "照片入柜的三道可靠性工序03·核心算法1图像规整尺寸与方向规整，原图与展示派生分开。2本地抠图U²-Net/GrabCut；透明检查与恢复路径。3属性证据已确认/推测/未知/冲突由用户核对后入柜。耗时任务在后台运行；耗时随图片、模型与资源变化，不承诺固定秒数。鱼力无限/鱼搭·AI数字衣柜网站09"
+    },
+    {
+      "page": 10,
+      "slide_part": "ppt/slides/slide10.xml",
+      "authoring_svg": "recommendation_algorithm.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide8_tf2.xml",
+      "notes_characters": 187,
+      "visible_text": "推荐有依据，变化也可计算03·核心算法/计算推荐不依赖远程大模型决策1混合召回字段与关键词先约束，BGE/可选CLIP补充相关性。2规则与风格11维当前评分、18风格画像；底线约束+可解释软评分。3曝光与反馈动态候选、曝光均衡与重排；时间衰减，让偏好可恢复。复用预训练模型；项目贡献在领域特征、规则、重排和业务执行协议。鱼力无限/鱼搭·AI数字衣柜网站10"
+    },
+    {
+      "page": 11,
+      "slide_part": "ppt/slides/slide11.xml",
+      "authoring_svg": "slide_10.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide9_tf1.xml",
+      "notes_characters": 291,
+      "visible_text": "网站架构：交互、计算与执行解耦04·技术架构Vue3/TypeScript/AntDesignVue/Konva浏览器响应式界面·衣柜、组合台与执行回执Java21/SpringBoot/SpringSecurityAPI、归属与权限·推荐规则·额度与持久任务本地推理+Agent+统一任务执行器ONNX：U²-Net/BGE/可选CLIP；LangGraph对话编排；CPU/识别/生成分池，公平调度与保守恢复。H2/Flyway/MyBatisPlus·本地或S3图片默认可控单机部署；Docker/CI；管理API可插拔且默认关闭明确的运行边界任务有持久记录网页内查看状态与通知UNKNOWN不自动重发PWA缓存应用外壳鱼力无限/鱼搭·AI数字衣柜网站11"
+    },
+    {
+      "page": 12,
+      "slide_part": "ppt/slides/slide12.xml",
+      "authoring_svg": "slide_11.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide10_tf1.xml",
+      "notes_characters": 154,
+      "visible_text": "先验证谁会反复使用05·目标用户与进入市场衣物不少、选择很难的高校与初入职场人群。先从高频通勤与日常搭配任务验证价值。切入点：校园与穿搭社群共创计划招募30–50位共创者，观察四周；记录采纳、实际穿着覆盖、留存和付费意愿。待验证的市场假设1第一次就能用上入柜并完成一套可采纳搭配2每天愿意再回来观察真实使用，不拿曝光当穿着3持续价值能收费访谈与小额实验验证付费意愿鱼力无限/鱼搭·AI数字衣柜网站12"
+    },
+    {
+      "page": 13,
+      "slide_part": "ppt/slides/slide13.xml",
+      "authoring_svg": "slide_12.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide11_tf1.xml",
+      "notes_characters": 191,
+      "visible_text": "从日常服务，走向可验证的收入05·商业设计/待验证，未形成付费成绩1持续订阅基础衣柜与计算推荐作为入口；高级管理、长期洞察与专属服务探索订阅。2OOTD生成额度按次或额度包收费，覆盖真实上游生成成本；不承诺无限生成。3未来机构工作台与造型、衣柜整理服务商共创授权工作台；不出售用户衣柜数据。情景演算：10,000活跃用户×5%转化×199元/人/年=9.95万元/年仅演算年订阅收入；未扣获客、计算、存储、支持与税费，不是预测或净利润。鱼力无限/鱼搭·AI数字衣柜网站13"
+    },
+    {
+      "page": 14,
+      "slide_part": "ppt/slides/slide14.xml",
+      "authoring_svg": "slide_13.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide12_tf1.xml",
+      "notes_characters": 145,
+      "visible_text": "现在做到哪一步了06·项目进展Web网站闭环衣柜、入柜、搜索与推荐已在源码中打通。已完成搭台与个人OOTD多画板、模特/动作与生成确认已有实现。已完成工程与管理接入持久任务、归属控制；管理API默认关闭。已有实现真实用户与付费共创、留存与单位成本，仍需下一阶段验证。下一步验证鱼力无限/鱼搭·AI数字衣柜网站14"
+    },
+    {
+      "page": 15,
+      "slide_part": "ppt/slides/slide15.xml",
+      "authoring_svg": "evidence_simulation.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide12_tf2.xml",
+      "notes_characters": 161,
+      "visible_text": "把“总穿那几件”变成可测问题06·历史实验/固定意图，连续模拟28天167件仿内测衣柜实验条件49→97件进入推荐的衣物曝光覆盖改善20%→8%单品最高占比降低过度集中仍需真实验证曝光不等于实际穿着下一步：用户研究支持推荐曝光覆盖改善，不等同真实穿着率或消费减少。来源：2026-10-10审美报告；历史模拟，非本轮重测；并非所有公平指标都改善。鱼力无限/鱼搭·AI数字衣柜网站历史模拟，非实际穿着15"
+    },
+    {
+      "page": 16,
+      "slide_part": "ppt/slides/slide16.xml",
+      "authoring_svg": "slide_14.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide13_tf1.xml",
+      "notes_characters": 116,
+      "visible_text": "参赛团队：鱼力无限06·四项能力方向/不代表成员人数1前端开发网站界面、响应式交互与画布2后端架构API、任务执行、权限与存储3算法与图像处理规则推荐、本地检索与图像处理4产品与设计需求、交互与视觉、文档团队起点与作品证据全新团队，第一次参加比赛。暂无过往竞赛奖项；用产品闭环、算法依据和工程交付接受评审。鱼力无限/鱼搭·AI数字衣柜网站16"
+    },
+    {
+      "page": 17,
+      "slide_part": "ppt/slides/slide17.xml",
+      "authoring_svg": "slide_15.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide14_tf1.xml",
+      "notes_characters": 156,
+      "visible_text": "下一步怎么走06·未来规划1短期·打磨体验修正入柜摩擦与图片质量记录采纳和实际穿着覆盖完善未知任务对账与压测2中期·做深价值在已有推荐上验证留存试验订阅与生成额度核算真实单位服务成本3长期·拓展B端与造型/整理服务商共创验证授权工作台的需求评估数据库与容量扩展鱼力无限/鱼搭·AI数字衣柜网站17"
+    },
+    {
+      "page": 18,
+      "slide_part": "ppt/slides/slide18.xml",
+      "authoring_svg": "slide_16.svg",
+      "text_matches_authoring": true,
+      "notes_part": "ppt/notesSlides/notesSlide15_tf1.xml",
+      "notes_characters": 82,
+      "visible_text": "鱼力无限·鱼搭AI数字衣柜网站理解衣柜，解释选择。让已有衣物，重新有机会。欢迎现场体验网站·共创验证日常穿搭价值鱼力无限/鱼搭·AI数字衣柜网站18"
+    }
+  ]
+}

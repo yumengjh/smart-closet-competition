@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#302238"/></marker></defs>
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#F5F1E8"/>
+<g id="title" data-pptx-bounds="64 44 1152 141" fill="#302238"><text x="64" y="72" font-size="18">03 / COMPUTE WHAT CAN BE COMPUTED</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">算法负责决策，模型负责表达。</text></g>
+<g id="compute" data-pptx-bounds="64 219 732 349" fill="#302238"><rect x="64" y="219" width="732" height="349" fill="#E8E1D6"/><text x="90" y="263" font-size="20">推荐计算 / 可重复 · 可解释 · 可测试</text>
+<text x="90" y="348" font-size="64" font-weight="bold">11</text><text x="194" y="348" font-size="32">维评分</text><text x="430" y="348" font-size="64" font-weight="bold">18</text><text x="542" y="348" font-size="32">风格画像</text>
+<line x1="95" y1="400" x2="746" y2="400" stroke="#302238" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="92" y="443">召回</text><text x="267" y="443">组合</text><text x="443" y="443">打分</text><text x="662" y="443">重排</text>
+<text x="90" y="498" font-size="20"><tspan x="90" y="498">BGE 语义 / 可选 CLIP · CIELAB / k-means</tspan><tspan x="90" y="535">曝光债 · 时间衰减反馈 · 领域规则与风格线索</tspan></text>
+</g>
+<g id="model" data-pptx-bounds="840 220 376 350" fill="#302238"><text x="840" y="265" font-size="32" font-weight="bold">模型的工作</text><line x1="840" y1="296" x2="1216" y2="296" stroke="#C7BECC"/><text x="840" y="355" font-size="36" font-family="SimSun, Georgia">识图 · 对话 · 生图</text><text x="840" y="423"><tspan x="840" y="423">理解自然语言，</tspan><tspan x="840" y="465">提供视觉能力。</tspan></text><text x="840" y="535" font-size="20" fill="#6B6071">外部调用有明确用途与费用。</text></g>
+<g id="contribution" data-pptx-bounds="64 597 1152 42" fill="#302238" font-size="20"><text x="64" y="625">项目贡献：<tspan font-weight="bold">领域特征、规则与重排、执行协议</tspan>。预训练模型复用，未自研基础模型。</text></g>
+<g id="footer" data-pptx-bounds="64 651 1152 38" fill="#6B6071" font-size="16"><text x="64" y="680">依据：competition/04 · 11 维为当前审美开启路径，18 为风格画像资源</text><text x="1178" y="680">08</text></g>
+</svg>

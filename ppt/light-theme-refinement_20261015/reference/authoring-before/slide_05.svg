@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif"><rect x="0" y="0" width="1280" height="720" fill="#EFF6FF" />
+<g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="0 0 1280 720" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-part="geometry" fill="#F7F8FA" stroke="none" />
+</g>
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="0 80 1280 32" data-pptx-prst="rect" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 0 80 L 1280 80 L 1280 112 L 0 112 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="640" y="103" text-anchor="middle" xml:space="preserve" font-family="Arial, sans-serif" font-size="17.33" fill="#1F5C45" font-weight="bold" data-pptx-text-baseline="metrics-v1"><tspan>02·</tspan><tspan font-family="Arial, &quot;Microsoft YaHei&quot;, sans-serif">产品与核心功能</tspan></text>
+</g>
+</g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="160 160 960 173.33" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 160 160 L 1120 160 L 1120 333.33 L 160 333.33 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="640" y="208.4" text-anchor="middle" xml:space="preserve" font-size="44" fill="#25262B" font-weight="bold" data-pptx-text-baseline="metrics-v1" data-pptx-text-model="lines" data-paragraph-line-height="66"><tspan><tspan>拍照入柜，</tspan></tspan><tspan data-paragraph-line-break="1">在网站里管理自己的衣橱</tspan></text>
+</g>
+<g id="shape-11" data-pptx-object="group" data-pptx-frame="200 340 880 300" data-pptx-source-ref="slide:11">
+<g id="shape-10" data-pptx-object="picture" data-pptx-frame="200 340 880 300" data-pptx-source-ref="slide:10">
+<svg data-pptx-object="picture" data-pptx-frame="200 340 880 300" x="200" y="340" width="880" height="300" viewBox="0 0.20164 1 0.59671" preserveAspectRatio="none" overflow="hidden"><image href="../images/image_b7a096f5f12f8d2f.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none" /></svg>
+</g>
+</g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="0 631.67 1280 34.67" data-pptx-prst="rect" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape">
+<path d="M 0 631.67 L 1280 631.67 L 1280 666.34 L 0 666.34 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="640" y="656.33333333" text-anchor="middle" xml:space="preserve" font-size="20" fill="#666B76" data-pptx-text-baseline="metrics-v1">批量上传 → 后台处理 → 核对入柜 → 进入真实衣柜</text>
+</g>
+<g id="shape-16" data-pptx-object="group" data-pptx-frame="63.44 672 1152.56 32.23" data-pptx-source-ref="slide:16">
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="64 672 1152 1" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 64 672 L 1216 672" data-pptx-part="geometry" fill="none" stroke-width="1" stroke="#E8E9EE" />
+</g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="63.44 682.67 232.33 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 63.44 682.67 L 295.77 682.67 L 295.77 704.23 L 63.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="63.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text>
+</g>
+<g id="shape-15" data-pptx-object="shape" data-pptx-frame="1183.44 682.67 17.44 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 1183.44 682.67 L 1200.88 682.67 L 1200.88 704.23 L 1183.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry" />
+
+
+<text x="1183.44" y="696" text-anchor="start" xml:space="preserve" font-family="Arial, sans-serif" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1">05</text>
+</g>
+</g></svg>

@@ -1,0 +1,3467 @@
+{
+ "version": "outfit-templates-draft-5",
+ "note": "Only reviewStatus=APPROVED and enabled=true take part. P4 fields: kind (CLASSIC/TREND), audience (FEMALE/MALE, empty=any), seasons, occasions, validFrom/validUntil (TREND), reference, slot fitAny. draft-5 (2026-10-10): every template has style and per-slot describe (concrete pieces, no style adjectives) for semantic slot filling (design 8.1/8.4); still PENDING_REVIEW.",
+ "templates": [
+  {
+   "id": "white-tee-denim-sneaker",
+   "text": "白T+牛仔裤+小白鞋",
+   "bonus": 4,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "白色T恤",
+      "白色纯棉短袖"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "牛仔",
+      "长裤"
+     ],
+     "colorAny": [
+      "DENIM",
+      "BLUE"
+     ],
+     "describe": [
+      "蓝色牛仔裤",
+      "直筒牛仔裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋",
+      "帆布鞋"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色运动鞋",
+      "白色帆布鞋"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "black-tee-black-pants",
+   "text": "黑T配黑裤，利落显瘦",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "黑色T恤"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "裤"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "describe": [
+      "黑色长裤",
+      "黑色直筒裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "极简"
+  },
+  {
+   "id": "gray-hoodie-jogger",
+   "text": "灰卫衣+运动裤+运动鞋，舒适休闲",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "卫衣"
+     ],
+     "colorAny": [
+      "GRAY"
+     ],
+     "describe": [
+      "灰色卫衣",
+      "灰色连帽卫衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "裤"
+     ],
+     "colorAny": [
+      "GRAY",
+      "BLACK"
+     ],
+     "describe": [
+      "灰色运动裤",
+      "黑色束脚裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋"
+     ],
+     "describe": [
+      "运动鞋"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "stripe-tee-denim",
+   "text": "条纹T恤+牛仔裤，清爽法式",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤"
+     ],
+     "colorAny": [
+      "WHITE",
+      "NAVY"
+     ],
+     "describe": [
+      "条纹T恤",
+      "海魂衫",
+      "藏蓝白条纹上衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "牛仔",
+      "长裤"
+     ],
+     "colorAny": [
+      "DENIM",
+      "BLUE"
+     ],
+     "describe": [
+      "蓝色牛仔裤",
+      "直筒牛仔裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "法式"
+  },
+  {
+   "id": "white-shirt-black-trousers",
+   "text": "白衬衫+黑西裤，通勤基础款",
+   "bonus": 4,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "白色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "西裤",
+      "长裤"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "describe": [
+      "黑色西裤",
+      "黑色直筒长裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "通勤"
+  },
+  {
+   "id": "blue-shirt-khaki",
+   "text": "浅蓝衬衫+卡其裤，商务休闲",
+   "bonus": 4,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫"
+     ],
+     "colorAny": [
+      "BLUE"
+     ],
+     "describe": [
+      "浅蓝色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "裤"
+     ],
+     "colorAny": [
+      "BROWN",
+      "BEIGE"
+     ],
+     "describe": [
+      "卡其色长裤",
+      "米色休闲裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "通勤"
+  },
+  {
+   "id": "white-shirt-navy-trousers",
+   "text": "白衬衫+藏蓝裤，干净正式",
+   "bonus": 4,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "白色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "裤"
+     ],
+     "colorAny": [
+      "NAVY"
+     ],
+     "describe": [
+      "藏蓝色长裤",
+      "藏蓝色西裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "通勤"
+  },
+  {
+   "id": "knit-wide-pants",
+   "text": "针织衫+阔腿裤，温柔通勤",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "针织",
+      "毛衣"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 1,
+     "describe": [
+      "米色针织衫",
+      "灰色针织衫",
+      "黑色薄毛衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "裤"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "describe": [
+      "阔腿裤",
+      "黑色阔腿长裤"
+     ]
+    }
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "kind": "CLASSIC",
+   "style": "通勤"
+  },
+  {
+   "id": "sweater-jeans-boots",
+   "text": "毛衣+牛仔裤+靴子，秋冬经典",
+   "bonus": 4,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "毛衣"
+     ],
+     "describe": [
+      "毛衣",
+      "粗针织毛衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "牛仔",
+      "长裤"
+     ],
+     "colorAny": [
+      "DENIM",
+      "BLUE",
+      "BLACK"
+     ],
+     "describe": [
+      "牛仔裤",
+      "黑色牛仔裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "靴"
+     ],
+     "describe": [
+      "短靴",
+      "马丁靴"
+     ]
+    }
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "turtleneck-trousers",
+   "text": "毛衣打底+长裤，简洁保暖",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "毛衣",
+      "针织"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "高领毛衣",
+      "高领针织打底衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "长裤",
+      "西裤"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "describe": [
+      "直筒长裤",
+      "西裤"
+     ]
+    }
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "kind": "CLASSIC",
+   "style": "极简"
+  },
+  {
+   "id": "polo-chino",
+   "text": "Polo衫+休闲长裤，干净休闲",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "Polo"
+     ],
+     "describe": [
+      "Polo衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "长裤"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "describe": [
+      "卡其色休闲长裤",
+      "直筒休闲裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "tee-shorts-sneaker",
+   "text": "T恤+短裤+运动鞋，夏日轻便",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤"
+     ],
+     "describe": [
+      "T恤",
+      "短袖T恤"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "短裤"
+     ],
+     "describe": [
+      "短裤",
+      "牛仔短裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋",
+      "帆布鞋"
+     ],
+     "describe": [
+      "运动鞋",
+      "帆布鞋"
+     ]
+    }
+   ],
+   "seasons": [
+    "夏"
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "linen-shirt-shorts",
+   "text": "衬衫+短裤，度假休闲",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫"
+     ],
+     "colorAny": [
+      "WHITE",
+      "BEIGE",
+      "BLUE"
+     ],
+     "describe": [
+      "亚麻衬衫",
+      "白色短袖衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "短裤"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "describe": [
+      "短裤",
+      "米色短裤"
+     ]
+    }
+   ],
+   "seasons": [
+    "夏"
+   ],
+   "kind": "CLASSIC",
+   "style": "度假"
+  },
+  {
+   "id": "vest-wide-pants",
+   "text": "背心+阔腿长裤，清爽利落",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "背心"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "白色背心",
+      "黑色背心"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "长裤"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "describe": [
+      "阔腿裤",
+      "高腰阔腿长裤"
+     ]
+    }
+   ],
+   "seasons": [
+    "夏"
+   ],
+   "kind": "CLASSIC",
+   "style": "极简"
+  },
+  {
+   "id": "tee-midi-skirt",
+   "text": "T恤+半身裙，轻松日常",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "白色T恤",
+      "黑色T恤"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "半身裙"
+     ],
+     "describe": [
+      "中长半身裙",
+      "百褶半身裙"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "shirt-pleated-skirt",
+   "text": "衬衫+半身裙，温柔通勤",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "describe": [
+      "白色衬衫",
+      "浅色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "半身裙"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "describe": [
+      "百褶半身裙",
+      "中长半身裙"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "kind": "CLASSIC",
+   "style": "通勤"
+  },
+  {
+   "id": "knit-skirt-boots",
+   "text": "针织衫+半身裙+靴子，秋冬甜美",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "针织",
+      "毛衣"
+     ],
+     "describe": [
+      "针织衫",
+      "针织开衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "半身裙"
+     ],
+     "describe": [
+      "半身裙",
+      "百褶裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "靴"
+     ],
+     "describe": [
+      "短靴",
+      "长靴"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "kind": "CLASSIC",
+   "style": "甜美"
+  },
+  {
+   "id": "dress-white-sneaker",
+   "text": "连衣裙+小白鞋，减龄轻松",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "连衣裙"
+     ],
+     "describe": [
+      "连衣裙",
+      "衬衫裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋",
+      "帆布鞋"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色运动鞋",
+      "白色帆布鞋"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "dress-sandals",
+   "text": "连衣裙+凉鞋，夏日度假",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "连衣裙"
+     ],
+     "describe": [
+      "碎花连衣裙",
+      "吊带连衣裙",
+      "棉麻连衣裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "凉鞋"
+     ],
+     "describe": [
+      "凉鞋"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "seasons": [
+    "夏"
+   ],
+   "kind": "CLASSIC",
+   "style": "度假"
+  },
+  {
+   "id": "black-dress-heels",
+   "text": "黑色连衣裙+高跟/皮鞋，正式场合",
+   "bonus": 4,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "连衣裙"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "黑色连衣裙",
+      "小黑裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "高跟",
+      "皮鞋"
+     ],
+     "describe": [
+      "高跟鞋",
+      "尖头皮鞋"
+     ]
+    }
+   ],
+   "reviewNote": "P1.1：高跟鞋只与连衣裙、半身裙无条件兼容；性别为男时女款不参与自动推荐。",
+   "audience": [
+    "FEMALE"
+   ],
+   "kind": "CLASSIC",
+   "style": "正式"
+  },
+  {
+   "id": "floral-dress-neutral-shoes",
+   "text": "碎花裙配素色鞋，花而不乱",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "连衣裙"
+     ],
+     "describe": [
+      "碎花连衣裙",
+      "印花连衣裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "黑色单鞋",
+      "白色运动鞋",
+      "米色凉鞋"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "kind": "CLASSIC",
+   "style": "甜美"
+  },
+  {
+   "id": "dress-boots",
+   "text": "连衣裙+靴子，秋季层次",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "连衣裙"
+     ],
+     "describe": [
+      "连衣裙",
+      "长袖连衣裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "靴"
+     ],
+     "describe": [
+      "短靴",
+      "长靴"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "kind": "CLASSIC",
+   "style": "复古"
+  },
+  {
+   "id": "jumpsuit-sneaker",
+   "text": "连体衣+运动鞋，干练休闲",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "连体"
+     ],
+     "describe": [
+      "连体裤",
+      "工装连体衣"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋"
+     ],
+     "describe": [
+      "运动鞋"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "monochrome-black",
+   "text": "全黑造型，酷感统一",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "describe": [
+      "黑色上衣",
+      "黑色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "describe": [
+      "黑色长裤",
+      "黑色半身裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "describe": [
+      "黑色皮鞋",
+      "黑色短靴"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "极简"
+  },
+  {
+   "id": "monochrome-white",
+   "text": "全白造型，干净清爽",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色上衣",
+      "白色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "WHITE",
+      "BEIGE"
+     ],
+     "describe": [
+      "白色长裤",
+      "米白色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "极简"
+  },
+  {
+   "id": "earth-tones",
+   "text": "大地色系（米/棕/卡其），温和高级",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "BEIGE",
+      "BROWN"
+     ],
+     "describe": [
+      "米色针织衫",
+      "棕色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "BEIGE",
+      "BROWN",
+      "WHITE"
+     ],
+     "describe": [
+      "卡其色长裤",
+      "棕色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "复古"
+  },
+  {
+   "id": "navy-white-classic",
+   "text": "藏蓝+白，海军风经典",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "NAVY",
+      "WHITE"
+     ],
+     "describe": [
+      "藏蓝色上衣",
+      "白色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "NAVY",
+      "WHITE"
+     ],
+     "describe": [
+      "白色长裤",
+      "藏蓝色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "海军"
+  },
+  {
+   "id": "gray-tonal",
+   "text": "灰色系深浅搭配，低调耐看",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "GRAY"
+     ],
+     "describe": [
+      "浅灰色毛衣",
+      "灰色T恤"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "GRAY",
+      "BLACK"
+     ],
+     "describe": [
+      "深灰色长裤",
+      "黑色长裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "极简"
+  },
+  {
+   "id": "denim-on-white",
+   "text": "牛仔+白色，永不出错",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色衬衫",
+      "白色T恤"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "DENIM"
+     ],
+     "describe": [
+      "牛仔裤",
+      "牛仔半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "one-accent-top",
+   "text": "彩色上衣配中性色下装，重点突出",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "RED",
+      "ORANGE",
+      "YELLOW",
+      "GREEN",
+      "PURPLE",
+      "PINK",
+      "BLUE"
+     ],
+     "patternMax": 1,
+     "describe": [
+      "红色上衣",
+      "黄色毛衣",
+      "绿色针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "黑色长裤",
+      "白色半身裙",
+      "牛仔裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "one-accent-bottom",
+   "text": "中性色上衣配彩色下装，视觉下移",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "白色T恤",
+      "黑色针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "RED",
+      "ORANGE",
+      "YELLOW",
+      "GREEN",
+      "PURPLE",
+      "PINK",
+      "BLUE"
+     ],
+     "patternMax": 1,
+     "describe": [
+      "红色半身裙",
+      "绿色长裤",
+      "黄色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "pattern-with-solid-top",
+   "text": "花纹上衣配纯色下装",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "patternMax": 2,
+     "patternMin": 1,
+     "describe": [
+      "条纹上衣",
+      "格纹衬衫",
+      "印花上衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "纯色长裤",
+      "纯色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "pattern-with-solid-bottom",
+   "text": "纯色上衣配花纹下装",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "纯色T恤",
+      "纯色针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "patternMax": 2,
+     "patternMin": 1,
+     "describe": [
+      "格纹半身裙",
+      "碎花半身裙",
+      "格纹长裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "shoes-echo-top",
+   "text": "鞋子与上衣同色，首尾呼应",
+   "bonus": 1,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色上衣"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色运动鞋",
+      "白色单鞋"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "shoes-echo-black",
+   "text": "黑上衣配黑鞋，上下呼应",
+   "bonus": 1,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "describe": [
+      "黑色上衣"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "describe": [
+      "黑色皮鞋",
+      "黑色运动鞋"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "极简"
+  },
+  {
+   "id": "pink-gray",
+   "text": "粉色+灰色，柔和不甜腻",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "PINK",
+      "GRAY"
+     ],
+     "describe": [
+      "粉色针织衫",
+      "灰色卫衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "GRAY",
+      "PINK",
+      "WHITE"
+     ],
+     "describe": [
+      "灰色长裤",
+      "粉色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "甜美"
+  },
+  {
+   "id": "green-beige",
+   "text": "绿色+米色，自然清新",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "GREEN",
+      "BEIGE"
+     ],
+     "describe": [
+      "绿色上衣",
+      "米色针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "BEIGE",
+      "GREEN",
+      "WHITE"
+     ],
+     "describe": [
+      "米色长裤",
+      "绿色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "red-black",
+   "text": "红+黑，醒目有力",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "RED"
+     ],
+     "describe": [
+      "红色上衣",
+      "红色针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "describe": [
+      "黑色长裤",
+      "黑色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "复古"
+  },
+  {
+   "id": "yellow-denim",
+   "text": "黄色上衣+牛仔，明亮活力",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "YELLOW"
+     ],
+     "describe": [
+      "黄色T恤",
+      "黄色针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "DENIM"
+     ],
+     "describe": [
+      "牛仔裤",
+      "牛仔半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "burgundy-navy",
+   "text": "酒红+藏蓝，复古沉稳",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "RED"
+     ],
+     "describe": [
+      "酒红色毛衣",
+      "酒红色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "NAVY"
+     ],
+     "describe": [
+      "藏蓝色长裤",
+      "藏蓝色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "复古"
+  },
+  {
+   "id": "brown-white",
+   "text": "棕+白，温暖干净",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "BROWN",
+      "WHITE"
+     ],
+     "describe": [
+      "棕色针织衫",
+      "白色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "WHITE",
+      "BROWN",
+      "BEIGE"
+     ],
+     "describe": [
+      "白色长裤",
+      "棕色半身裙"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "复古"
+  },
+  {
+   "id": "commute-shirt-loafer",
+   "text": "衬衫+长裤+皮鞋，标准通勤",
+   "bonus": 4,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫"
+     ],
+     "describe": [
+      "衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "长裤",
+      "西裤"
+     ],
+     "describe": [
+      "西裤",
+      "直筒长裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "皮鞋"
+     ],
+     "describe": [
+      "乐福鞋",
+      "皮鞋"
+     ]
+    }
+   ],
+   "occasions": [
+    "COMMUTE"
+   ],
+   "kind": "CLASSIC",
+   "style": "通勤"
+  },
+  {
+   "id": "smart-casual-knit",
+   "text": "针织衫+长裤+小白鞋，轻商务",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "针织",
+      "毛衣"
+     ],
+     "describe": [
+      "针织衫",
+      "薄毛衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "长裤"
+     ],
+     "describe": [
+      "长裤",
+      "直筒休闲裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋",
+      "帆布鞋"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色运动鞋"
+     ]
+    }
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "kind": "CLASSIC",
+   "style": "通勤"
+  },
+  {
+   "id": "sport-set",
+   "text": "运动上衣+运动裤+运动鞋，运动整套",
+   "bonus": 4,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "styleAny": [
+      "运动"
+     ],
+     "describe": [
+      "运动上衣",
+      "速干T恤",
+      "运动卫衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "styleAny": [
+      "运动"
+     ],
+     "describe": [
+      "运动裤",
+      "运动短裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋"
+     ],
+     "describe": [
+      "运动鞋",
+      "跑鞋"
+     ]
+    }
+   ],
+   "occasions": [
+    "SPORT",
+    "OUTDOOR"
+   ],
+   "kind": "CLASSIC",
+   "style": "运动"
+  },
+  {
+   "id": "outdoor-ready",
+   "text": "户外风上装+长裤+靴/运动鞋",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "styleAny": [
+      "户外"
+     ],
+     "describe": [
+      "冲锋衣",
+      "抓绒外套",
+      "户外速干上衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "长裤",
+      "裤"
+     ],
+     "describe": [
+      "工装长裤",
+      "户外长裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "靴",
+      "运动鞋"
+     ],
+     "describe": [
+      "徒步鞋",
+      "短靴",
+      "运动鞋"
+     ]
+    }
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "occasions": [
+    "OUTDOOR"
+   ],
+   "kind": "CLASSIC",
+   "style": "户外"
+  },
+  {
+   "id": "retro-denim",
+   "text": "复古风上衣+牛仔裤",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "styleAny": [
+      "复古"
+     ],
+     "describe": [
+      "格纹衬衫",
+      "针织背心",
+      "灯芯绒衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "牛仔"
+     ],
+     "describe": [
+      "高腰牛仔裤",
+      "直筒牛仔裤"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "复古"
+  },
+  {
+   "id": "sweet-skirt",
+   "text": "甜美上衣+半身裙",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "styleAny": [
+      "甜美"
+     ],
+     "describe": [
+      "蕾丝衬衫",
+      "泡泡袖上衣",
+      "粉色针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "半身裙"
+     ],
+     "describe": [
+      "百褶半身裙",
+      "A字半身裙"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "kind": "CLASSIC",
+   "style": "甜美"
+  },
+  {
+   "id": "formal-dress-shoes",
+   "text": "正式上衣+正式下装+皮鞋",
+   "bonus": 4,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "styleAny": [
+      "正式"
+     ],
+     "describe": [
+      "白色衬衫",
+      "西装外套"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "styleAny": [
+      "正式",
+      "通勤"
+     ],
+     "describe": [
+      "西裤",
+      "铅笔裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "皮鞋"
+     ],
+     "describe": [
+      "皮鞋",
+      "高跟鞋"
+     ]
+    }
+   ],
+   "reviewNote": "P1.1：鞋位去掉高跟。高跟鞋配西裤是否合适由兼容表按性别和场景判断，不由模板加分。",
+   "occasions": [
+    "FORMAL",
+    "COMMUTE"
+   ],
+   "kind": "CLASSIC",
+   "style": "正式"
+  },
+  {
+   "id": "date-dress",
+   "text": "约会：连衣裙+精致鞋",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "连衣裙"
+     ],
+     "styleAny": [
+      "甜美",
+      "复古",
+      "通勤"
+     ],
+     "describe": [
+      "连衣裙",
+      "收腰连衣裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "皮鞋",
+      "高跟",
+      "凉鞋"
+     ],
+     "describe": [
+      "玛丽珍鞋",
+      "高跟鞋",
+      "凉鞋"
+     ]
+    }
+   ],
+   "reviewNote": "P1.1：只匹配连衣裙，高跟鞋在约会场景与连衣裙兼容；居家、运动、户外场景高跟鞋被排除。",
+   "audience": [
+    "FEMALE"
+   ],
+   "seasons": [
+    "夏"
+   ],
+   "occasions": [
+    "DATE"
+   ],
+   "kind": "CLASSIC",
+   "style": "甜美"
+  },
+  {
+   "id": "home-comfort",
+   "text": "居家：卫衣/T恤+运动裤",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "卫衣",
+      "T恤"
+     ],
+     "describe": [
+      "卫衣",
+      "宽松T恤"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "运动裤",
+      "短裤"
+     ],
+     "describe": [
+      "运动裤",
+      "家居短裤"
+     ]
+    }
+   ],
+   "seasons": [
+    "夏"
+   ],
+   "occasions": [
+    "HOME"
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "travel-light",
+   "text": "出游：T恤+短裤/长裤+运动鞋",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤",
+      "衬衫"
+     ],
+     "describe": [
+      "T恤",
+      "短袖衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "短裤",
+      "长裤"
+     ],
+     "describe": [
+      "短裤",
+      "宽松长裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋"
+     ],
+     "describe": [
+      "运动鞋"
+     ]
+    }
+   ],
+   "seasons": [
+    "夏"
+   ],
+   "occasions": [
+    "TRAVEL",
+    "DAILY"
+   ],
+   "kind": "CLASSIC",
+   "style": "度假"
+  },
+  {
+   "id": "fitted-top-wide-bottom",
+   "text": "上身简洁+下身宽松，比例好看",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤",
+      "针织",
+      "衬衫"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "修身T恤",
+      "修身针织衫",
+      "衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "长裤",
+      "半身裙"
+     ],
+     "describe": [
+      "阔腿裤",
+      "A字半身裙"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "kind": "CLASSIC",
+   "style": "通勤"
+  },
+  {
+   "id": "short-top-high-bottom",
+   "text": "短款上衣+长裤/长裙，拉长腿部",
+   "bonus": 1,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤",
+      "针织"
+     ],
+     "describe": [
+      "短款T恤",
+      "短款针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "长裤",
+      "半身裙"
+     ],
+     "describe": [
+      "高腰长裤",
+      "高腰长裙"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "cap-casual",
+   "text": "棒球帽+休闲装",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "HAT"
+     ],
+     "categoryAny": [
+      "棒球帽"
+     ],
+     "describe": [
+      "棒球帽"
+     ]
+    },
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤",
+      "卫衣"
+     ],
+     "describe": [
+      "T恤",
+      "卫衣"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "tote-commute",
+   "text": "手提包+通勤装",
+   "bonus": 2,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "BAG"
+     ],
+     "categoryAny": [
+      "手提包"
+     ],
+     "describe": [
+      "手提包",
+      "托特包"
+     ]
+    },
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫",
+      "针织"
+     ],
+     "describe": [
+      "衬衫",
+      "针织衫"
+     ]
+    }
+   ],
+   "occasions": [
+    "COMMUTE"
+   ],
+   "kind": "CLASSIC",
+   "style": "通勤"
+  },
+  {
+   "id": "backpack-casual",
+   "text": "背包+休闲装",
+   "bonus": 1,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "BAG"
+     ],
+     "categoryAny": [
+      "背包"
+     ],
+     "describe": [
+      "双肩背包"
+     ]
+    },
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤",
+      "卫衣"
+     ],
+     "describe": [
+      "T恤",
+      "卫衣"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "crossbody-dress",
+   "text": "斜挎包+连衣裙",
+   "bonus": 1,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "BAG"
+     ],
+     "categoryAny": [
+      "斜挎包"
+     ],
+     "describe": [
+      "斜挎包"
+     ]
+    },
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "连衣裙"
+     ],
+     "describe": [
+      "连衣裙"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "kind": "CLASSIC",
+   "style": "休闲"
+  },
+  {
+   "id": "beret-retro",
+   "text": "贝雷帽+复古装",
+   "bonus": 1,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "slots": [
+    {
+     "roles": [
+      "HAT"
+     ],
+     "categoryAny": [
+      "贝雷帽"
+     ],
+     "describe": [
+      "贝雷帽"
+     ]
+    },
+    {
+     "roles": [
+      "TOP"
+     ],
+     "styleAny": [
+      "复古"
+     ],
+     "describe": [
+      "针织背心",
+      "格纹衬衫",
+      "灯芯绒外套"
+     ]
+    }
+   ],
+   "kind": "CLASSIC",
+   "style": "复古"
+  },
+  {
+   "id": "trend-maillard",
+   "text": "美拉德色系：棕、焦糖、米色叠搭",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "TREND",
+   "validFrom": "2026-09-01",
+   "validUntil": "2027-03-31",
+   "reference": "秋冬流行的大地色系，深浅棕叠穿",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "BROWN",
+      "BEIGE"
+     ],
+     "describe": [
+      "棕色针织衫",
+      "焦糖色毛衣",
+      "驼色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "BROWN",
+      "BEIGE",
+      "WHITE"
+     ],
+     "describe": [
+      "棕色长裤",
+      "米色半身裙"
+     ]
+    }
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "style": "复古"
+  },
+  {
+   "id": "trend-quiet-luxury",
+   "text": "静奢风：针织衫配西装裤，低饱和",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "TREND",
+   "validFrom": "2026-09-01",
+   "validUntil": "2027-03-31",
+   "reference": "老钱风/静奢：纯色、低饱和、质感单品",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "针织",
+      "毛衣"
+     ],
+     "colorAny": [
+      "BEIGE",
+      "GRAY",
+      "NAVY",
+      "WHITE",
+      "BLACK"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "米色针织衫",
+      "灰色羊绒衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "西裤",
+      "长裤"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "西装裤",
+      "直筒长裤"
+     ]
+    }
+   ],
+   "seasons": [
+    "春",
+    "秋",
+    "冬"
+   ],
+   "style": "极简"
+  },
+  {
+   "id": "trend-preppy",
+   "text": "学院风：Polo或针织配百褶裙",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "TREND",
+   "validFrom": "2026-09-01",
+   "validUntil": "2027-03-31",
+   "reference": "学院风回潮",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "Polo",
+      "针织",
+      "衬衫"
+     ],
+     "describe": [
+      "Polo衫",
+      "V领针织背心",
+      "白色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "百褶",
+      "半身裙"
+     ],
+     "describe": [
+      "百褶半身裙",
+      "格纹百褶裙"
+     ]
+    }
+   ],
+   "seasons": [
+    "春",
+    "秋"
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "style": "学院"
+  },
+  {
+   "id": "trend-workwear",
+   "text": "工装风：工装裤配短靴",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "TREND",
+   "validFrom": "2026-09-01",
+   "validUntil": "2027-03-31",
+   "reference": "工装、机能风持续流行",
+   "slots": [
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "工装"
+     ],
+     "describe": [
+      "工装裤",
+      "多口袋工装长裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "靴"
+     ],
+     "describe": [
+      "短靴",
+      "马丁靴"
+     ]
+    }
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "style": "工装"
+  },
+  {
+   "id": "trend-athleisure",
+   "text": "运动休闲：卫衣配束脚裤和运动鞋",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "TREND",
+   "validFrom": "2026-09-01",
+   "validUntil": "2027-03-31",
+   "reference": "Athleisure，舒适通勤两用",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "卫衣"
+     ],
+     "describe": [
+      "卫衣",
+      "连帽卫衣"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "束脚",
+      "运动裤"
+     ],
+     "describe": [
+      "束脚运动裤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋"
+     ],
+     "describe": [
+      "运动鞋",
+      "老爹鞋"
+     ]
+    }
+   ],
+   "style": "运动"
+  },
+  {
+   "id": "trend-dopamine",
+   "text": "多巴胺：一件高饱和单品配中性色",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "TREND",
+   "validFrom": "2026-09-01",
+   "validUntil": "2027-03-31",
+   "reference": "一件亮色提气，其余收住",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "colorAny": [
+      "RED",
+      "ORANGE",
+      "YELLOW",
+      "PINK",
+      "GREEN"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "红色上衣",
+      "黄色T恤",
+      "粉色针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "colorAny": [
+      "BLACK",
+      "WHITE",
+      "GRAY",
+      "BEIGE",
+      "BROWN",
+      "NAVY",
+      "DENIM"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "白色长裤",
+      "牛仔裤",
+      "黑色半身裙"
+     ]
+    }
+   ],
+   "seasons": [
+    "春",
+    "夏"
+   ],
+   "style": "多巴胺"
+  },
+  {
+   "id": "trend-balletcore",
+   "text": "芭蕾风：浅粉或白色针织配半身裙",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "TREND",
+   "validFrom": "2026-09-01",
+   "validUntil": "2027-03-31",
+   "reference": "Balletcore",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "针织",
+      "T恤"
+     ],
+     "colorAny": [
+      "PINK",
+      "WHITE",
+      "BEIGE"
+     ],
+     "describe": [
+      "浅粉色针织衫",
+      "白色针织开衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "半身裙"
+     ],
+     "describe": [
+      "纱裙",
+      "浅粉色百褶中长裙"
+     ]
+    }
+   ],
+   "seasons": [
+    "春",
+    "夏",
+    "秋"
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "style": "芭蕾"
+  },
+  {
+   "id": "trend-new-chinese",
+   "text": "新中式：立领上衣配阔腿裤或长裙",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "TREND",
+   "validFrom": "2026-09-01",
+   "validUntil": "2027-03-31",
+   "reference": "新中式，立领、盘扣元素",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "styleAny": [
+      "复古"
+     ],
+     "describe": [
+      "立领盘扣上衣",
+      "中式衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "阔腿",
+      "长裤",
+      "半身裙"
+     ],
+     "describe": [
+      "阔腿裤",
+      "长款半身裙"
+     ]
+    }
+   ],
+   "style": "新中式"
+  },
+  {
+   "id": "lolita-jsk-blouse",
+   "text": "洛丽塔JSK+白衬衫+玛丽珍鞋",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "CLASSIC",
+   "reference": "全身穿搭增强（2026-10-09）草稿",
+   "slots": [
+    {
+     "roles": [
+      "OVERALL"
+     ],
+     "categoryAny": [
+      "JSK"
+     ],
+     "describe": [
+      "JSK背带裙",
+      "蕾丝背带裙"
+     ]
+    },
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫"
+     ],
+     "colorAny": [
+      "WHITE",
+      "BEIGE"
+     ],
+     "describe": [
+      "白色衬衫",
+      "荷叶边衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "玛丽珍",
+      "圆头"
+     ],
+     "describe": [
+      "玛丽珍鞋",
+      "圆头皮鞋"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "style": "洛丽塔"
+  },
+  {
+   "id": "lolita-jsk-full",
+   "text": "JSK+衬衫+白色过膝袜+头饰，完整洛丽塔日常",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "CLASSIC",
+   "reference": "全身穿搭增强（2026-10-09）草稿",
+   "slots": [
+    {
+     "roles": [
+      "OVERALL"
+     ],
+     "categoryAny": [
+      "JSK"
+     ],
+     "describe": [
+      "JSK背带裙"
+     ]
+    },
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫"
+     ],
+     "describe": [
+      "衬衫",
+      "荷叶边衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "SOCKS"
+     ],
+     "categoryAny": [
+      "过膝",
+      "长筒",
+      "中筒"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色过膝袜"
+     ]
+    },
+    {
+     "roles": [
+      "HEADWEAR"
+     ],
+     "describe": [
+      "发箍",
+      "KC头饰"
+     ]
+    }
+   ],
+   "seasons": [
+    "春",
+    "秋"
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "style": "洛丽塔"
+  },
+  {
+   "id": "pinafore-tee-canvas",
+   "text": "背带裙配T恤与帆布鞋，减龄休闲",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "CLASSIC",
+   "reference": "全身穿搭增强（2026-10-09）草稿",
+   "slots": [
+    {
+     "roles": [
+      "OVERALL"
+     ],
+     "categoryAny": [
+      "背带裙"
+     ],
+     "describe": [
+      "背带裙",
+      "牛仔背带裙"
+     ]
+    },
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "纯色T恤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "帆布鞋",
+      "运动鞋"
+     ],
+     "describe": [
+      "帆布鞋",
+      "运动鞋"
+     ]
+    }
+   ],
+   "seasons": [
+    "春",
+    "夏",
+    "秋"
+   ],
+   "style": "休闲"
+  },
+  {
+   "id": "overalls-tee-sneaker",
+   "text": "背带裤+纯色T恤+运动鞋",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "CLASSIC",
+   "reference": "全身穿搭增强（2026-10-09）草稿",
+   "slots": [
+    {
+     "roles": [
+      "OVERALL"
+     ],
+     "categoryAny": [
+      "背带裤"
+     ],
+     "describe": [
+      "背带裤",
+      "牛仔背带裤"
+     ]
+    },
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "T恤"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "纯色T恤"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "运动鞋",
+      "帆布鞋"
+     ],
+     "describe": [
+      "运动鞋",
+      "帆布鞋"
+     ]
+    }
+   ],
+   "seasons": [
+    "春",
+    "夏",
+    "秋"
+   ],
+   "style": "休闲"
+  },
+  {
+   "id": "jk-pleats-knee-socks",
+   "text": "JK百褶裙+白衬衫+过膝袜+乐福鞋",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "CLASSIC",
+   "reference": "全身穿搭增强（2026-10-09）草稿",
+   "slots": [
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "JK",
+      "百褶"
+     ],
+     "describe": [
+      "JK百褶裙",
+      "格纹百褶裙"
+     ]
+    },
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "衬衫"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色衬衫"
+     ]
+    },
+    {
+     "roles": [
+      "SOCKS"
+     ],
+     "categoryAny": [
+      "过膝",
+      "长筒",
+      "中筒"
+     ],
+     "describe": [
+      "白色过膝袜",
+      "黑色过膝袜"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "乐福",
+      "皮鞋",
+      "玛丽珍"
+     ],
+     "describe": [
+      "乐福鞋",
+      "小皮鞋"
+     ]
+    }
+   ],
+   "seasons": [
+    "春",
+    "秋"
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "style": "JK"
+  },
+  {
+   "id": "winter-skirt-tights-boots",
+   "text": "毛衣+半身裙+黑色裤袜+靴子，冬天也能穿裙子",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "CLASSIC",
+   "reference": "全身穿搭增强（2026-10-09）草稿",
+   "slots": [
+    {
+     "roles": [
+      "TOP"
+     ],
+     "categoryAny": [
+      "毛衣",
+      "针织"
+     ],
+     "describe": [
+      "毛衣",
+      "针织衫"
+     ]
+    },
+    {
+     "roles": [
+      "BOTTOM"
+     ],
+     "categoryAny": [
+      "裙"
+     ],
+     "describe": [
+      "半身裙",
+      "毛呢半身裙"
+     ]
+    },
+    {
+     "roles": [
+      "SOCKS"
+     ],
+     "categoryAny": [
+      "裤袜",
+      "连裤袜",
+      "打底袜",
+      "连体袜"
+     ],
+     "colorAny": [
+      "BLACK",
+      "GRAY",
+      "BROWN"
+     ],
+     "describe": [
+      "黑色裤袜",
+      "打底袜"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "靴"
+     ],
+     "describe": [
+      "短靴",
+      "长靴"
+     ]
+    }
+   ],
+   "seasons": [
+    "秋",
+    "冬"
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "style": "甜美"
+  },
+  {
+   "id": "little-black-dress",
+   "text": "小黑裙配简洁皮鞋，约会与小正式都合适",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "CLASSIC",
+   "reference": "全身穿搭增强（2026-10-09）草稿",
+   "slots": [
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "小黑裙",
+      "连衣裙"
+     ],
+     "colorAny": [
+      "BLACK"
+     ],
+     "patternMax": 0,
+     "describe": [
+      "小黑裙",
+      "黑色连衣裙"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "高跟",
+      "乐福",
+      "玛丽珍",
+      "皮鞋",
+      "细跟"
+     ],
+     "describe": [
+      "尖头皮鞋",
+      "高跟鞋",
+      "玛丽珍鞋"
+     ]
+    }
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "occasions": [
+    "DATE",
+    "FORMAL",
+    "COMMUTE"
+   ],
+   "style": "正式"
+  },
+  {
+   "id": "sailor-set-loafers",
+   "text": "水手服套装+白袜+小皮鞋",
+   "bonus": 3,
+   "enabled": true,
+   "reviewStatus": "PENDING_REVIEW",
+   "kind": "CLASSIC",
+   "reference": "全身穿搭增强（2026-10-09）草稿",
+   "slots": [
+    {
+     "roles": [
+      "ONE_PIECE"
+     ],
+     "categoryAny": [
+      "水手服",
+      "套装"
+     ],
+     "describe": [
+      "水手服套装",
+      "水手服连衣裙"
+     ]
+    },
+    {
+     "roles": [
+      "SOCKS"
+     ],
+     "colorAny": [
+      "WHITE"
+     ],
+     "describe": [
+      "白色袜子",
+      "白色中筒袜"
+     ]
+    },
+    {
+     "roles": [
+      "SHOES"
+     ],
+     "categoryAny": [
+      "乐福",
+      "皮鞋",
+      "玛丽珍"
+     ],
+     "describe": [
+      "乐福鞋",
+      "小皮鞋"
+     ]
+    }
+   ],
+   "seasons": [
+    "春",
+    "夏",
+    "秋"
+   ],
+   "audience": [
+    "FEMALE"
+   ],
+   "style": "JK"
+  }
+ ]
+}

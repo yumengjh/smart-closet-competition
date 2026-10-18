@@ -1,0 +1,36 @@
+{
+  "schema": "vector_asset_inventory.v2",
+  "svg_dir": "authoring-svg-flat",
+  "icons_dir": "icons",
+  "icon_namespace": "imported",
+  "asset_role": "decoration",
+  "rewritten_dir": null,
+  "reuse_inventory": null,
+  "min_drawables": 2,
+  "min_bytes": 512,
+  "min_decoration_bytes": 512,
+  "extracted_count": 1,
+  "reused_count": 0,
+  "asset_count": 1,
+  "stale_removed": [],
+  "assets": [
+    {
+      "svg": "slide_08.svg",
+      "id": "imported/flat_slide_08_ill01",
+      "icon": "imported/flat_slide_08_ill01",
+      "asset": "imported/flat_slide_08_ill01.svg",
+      "source": "extracted",
+      "role": "decoration",
+      "source_sha256": "29225968b2542e6a665e04f77aa51498463bff91e4c8750a2354753277adecbf",
+      "asset_sha256": "29225968b2542e6a665e04f77aa51498463bff91e4c8750a2354753277adecbf",
+      "drawable_count": 15,
+      "byte_count": 1197,
+      "source_refs": [],
+      "dependencies": [],
+      "external_hrefs_rewritten": 0,
+      "elements": {
+        "rect": 15
+      }
+    }
+  ]
+}

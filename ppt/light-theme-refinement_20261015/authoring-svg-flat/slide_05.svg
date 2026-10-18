@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><rect x="0" y="0" width="1280" height="720" fill="#EFF6FF"/>
+<g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="0 0 1280 720" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-part="geometry" fill="#F7F8FA" stroke="none"/>
+</g>
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="64 128 1152 32" data-pptx-prst="rect" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 64 128 L 1216 128 L 1216 160 L 64 160 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="150" font-size="18" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">02 · 网站功能 / 快速入柜</text></g>
+</g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="64 62 1152 62" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 64 62 L 1216 62 L 1216 124 L 64 124 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="106" font-size="40" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">拍一件，收一件</text></g>
+<g id="shape-11" data-pptx-object="group" data-pptx-frame="480 190 720 450" data-pptx-source-ref="slide:11">
+<g id="shape-10" data-pptx-object="picture" data-pptx-frame="480 190 720 450" data-pptx-source-ref="slide:10">
+<image href="../images/quick-intake-complete.png" x="480" y="190" width="720" height="450" preserveAspectRatio="xMidYMid meet"/></g>
+</g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="64 608 370 30" data-pptx-prst="rect" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape">
+<path d="M 64 608 L 434 608 L 434 638 L 64 638 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="626.7" font-size="17" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">实时网站画面 · 完整操作区</text></g>
+<g id="shape-16" data-pptx-object="group" data-pptx-frame="63.44 672 1152.56 32.23" data-pptx-source-ref="slide:16">
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="64 672 1152 1" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 64 672 L 1216 672" data-pptx-part="geometry" fill="none" stroke-width="1" stroke="#E8E9EE"/>
+</g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="63.44 682.67 232.33 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 63.44 682.67 L 295.77 682.67 L 295.77 704.23 L 63.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="63.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text>
+</g>
+<g id="shape-15" data-pptx-object="shape" data-pptx-frame="1183.44 682.67 17.44 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 1183.44 682.67 L 1200.88 682.67 L 1200.88 704.23 L 1183.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="1183.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">05</text>
+</g>
+</g><g id="intake-step-1" data-pptx-frame="64 224 368 94" data-pptx-bounds="64 224 368 94"><circle cx="84" cy="244" r="20" fill="#1F5C45"/><text x="84" y="252" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">1</text></g><g id="intake-title-1" data-pptx-frame="124 223 290 40" data-pptx-bounds="124 223 290 40"><text x="124" y="251.6" font-size="26" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">拍照或选图</text></g><g id="intake-body-1" data-pptx-frame="124 275 306 32" data-pptx-bounds="124 275 306 32"><text x="124" y="298.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">相册多选 · 拖拽 · 粘贴</text></g><g id="intake-step-2" data-pptx-frame="64 344 368 94" data-pptx-bounds="64 344 368 94"><circle cx="84" cy="364" r="20" fill="#1F5C45"/><text x="84" y="372" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">2</text></g><g id="intake-title-2" data-pptx-frame="124 343 290 40" data-pptx-bounds="124 343 290 40"><text x="124" y="371.6" font-size="26" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">先看到贴纸</text></g><g id="intake-body-2" data-pptx-frame="124 395 306 32" data-pptx-bounds="124 395 306 32"><text x="124" y="418.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">后台处理，无需原地等待</text></g><g id="intake-step-3" data-pptx-frame="64 464 368 94" data-pptx-bounds="64 464 368 94"><circle cx="84" cy="484" r="20" fill="#1F5C45"/><text x="84" y="492" font-size="22" font-weight="bold" fill="#FFFFFF" text-anchor="middle">3</text></g><g id="intake-title-3" data-pptx-frame="124 463 290 40" data-pptx-bounds="124 463 290 40"><text x="124" y="491.6" font-size="26" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">入柜后可修改</text></g><g id="intake-body-3" data-pptx-frame="124 515 306 32" data-pptx-bounds="124 515 306 32"><text x="124" y="538.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">资料、图片仍可继续调整</text></g></svg>

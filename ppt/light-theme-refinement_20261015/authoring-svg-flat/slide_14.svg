@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 Z" fill="#1F5C45"/></marker></defs><rect x="0" y="0" width="1280" height="720" fill="#EFF6FF"/>
+<g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<g id="shape-22" data-pptx-object="shape" data-pptx-frame="0 0 1280 720" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:22" data-pptx-semantic-object="shape">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-part="geometry" fill="#F7F8FA" stroke="none"/>
+</g>
+<g id="shape-23" data-pptx-object="shape" data-pptx-frame="64 62 1152 62" data-pptx-prst="rect" data-pptx-source-ref="slide:23" data-pptx-semantic-object="shape">
+<path d="M 64 62 L 1216 62 L 1216 124 L 64 124 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="106" font-size="40" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">已实现什么，下一步验证什么</text></g>
+</g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="64 128 1152 32" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 64 128 L 1216 128 L 1216 160 L 64 160 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="150" font-size="18" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">06 · 项目进展</text></g>
+<g id="shape-4" data-pptx-object="connector" data-pptx-frame="96 434 864 0" data-pptx-prst="straightConnector1" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 96 434 L 960 434" fill="none" stroke="#1F5C45" stroke-width="2" marker-end="url(#marrow1)" data-pptx-part="geometry"/></g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="84 422 24 24" data-pptx-prst="ellipse" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape">
+<path d="M 96.0 422 A 12.0 12.0 0 1 1 96.0 446 A 12.0 12.0 0 1 1 96.0 422 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="64 244 264 42" data-pptx-prst="rect" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 64 244 L 328 244 L 328 286 L 64 286 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="270.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">Web 网站闭环</text></g>
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="64 308 264 90" data-pptx-prst="rect" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 64 308 L 328 308 L 328 398 L 64 398 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="331.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">衣柜 · 入柜 · 搜索<tspan x="64" dy="36">计算推荐已打通</tspan></text></g>
+<g id="shape-8" data-pptx-object="shape" data-pptx-frame="64 476 264 36" data-pptx-prst="rect" data-pptx-source-ref="slide:8" data-pptx-semantic-object="shape">
+<path d="M 64 476 L 328 476 L 328 512 L 64 512 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="500.2" font-size="22" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">已实现</text></g>
+<g id="shape-9" data-pptx-object="shape" data-pptx-frame="372 422 24 24" data-pptx-prst="ellipse" data-pptx-source-ref="slide:9" data-pptx-semantic-object="shape">
+<path d="M 384.0 422 A 12.0 12.0 0 1 1 384.0 446 A 12.0 12.0 0 1 1 384.0 422 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-10" data-pptx-object="shape" data-pptx-frame="352 244 264 42" data-pptx-prst="rect" data-pptx-source-ref="slide:10" data-pptx-semantic-object="shape">
+<path d="M 352 244 L 616 244 L 616 286 L 352 286 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="352" y="270.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">搭台与个人 OOTD</text></g>
+<g id="shape-11" data-pptx-object="shape" data-pptx-frame="352 308 264 90" data-pptx-prst="rect" data-pptx-source-ref="slide:11" data-pptx-semantic-object="shape">
+<path d="M 352 308 L 616 308 L 616 398 L 352 398 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="352" y="331.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">多画板 · 模特 / 动作<tspan x="352" dy="36">生成确认已有实现</tspan></text></g>
+<g id="shape-12" data-pptx-object="shape" data-pptx-frame="352 476 264 36" data-pptx-prst="rect" data-pptx-source-ref="slide:12" data-pptx-semantic-object="shape">
+<path d="M 352 476 L 616 476 L 616 512 L 352 512 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="352" y="500.2" font-size="22" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">已实现</text></g>
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="660 422 24 24" data-pptx-prst="ellipse" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 672.0 422 A 12.0 12.0 0 1 1 672.0 446 A 12.0 12.0 0 1 1 672.0 422 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="640 244 264 42" data-pptx-prst="rect" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 640 244 L 904 244 L 904 286 L 640 286 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="640" y="270.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">工程与管理接入</text></g>
+<g id="shape-15" data-pptx-object="shape" data-pptx-frame="640 308 264 90" data-pptx-prst="rect" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 640 308 L 904 308 L 904 398 L 640 398 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="640" y="331.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">持久任务 · 数据归属<tspan x="640" dy="36">管理 API 默认关闭</tspan></text></g>
+<g id="shape-16" data-pptx-object="shape" data-pptx-frame="640 476 264 36" data-pptx-prst="rect" data-pptx-source-ref="slide:16" data-pptx-semantic-object="shape">
+<path d="M 640 476 L 904 476 L 904 512 L 640 512 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="640" y="500.2" font-size="22" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">已有实现</text></g>
+<g id="shape-17" data-pptx-object="shape" data-pptx-frame="948 422 24 24" data-pptx-prst="ellipse" data-pptx-source-ref="slide:17" data-pptx-semantic-object="shape">
+<path d="M 960.0 422 A 12.0 12.0 0 1 1 960.0 446 A 12.0 12.0 0 1 1 960.0 422 Z" fill="#666B76" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-18" data-pptx-object="shape" data-pptx-frame="928 244 264 42" data-pptx-prst="rect" data-pptx-source-ref="slide:18" data-pptx-semantic-object="shape">
+<path d="M 928 244 L 1192 244 L 1192 286 L 928 286 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="928" y="270.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">用户与商业验证</text></g>
+<g id="shape-19" data-pptx-object="shape" data-pptx-frame="928 308 264 90" data-pptx-prst="rect" data-pptx-source-ref="slide:19" data-pptx-semantic-object="shape">
+<path d="M 928 308 L 1192 308 L 1192 398 L 928 398 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="928" y="331.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">共创 · 留存 · 付费<tspan x="928" dy="36">单位成本仍待验证</tspan></text></g>
+<g id="shape-20" data-pptx-object="shape" data-pptx-frame="928 476 264 36" data-pptx-prst="rect" data-pptx-source-ref="slide:20" data-pptx-semantic-object="shape">
+<path d="M 928 476 L 1192 476 L 1192 512 L 928 512 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="928" y="500.2" font-size="22" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">下一阶段</text></g>
+<g id="shape-43" data-pptx-object="group" data-pptx-frame="63.44 672 1152.56 32.23" data-pptx-source-ref="slide:43">
+<g id="shape-40" data-pptx-object="shape" data-pptx-frame="64 672 1152 1" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:40" data-pptx-semantic-object="shape">
+<path d="M 64 672 L 1216 672" data-pptx-part="geometry" fill="none" stroke-width="1" stroke="#E8E9EE"/>
+</g>
+<g id="shape-41" data-pptx-object="shape" data-pptx-frame="63.44 682.67 232.33 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:41" data-pptx-semantic-object="shape">
+<path d="M 63.44 682.67 L 295.77 682.67 L 295.77 704.23 L 63.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="63.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text>
+</g>
+<g id="shape-42" data-pptx-object="shape" data-pptx-frame="1183.44 682.67 17.44 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:42" data-pptx-semantic-object="shape">
+<path d="M 1183.44 682.67 L 1200.88 682.67 L 1200.88 704.23 L 1183.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="1183.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">14</text>
+</g>
+</g><g id="progress-evidence" data-pptx-frame="64 588 1152 40" data-pptx-bounds="64 588 1152 40"><text x="64" y="611.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">实现能力来自项目源码与既有验证材料，用户效果以共创实验继续验证。</text></g></svg>

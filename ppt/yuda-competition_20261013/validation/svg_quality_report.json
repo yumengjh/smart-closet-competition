@@ -1,0 +1,1256 @@
+{
+  "schema": "ppt-master.svg-quality-report.v1",
+  "stage": "final",
+  "target": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013",
+  "source_fingerprint": {
+    "algorithm": "sha256",
+    "digest": "853b2dc33d70527ba06566e77d36b9eb45e6bb66278d2484206dccb349cc3e84",
+    "file_count": 18,
+    "files": [
+      {
+        "file": "01_cover.svg",
+        "sha256": "3a611f65f2e827c57c4c434b6ffd980065b57f86b10a4ac6dd6f437f29ab9dca"
+      },
+      {
+        "file": "02_morning.svg",
+        "sha256": "725866a3c0ecab3d748d9e29de367edb7fe11fe3a8c6bc190b25b5a1a66e3e94"
+      },
+      {
+        "file": "03_reframe.svg",
+        "sha256": "2d7eba061cdedc4a94fc47fa6148706475b05b1162f452d8543542433cc409c3"
+      },
+      {
+        "file": "04_product_loop.svg",
+        "sha256": "c8db60afb44aeacac599d0efc67c7fe391e392317494645ab2255bf01b9cc7a4"
+      },
+      {
+        "file": "05_intake.svg",
+        "sha256": "984276b1d798c2a33aa2e1abd6a10e201109036c1e1d6c1b715e15a98b428888"
+      },
+      {
+        "file": "06_recommend.svg",
+        "sha256": "0ad8497633849d9d201e6c3d49833691703a39c85ab6cbb4992f8663897ae87a"
+      },
+      {
+        "file": "07_agent.svg",
+        "sha256": "1ce339bfb5f155b5d52ba71238f7876fb1e544c92cd93e16ef6b28ba131055e5"
+      },
+      {
+        "file": "08_algorithms.svg",
+        "sha256": "044405bb27478b69dfd14898d70d4192be5623ec67d1d86ff080bd8e10a00650"
+      },
+      {
+        "file": "09_architecture.svg",
+        "sha256": "a0c304fea14d317dd0742983c3d18ec31e25f0930efb5f20e1b7c1d374726896"
+      },
+      {
+        "file": "10_evidence.svg",
+        "sha256": "a6d06228fe1f69c37fb478ca53fc798c67c6e886baffd52c1388d1f048faf973"
+      },
+      {
+        "file": "11_positioning.svg",
+        "sha256": "71657e25e0f9bd406337e21ab59003a3492b240aae4a47e92cd53ef138c334ac"
+      },
+      {
+        "file": "12_market.svg",
+        "sha256": "454f7c96c9e2ec9cd4f59c88393a08525350aa114c3b059bdf0285407192c7f4"
+      },
+      {
+        "file": "13_validation.svg",
+        "sha256": "285f7d3c5a281adccde53aaee7397e8675dfca487f3c9450a777572d28a84c3e"
+      },
+      {
+        "file": "14_revenue.svg",
+        "sha256": "1f7c20dc4d77625d2079a633382993167af0c11920bb3a57a4a5e7cb0d088ff9"
+      },
+      {
+        "file": "15_economics.svg",
+        "sha256": "e4b284f5eb1643e1a520f5fb860f2ed5ed9277669c2e410bd426ed5d15c10757"
+      },
+      {
+        "file": "16_team.svg",
+        "sha256": "eb0b2982ac882c66c737ae9135e01f6b3b8e1cfb62ee536b31c32a82709931e5"
+      },
+      {
+        "file": "17_roadmap.svg",
+        "sha256": "7e1424fc3f26f9bfacb56e2ac7c0b586c0ed8cac6c5b1c0ef29a77d3e761d5b3"
+      },
+      {
+        "file": "18_closing.svg",
+        "sha256": "dad642d44cb9de788aa3af232f820a8e63a169328c2308805141e4757a052b3f"
+      }
+    ]
+  },
+  "summary": {
+    "total": 18,
+    "passed": 18,
+    "warnings": 0,
+    "errors": 0
+  },
+  "issue_types": {},
+  "categories": {
+    "blocking": {
+      "count": 0,
+      "issues": []
+    },
+    "introduced": {
+      "count": 0,
+      "issues": []
+    },
+    "inherited": {
+      "count": 0,
+      "issues": []
+    },
+    "source-import": {
+      "count": 0,
+      "summary": {
+        "warning_count": 0,
+        "by_code": {}
+      }
+    }
+  },
+  "drift": {
+    "colors": {
+      "#4A3853": [
+        "09_architecture.svg"
+      ],
+      "#8D739E": [
+        "01_cover.svg"
+      ]
+    },
+    "fonts": {},
+    "sizes": {}
+  },
+  "carrier_receipt": {
+    "scope": "informational-not-a-quota",
+    "pages": 18,
+    "totals": {
+      "text_elements": 284,
+      "image_placements": 0,
+      "icons": 0,
+      "svg_geometry_elements": 128,
+      "preset_shapes": 1,
+      "page_frame_elements": 18,
+      "marker_uses": 16,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 1,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "pages_with": {
+      "images": 0,
+      "icons": 0,
+      "presets": 1,
+      "charts": 0,
+      "tables": 0,
+      "formulas": 0,
+      "inline_emphasis_runs": 2,
+      "gradient_uses": 1,
+      "filter_uses": 0,
+      "text_effects": 0
+    },
+    "relationship_pages": 18,
+    "geometry_elements": {
+      "circle": 26,
+      "ellipse": 0,
+      "line": 41,
+      "path": 20,
+      "polygon": 0,
+      "polyline": 0,
+      "rect": 41
+    },
+    "preset_names": {
+      "foldedCorner": 1
+    },
+    "native_objects": {
+      "chart": 0,
+      "formula_block": 0,
+      "formula_inline": 0,
+      "other": 0,
+      "table": 0
+    },
+    "image_page_max_frame_share_range": []
+  },
+  "project_issues": {
+    "template": [],
+    "animation": [],
+    "illustration": [],
+    "communication_trace": [],
+    "pptx_structure": []
+  },
+  "files": [
+    {
+      "file": "01_cover.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/01_cover.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 1,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 2,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 5
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 4,
+        "contextual_values": {
+          "colors": [
+            "#8D739E"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "3a611f65f2e827c57c4c434b6ffd980065b57f86b10a4ac6dd6f437f29ab9dca"
+    },
+    {
+      "file": "02_morning.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/02_morning.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 14,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 1,
+              "ellipse": 0,
+              "line": 3,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 4
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 14,
+        "tspan_elements": 3
+      },
+      "passed": true,
+      "source_sha256": "725866a3c0ecab3d748d9e29de367edb7fe11fe3a8c6bc190b25b5a1a66e3e94"
+    },
+    {
+      "file": "03_reframe.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/03_reframe.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 18,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 1
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 18,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "2d7eba061cdedc4a94fc47fa6148706475b05b1162f452d8543542433cc409c3"
+    },
+    {
+      "file": "04_product_loop.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/04_product_loop.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 24,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 6,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 4
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 24,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "c8db60afb44aeacac599d0efc67c7fe391e392317494645ab2255bf01b9cc7a4"
+    },
+    {
+      "file": "05_intake.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/05_intake.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 15,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 2
+            },
+            "preset_shapes": 1,
+            "preset_names": {
+              "foldedCorner": 1
+            },
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 2
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 15,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "984276b1d798c2a33aa2e1abd6a10e201109036c1e1d6c1b715e15a98b428888"
+    },
+    {
+      "file": "06_recommend.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/06_recommend.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 13,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 3,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 0,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 4
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 13,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "0ad8497633849d9d201e6c3d49833691703a39c85ab6cbb4992f8663897ae87a"
+    },
+    {
+      "file": "07_agent.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/07_agent.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 15,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 5,
+              "circle": 3,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 2
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 1
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 15,
+        "tspan_elements": 4
+      },
+      "passed": true,
+      "source_sha256": "1ce339bfb5f155b5d52ba71238f7876fb1e544c92cd93e16ef6b28ba131055e5"
+    },
+    {
+      "file": "08_algorithms.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/08_algorithms.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 19,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 1
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 19,
+        "tspan_elements": 5
+      },
+      "passed": true,
+      "source_sha256": "044405bb27478b69dfd14898d70d4192be5623ec67d1d86ff080bd8e10a00650"
+    },
+    {
+      "file": "09_architecture.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/09_architecture.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 21,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 7,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 4
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 21,
+        "tspan_elements": 4,
+        "contextual_values": {
+          "colors": [
+            "#4A3853"
+          ]
+        }
+      },
+      "passed": true,
+      "source_sha256": "a0c304fea14d317dd0742983c3d18ec31e25f0930efb5f20e1b7c1d374726896"
+    },
+    {
+      "file": "10_evidence.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/10_evidence.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 17,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 17,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "a6d06228fe1f69c37fb478ca53fc798c67c6e886baffd52c1388d1f048faf973"
+    },
+    {
+      "file": "11_positioning.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/11_positioning.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 17,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 3,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 17,
+        "tspan_elements": 6
+      },
+      "passed": true,
+      "source_sha256": "71657e25e0f9bd406337e21ab59003a3492b240aae4a47e92cd53ef138c334ac"
+    },
+    {
+      "file": "12_market.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/12_market.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 12,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 12,
+        "tspan_elements": 8
+      },
+      "passed": true,
+      "source_sha256": "454f7c96c9e2ec9cd4f59c88393a08525350aa114c3b059bdf0285407192c7f4"
+    },
+    {
+      "file": "13_validation.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/13_validation.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 17,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 1
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 17,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "285f7d3c5a281adccde53aaee7397e8675dfca487f3c9450a777572d28a84c3e"
+    },
+    {
+      "file": "14_revenue.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/14_revenue.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 15,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 15,
+        "tspan_elements": 0
+      },
+      "passed": true,
+      "source_sha256": "1f7c20dc4d77625d2079a633382993167af0c11920bb3a57a4a5e7cb0d088ff9"
+    },
+    {
+      "file": "15_economics.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/15_economics.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 17,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 1,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 2,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 1
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 17,
+        "tspan_elements": 1
+      },
+      "passed": true,
+      "source_sha256": "e4b284f5eb1643e1a520f5fb860f2ed5ed9277669c2e410bd426ed5d15c10757"
+    },
+    {
+      "file": "16_team.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/16_team.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 14,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 2,
+              "circle": 0,
+              "ellipse": 0,
+              "line": 3,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 14,
+        "tspan_elements": 4
+      },
+      "passed": true,
+      "source_sha256": "eb0b2982ac882c66c737ae9135e01f6b3b8e1cfb62ee536b31c32a82709931e5"
+    },
+    {
+      "file": "17_roadmap.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/17_roadmap.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 18,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 4,
+              "ellipse": 0,
+              "line": 1,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 0
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 1
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial",
+          "SimSun, Georgia"
+        ],
+        "text_elements": 18,
+        "tspan_elements": 8
+      },
+      "passed": true,
+      "source_sha256": "7e1424fc3f26f9bfacb56e2ac7c0b586c0ed8cac6c5b1c0ef29a77d3e761d5b3"
+    },
+    {
+      "file": "18_closing.svg",
+      "path": "/Users/yaopinxin/project/smart-closet-server/competition/ppt/yuda-competition_20261013/svg_output/18_closing.svg",
+      "exists": true,
+      "errors": [],
+      "warnings": [],
+      "info": {
+        "viewbox": "0 0 1280 720",
+        "carrier_receipt": {
+          "text_elements": 9,
+          "images": {
+            "placements": 0,
+            "files": [],
+            "max_frame_share": 0.0
+          },
+          "icons": 0,
+          "effects": {
+            "inline_emphasis_runs": 0,
+            "gradient_uses": 0,
+            "filter_uses": 0,
+            "text_effects": 0
+          },
+          "geometry": {
+            "svg_elements": {
+              "rect": 1,
+              "circle": 2,
+              "ellipse": 0,
+              "line": 4,
+              "polyline": 0,
+              "polygon": 0,
+              "path": 3
+            },
+            "preset_shapes": 0,
+            "preset_names": {},
+            "page_frame_elements": 1,
+            "marker_uses": {
+              "start": 0,
+              "mid": 0,
+              "end": 0
+            }
+          },
+          "native_objects": {
+            "chart": 0,
+            "table": 0,
+            "formula_block": 0,
+            "formula_inline": 0,
+            "other": 0
+          }
+        },
+        "fonts": [
+          "Microsoft YaHei, Arial"
+        ],
+        "text_elements": 9,
+        "tspan_elements": 2
+      },
+      "passed": true,
+      "source_sha256": "dad642d44cb9de788aa3af232f820a8e63a169328c2308805141e4757a052b3f"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schema": "vector_asset_inventory.v2",
+  "svg_dir": "authoring-svg-flat",
+  "icons_dir": "icons",
+  "icon_namespace": "imported",
+  "asset_role": "decoration",
+  "rewritten_dir": null,
+  "reuse_inventory": null,
+  "min_drawables": 2,
+  "min_bytes": 512,
+  "min_decoration_bytes": 512,
+  "extracted_count": 3,
+  "reused_count": 0,
+  "asset_count": 3,
+  "stale_removed": [],
+  "assets": [
+    {
+      "svg": "slide_07.svg",
+      "id": "imported/flat_slide_07_ill01",
+      "icon": "imported/flat_slide_07_ill01",
+      "asset": "imported/flat_slide_07_ill01.svg",
+      "source": "extracted",
+      "role": "decoration",
+      "source_sha256": "0ddff1c0056748aefecea1c15617fbed94efea6568caa21dbcdfa1d7a5d93aea",
+      "asset_sha256": "39a49a89f6278373cb6ec122ad10d6ba54cb0ebf58822c7606d9e2cb2af21453",
+      "drawable_count": 0,
+      "byte_count": 578,
+      "source_refs": [
+        "slide:26",
+        "slide:27"
+      ],
+      "dependencies": [],
+      "external_hrefs_rewritten": 1,
+      "elements": {}
+    },
+    {
+      "svg": "slide_07.svg",
+      "id": "imported/flat_slide_07_ill02",
+      "icon": "imported/flat_slide_07_ill02",
+      "asset": "imported/flat_slide_07_ill02.svg",
+      "source": "extracted",
+      "role": "decoration",
+      "source_sha256": "d47be4df1fdf417e8549c14aa759a48a6e2bb8d49ca7aec2228fec1db04aea73",
+      "asset_sha256": "5d74c6097c7f311e1fe77122663d95cba20092b0af38787e6eeaa9176e732430",
+      "drawable_count": 0,
+      "byte_count": 570,
+      "source_refs": [
+        "slide:29",
+        "slide:30"
+      ],
+      "dependencies": [],
+      "external_hrefs_rewritten": 1,
+      "elements": {}
+    },
+    {
+      "svg": "slide_14.svg",
+      "id": "imported/flat_slide_14_ill01",
+      "icon": "imported/flat_slide_14_ill01",
+      "asset": "imported/flat_slide_14_ill01.svg",
+      "source": "extracted",
+      "role": "decoration",
+      "source_sha256": "05dd14b73cf88530e12843a896b874e2e319e5801110444e7359caf74b083cf0",
+      "asset_sha256": "bd47fd8807623c49ac63be166b7b6520cfd45a00f3525c59b742e302734650b1",
+      "drawable_count": 0,
+      "byte_count": 569,
+      "source_refs": [
+        "slide:38",
+        "slide:39"
+      ],
+      "dependencies": [],
+      "external_hrefs_rewritten": 1,
+      "elements": {}
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial" font-size="26" data-pptx-page-role="content">
+<rect id="background" data-pptx-role="background" width="1280" height="720" fill="#F5F1E8" />
+<g id="title" data-pptx-bounds="64 44 1152 151" fill="#302238"><text x="64" y="72" font-size="18">TARGET MARKET / 用户假设</text><text x="64" y="145" font-family="SimSun, Georgia" font-size="48">先找到“衣服不少、选择很难”的人。</text></g>
+<g id="first-audience" data-pptx-bounds="64 229 557 378" fill="#F5F1E8"><rect x="64" y="229" width="557" height="378" fill="#302238" /><text x="90" y="276" font-size="18" fill="#D8F36A">FIRST / 优先触达</text><text x="90" y="349" font-size="36" font-family="SimSun, Georgia">高校与初入职场</text><text x="90" y="418">开始建立自己的衣柜，</text><text x="90" y="460">也开始面对新的场合。</text><line x1="90" y1="496" x2="582" y2="496" stroke="#C7BECC" stroke-opacity="0.4" /><text font-size="20" x="90" y="553">校园、社群共创；</text><text font-size="20" x="90" y="584">用真实任务验证价值。</text></g>
+<g id="commuter" data-pptx-bounds="682 229 534 169" fill="#302238"><text x="682" y="274" font-size="36" font-family="SimSun, Georgia">日常通勤人群</text><text x="682" y="334">高频决策：每天少绕几个弯，</text><text x="682" y="376">在场景与天气之间选得更清楚。</text></g>
+<g id="enthusiast" data-pptx-bounds="682 433 534 174" fill="#302238"><line x1="682" y1="434" x2="1216" y2="434" stroke="#C7BECC" /><text x="682" y="483" font-size="36" font-family="SimSun, Georgia">穿搭爱好者</text><text x="682" y="543">复用已有衣物，探索新变化；</text><text x="682" y="585">编辑、预览并保留自己的选择。</text></g>
+<g id="footer" data-pptx-bounds="64 649 1152 44" fill="#6B6071" font-size="16"><text x="64" y="677">待验证目标用户；不代表已获得用户规模、已证实需求或市场份额。</text><text x="1178" y="677">12</text></g>
+</svg>

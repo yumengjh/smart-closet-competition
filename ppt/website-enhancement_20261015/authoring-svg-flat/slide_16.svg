@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<path fill="#25262B" id="page-field-0" d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-role="background"/>
+<g id="shape-2-foreground" data-pptx-object="shape" data-pptx-frame="40 26.67 93.33 93.33" data-pptx-prst="ellipse" data-pptx-semantic-object="shape"><path d="M 40 73.33 A 46.67 46.67 0 0 1 86.67 26.67 A 46.67 46.67 0 0 1 133.33 73.33 A 46.67 46.67 0 0 1 86.67 120 A 46.67 46.67 0 0 1 40 73.33 Z" fill="#1F5C45" fill-opacity="0.25" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g></g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="1146.67 26.67 93.33 93.33" data-pptx-prst="ellipse" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 1146.67 73.33 A 46.67 46.67 0 0 1 1193.33 26.67 A 46.67 46.67 0 0 1 1240 73.33 A 46.67 46.67 0 0 1 1193.33 120 A 46.67 46.67 0 0 1 1146.67 73.33 Z" fill="#EEF6F1" fill-opacity="0.25" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g>
+<g id="shape-4" data-pptx-object="shape" data-pptx-frame="53.33 606.67 93.33 93.33" data-pptx-prst="ellipse" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 53.33 653.33 A 46.67 46.67 0 0 1 100 606.67 A 46.67 46.67 0 0 1 146.67 653.33 A 46.67 46.67 0 0 1 100 700 A 46.67 46.67 0 0 1 53.33 653.33 Z" fill="#EEF6F1" fill-opacity="0.25" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g>
+<g id="shape-5" data-pptx-object="shape" data-pptx-frame="1133.33 606.67 106.67 106.67" data-pptx-prst="ellipse" data-pptx-source-ref="slide:5" data-pptx-semantic-object="shape">
+<path d="M 1133.33 660 A 53.33 53.33 0 0 1 1186.67 606.67 A 53.33 53.33 0 0 1 1240 660 A 53.33 53.33 0 0 1 1186.67 713.33 A 53.33 53.33 0 0 1 1133.33 660 Z" fill="#1F5C45" fill-opacity="0.25" stroke-width="2.66667" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+</g>
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="0 160 1280 40" data-pptx-prst="rect" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 0 160 L 1280 160 L 1280 200 L 0 200 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="640" y="187.33333333" text-anchor="middle" xml:space="preserve" font-size="18.67" fill="#DCEAE2" font-weight="bold" data-pptx-text-baseline="metrics-v1">鱼力无限 · 鱼搭 AI 数字衣柜网站</text>
+</g>
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="173.33 233.33 933.33 173.33" data-pptx-prst="rect" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 173.33 233.33 L 1106.67 233.33 L 1106.67 406.67 L 173.33 406.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="640" y="286.13" text-anchor="middle" xml:space="preserve" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-size="48" fill="#FFFFFF" font-weight="bold" data-pptx-text-baseline="metrics-v1">理解衣柜，解释选择。<tspan x="640" dy="72.0">让已有衣物，重新有机会。</tspan></text>
+</g>
+<g id="shape-8" data-pptx-object="connector" data-pptx-frame="580 452.67 120 1.33" data-pptx-prst="straightConnector1" transform="rotate(-0.63658333 640 453.33)" data-pptx-source-ref="slide:8" data-pptx-semantic-object="shape">
+<path d="M 580 452.67 L 700 454" fill="#E8E9EE" stroke-width="5.33333" stroke-linecap="butt" stroke="#1F5C45" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+</g>
+<g id="shape-9" data-pptx-object="shape" data-pptx-frame="0 486.67 1280 40" data-pptx-prst="rect" data-pptx-source-ref="slide:9" data-pptx-semantic-object="shape">
+<path d="M 0 486.67 L 1280 486.67 L 1280 526.67 L 0 526.67 Z" fill="none" stroke-width="1.33333" stroke-linecap="butt" stroke="none" stroke-linejoin="round" data-pptx-part="geometry"/>
+
+
+<text x="640" y="514.66666667" text-anchor="middle" xml:space="preserve" font-size="22" fill="#DCEAE2" data-pptx-text-baseline="metrics-v1">欢迎现场体验网站 · 共创验证日常穿搭价值</text>
+</g><g id="yuda-footer" data-pptx-bounds="64 671 1152 32" data-pptx-frame="64 671 1152 32"><line x1="64" y1="672" x2="1216" y2="672" stroke="#E8E9EE" stroke-width="1"/><text x="64" y="696" font-size="14" fill="#DCEAE2">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text><text x="1184" y="696" font-size="14" fill="#DCEAE2">18</text></g></svg>

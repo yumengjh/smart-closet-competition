@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><defs><clipPath id="clip1" clipPathUnits="userSpaceOnUse"><path d="M 159.53 416.35 C 159.53 405.65 163.78 395.39 171.35 387.82 C 178.92 380.25 189.18 376 199.88 376 L 361.25 376 C 371.95 376 382.21 380.25 389.78 387.82 C 397.35 395.39 401.6 405.65 401.6 416.35 L 401.6 641.72 C 401.6 652.42 397.35 662.68 389.78 670.25 C 382.21 677.82 371.95 682.07 361.25 682.07 L 199.88 682.07 C 189.18 682.07 178.92 677.82 171.35 670.25 C 163.78 662.68 159.53 652.42 159.53 641.72 Z"/></clipPath></defs><rect x="0" y="0" width="1280" height="720" fill="#1E3A8A" fill-opacity="0.8"/>
+<g id="shape-2" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:2">
+<g id="shape-19" data-pptx-object="shape" data-pptx-frame="0 0 1280 720" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:19" data-pptx-semantic-object="shape">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-part="geometry" fill="#F7F8FA" stroke="none"/>
+</g>
+<g id="shape-20" data-pptx-object="shape" data-pptx-frame="64 128 1152 32" data-pptx-prst="rect" data-pptx-source-ref="slide:20" data-pptx-semantic-object="shape">
+<path d="M 64 128 L 1216 128 L 1216 160 L 64 160 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="150" font-size="18" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">01 · 需求洞察</text></g>
+</g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="64 62 1152 62" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 64 62 L 1216 62 L 1216 124 L 64 124 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="106" font-size="40" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">衣柜很满，选择仍然很难</text></g>
+<g id="shape-4" data-pptx-object="shape" data-pptx-frame="64 206 550 80" data-pptx-prst="rect" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 64 206 L 614 206 L 614 286 L 64 286 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="232.4" font-size="24" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">照片分散、灵感难落地，<tspan x="64" dy="38">出门前仍然反复选择那几件。</tspan></text></g>
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="664 226 48 48" data-pptx-prst="ellipse" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 688.0 226 A 24.0 24.0 0 1 1 688.0 274 A 24.0 24.0 0 1 1 688.0 226 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="664 226 48 48" data-pptx-prst="rect" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 664 226 L 712 226 L 712 274 L 664 274 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="688.0" y="258" font-size="22" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="middle" data-pptx-text-baseline="metrics-v1" xml:space="preserve">1</text></g>
+<g id="shape-8" data-pptx-object="shape" data-pptx-frame="736 224 480 42" data-pptx-prst="rect" data-pptx-source-ref="slide:8" data-pptx-semantic-object="shape">
+<path d="M 736 224 L 1216 224 L 1216 266 L 736 266 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="736" y="250.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">今天，适合穿什么？</text></g>
+<g id="shape-9" data-pptx-object="shape" data-pptx-frame="736 276 450 35" data-pptx-prst="rect" data-pptx-source-ref="slide:9" data-pptx-semantic-object="shape">
+<path d="M 736 276 L 1186 276 L 1186 311 L 736 311 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="736" y="299.1" font-size="21" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">建议有依据</text></g>
+<g id="shape-10" data-pptx-object="shape" data-pptx-frame="664 356 48 48" data-pptx-prst="ellipse" data-pptx-source-ref="slide:10" data-pptx-semantic-object="shape">
+<path d="M 688.0 356 A 24.0 24.0 0 1 1 688.0 404 A 24.0 24.0 0 1 1 688.0 356 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-11" data-pptx-object="shape" data-pptx-frame="664 356 48 48" data-pptx-prst="rect" data-pptx-source-ref="slide:11" data-pptx-semantic-object="shape">
+<path d="M 664 356 L 712 356 L 712 404 L 664 404 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="688.0" y="388" font-size="22" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="middle" data-pptx-text-baseline="metrics-v1" xml:space="preserve">2</text></g>
+<g id="shape-12" data-pptx-object="shape" data-pptx-frame="736 354 480 42" data-pptx-prst="rect" data-pptx-source-ref="slide:12" data-pptx-semantic-object="shape">
+<path d="M 736 354 L 1216 354 L 1216 396 L 736 396 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="736" y="380.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">衣物多，难以记忆和查找</text></g>
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="736 406 450 35" data-pptx-prst="rect" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 736 406 L 1186 406 L 1186 441 L 736 441 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="736" y="429.1" font-size="21" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">衣柜可搜索</text></g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="664 486 48 48" data-pptx-prst="ellipse" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 688.0 486 A 24.0 24.0 0 1 1 688.0 534 A 24.0 24.0 0 1 1 688.0 486 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-15" data-pptx-object="shape" data-pptx-frame="664 486 48 48" data-pptx-prst="rect" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 664 486 L 712 486 L 712 534 L 664 534 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="688.0" y="518" font-size="22" fill="#FFFFFF" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="middle" data-pptx-text-baseline="metrics-v1" xml:space="preserve">3</text></g>
+<g id="shape-16" data-pptx-object="shape" data-pptx-frame="736 484 480 42" data-pptx-prst="rect" data-pptx-source-ref="slide:16" data-pptx-semantic-object="shape">
+<path d="M 736 484 L 1216 484 L 1216 526 L 736 526 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="736" y="510.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">有灵感，却难用自己的衣物还原</text></g>
+<g id="shape-17" data-pptx-object="shape" data-pptx-frame="736 536 450 35" data-pptx-prst="rect" data-pptx-source-ref="slide:17" data-pptx-semantic-object="shape">
+<path d="M 736 536 L 1186 536 L 1186 571 L 736 571 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="736" y="559.1" font-size="21" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">组合可编辑</text></g>
+<g id="shape-34" data-pptx-object="group" data-pptx-frame="159.53 376 242.07 306.07" data-pptx-source-ref="slide:34" transform="translate(-60 -70)">
+<g id="shape-33" data-pptx-object="picture" data-pptx-frame="159.53 376 242.07 306.07" data-pptx-source-ref="slide:33">
+<image data-pptx-object="picture" data-pptx-frame="159.53 376 242.07 306.07" clip-path="url(#clip1)" href="../images/image_7014faf47b90c6dd.png" x="159.53" y="376" width="242.07" height="306.07" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-38" data-pptx-object="group" data-pptx-frame="63.44 672 1152.56 32.23" data-pptx-source-ref="slide:38">
+<g id="shape-35" data-pptx-object="shape" data-pptx-frame="64 672 1152 1" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:35" data-pptx-semantic-object="shape">
+<path d="M 64 672 L 1216 672" data-pptx-part="geometry" fill="none" stroke-width="1" stroke="#E8E9EE"/>
+</g>
+<g id="shape-36" data-pptx-object="shape" data-pptx-frame="63.44 682.67 232.33 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:36" data-pptx-semantic-object="shape">
+<path d="M 63.44 682.67 L 295.77 682.67 L 295.77 704.23 L 63.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="63.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">鱼力无限 / 鱼搭 · AI 数字衣柜网站</text>
+</g>
+<g id="shape-37" data-pptx-object="shape" data-pptx-frame="1183.44 682.67 17.44 21.56" data-pptx-prst="rect" data-pptx-source-ref="slide:37" data-pptx-semantic-object="shape">
+<path d="M 1183.44 682.67 L 1200.88 682.67 L 1200.88 704.23 L 1183.44 704.23 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="1183.44" y="696" text-anchor="start" xml:space="preserve" font-size="14" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">03</text>
+</g>
+</g></svg>

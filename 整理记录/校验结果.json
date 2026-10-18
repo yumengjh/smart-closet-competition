@@ -1,0 +1,554 @@
+{
+  "new_top_level_markdown": 9,
+  "relative_links_checked": 288,
+  "missing_new_document_links": [],
+  "copied_files_checked": 86,
+  "source_and_copy_sha256_mismatches": [],
+  "json_files_parsed": 10,
+  "new_document_whitespace_issues": [],
+  "workspace_status": {
+    "backend": {
+      "pre_existing_status_preserved": true,
+      "additional_status_changes": []
+    },
+    "frontend": {
+      "pre_existing_status_preserved": true,
+      "additional_status_changes": []
+    }
+  },
+  "historical_copy_links_not_bundled": [
+    {
+      "document": "原始资料/后端/README.md",
+      "target": "../smart-closet/README.md",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/README.md",
+      "target": "docs/generation.example.yml",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/README.md",
+      "target": "src/main/java/com/smartcloset/image/StickerRenderer.java",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/README.md",
+      "target": "reports/stickers/index.html",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/README.md",
+      "target": "reports/round2/index.html",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/README.md",
+      "target": "reports/latest/index.html",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/README.md",
+      "target": "deploy/nginx/closet.conf.example",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/前端/README.md",
+      "target": ".planning/platform-agent-ootd/progress.md",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/前端/docs/INTERACTION.md",
+      "target": "../../smart-closet-server/docs/CLOSET_PRODUCT.md",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/INDEPENDENT_DEPLOYMENT.md",
+      "target": "../deploy/nginx/closet.conf.example",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/CLOSET_PRODUCT.md",
+      "target": "generation.example.yml",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/MANAGEMENT_API.md",
+      "target": "../scripts/manage-curl.sh",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/MANAGEMENT_API.md",
+      "target": "../src/main/java/com/smartcloset/management/auth/HmacCanonical.java",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/MANAGEMENT_API.md",
+      "target": "../src/test/java/com/smartcloset/management/ManagementSigner.java",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/EXPERIMENT.md",
+      "target": "latest/index.html",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/EXPERIMENT.md",
+      "target": "latest/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/EXPERIMENT.md",
+      "target": "latest/results.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/EXPERIMENT.md",
+      "target": "packaged-smoke.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/recommend-aesthetic/README.md",
+      "target": "aesthetic-model-judge.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/recommend-aesthetic/README.md",
+      "target": "aesthetic-rules-model-review.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/stickers/README.md",
+      "target": "index.html",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/stickers/README.md",
+      "target": "../../src/main/java/com/smartcloset/image/StickerRenderer.java",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/stickers/README.md",
+      "target": "previous-soft-v1/artf-280.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/stickers/README.md",
+      "target": "previous-soft-v1/artf-248.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/stickers/README.md",
+      "target": "results.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "index.html",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-200/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-208/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-216/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-228/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-240/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-248/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-260/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-100/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-120/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-140/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-280/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "artf-320/comparison.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/round2/REVIEW.md",
+      "target": "results.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/agent/README.md",
+      "target": "ui-overlay-desktop.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/agent/README.md",
+      "target": "ui-preview-desktop.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/agent/README.md",
+      "target": "ui-overlay-mobile.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/agent/README.md",
+      "target": "ui-preview-mobile.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/agent/README.md",
+      "target": "candidates-desktop.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/agent/README.md",
+      "target": "mobile-confirm.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/agent/README.md",
+      "target": "mobile-settings.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/README.md",
+      "target": "workspace-overview.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/README.md",
+      "target": "workspace-focus.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/README.md",
+      "target": "workspace-running.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/README.md",
+      "target": "workspace-mobile.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/README.md",
+      "target": "workspace-mobile-small.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/recognition/README.md",
+      "target": "live.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/recognition/README.md",
+      "target": "multiple.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/recognition/README.md",
+      "target": "full.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/generation/provider-check.md",
+      "target": "upstream-refresh-results.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/generation/provider-check.md",
+      "target": "flare-generate.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/generation/provider-check.md",
+      "target": "flare-segment.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/generation/provider-check.md",
+      "target": "flare-sticker.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/header-redesign/README.md",
+      "target": "header-before-desktop.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/header-redesign/README.md",
+      "target": "header-after-desktop.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/header-redesign/README.md",
+      "target": "header-before-mobile.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/header-redesign/README.md",
+      "target": "header-after-mobile.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/header-redesign/README.md",
+      "target": "header-after-small.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/header-redesign/README.md",
+      "target": "header-boards-drawer.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/reports/outfit-workspace/header-redesign/README.md",
+      "target": "header-after-overview.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/samples/round2/SOURCES.md",
+      "target": "manifest.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-02-batch-experiment.md",
+      "target": "2026-10-02-batch-experiment.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/validation.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/production-smoke.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/concurrent-lists.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/screenshots/photo-entry-mobile.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/screenshots/photo-entry-desktop.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/screenshots/photo-confirm-mobile.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/screenshots/ootd-live-results.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/examples/female-result.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/examples/half-valid-result.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/examples/complete-result.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-照片入口补齐与真实AI启用验收.md",
+      "target": "person-ai-20261007/examples/dress-barefoot-result.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "target": "platform-agent-ootd-20261007/validation.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "target": "platform-agent-ootd-20261007/qa-facts.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "target": "platform-agent-ootd-20261007/screenshots/double-outer-desktop.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "target": "platform-agent-ootd-20261007/screenshots/double-outer-mobile.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "target": "platform-agent-ootd-20261007/screenshots/baseline-default-female-mobile.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "target": "platform-agent-ootd-20261007/screenshots/ootd-dress-desktop.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "target": "platform-agent-ootd-20261007/screenshots/ootd-mobile-dark.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "target": "platform-agent-ootd-20261007/screenshots/memory-mobile-dark.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-平台级鱼搭与个人OOTD实施验收.md",
+      "target": "platform-agent-ootd-20261007/screenshots/assistant-overlay-desktop.png",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    },
+    {
+      "document": "原始资料/后端/docs/reports/2026-10-07-8080平台级鱼搭部署记录.md",
+      "target": "platform-agent-ootd-20261007/deployment-smoke.json",
+      "exists_at_original_location": true,
+      "reason": "原文代码或非文本附件未纳入文本资料包"
+    }
+  ],
+  "business_tests": "not run; documentation-only task",
+  "runtime_validation": "not run",
+  "mermaid_validation": "5 diagram blocks inspected as text, not rendered",
+  "new_markdown_including_records": 14,
+  "source_index_original_links_verified": 86
+}

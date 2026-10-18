@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3.5" markerHeight="3.5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1F5C45"/></marker></defs><image href="../images/image3.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none" opacity="0.7"/>
+<g id="shape-5" data-pptx-object="group" data-pptx-frame="0 0 1280 720" data-pptx-source-ref="slide:5">
+<g id="shape-33" data-pptx-object="shape" data-pptx-frame="0 0 1280 720" data-pptx-geometry-kind="custom" data-pptx-source-ref="slide:33" data-pptx-semantic-object="shape">
+<path d="M 0 0 L 1280 0 L 1280 720 L 0 720 Z" data-pptx-part="geometry" fill="#F7F8FA" stroke="none"/>
+</g>
+<g id="shape-2" data-pptx-object="shape" data-pptx-frame="64 128 1152 32" data-pptx-prst="rect" data-pptx-source-ref="slide:2" data-pptx-semantic-object="shape">
+<path d="M 64 128 L 1216 128 L 1216 160 L 64 160 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="150" font-size="18" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">01 · 项目立意</text></g>
+<g id="shape-3" data-pptx-object="shape" data-pptx-frame="64 62 1152 62" data-pptx-prst="rect" data-pptx-source-ref="slide:3" data-pptx-semantic-object="shape">
+<path d="M 64 62 L 1216 62 L 1216 124 L 64 124 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="106" font-size="40" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">把衣柜，变成决策资源</text></g>
+<g id="shape-4" data-pptx-object="shape" data-pptx-frame="64 198 1120 42" data-pptx-prst="rect" data-pptx-source-ref="slide:4" data-pptx-semantic-object="shape">
+<path d="M 64 198 L 1184 198 L 1184 240 L 64 240 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="224.4" font-size="24" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">从真实衣物出发，让每次选择都有依据。</text></g>
+</g>
+<g id="shape-27" data-pptx-object="group" data-pptx-frame="64 292 1134 223" data-pptx-source-ref="slide:27">
+<g id="shape-6" data-pptx-object="shape" data-pptx-frame="104 304 1084 0" data-pptx-prst="line" data-pptx-source-ref="slide:6" data-pptx-semantic-object="shape">
+<path d="M 104 304 L 1188 304" fill="none" stroke="#1F5C45" stroke-width="2" marker-end="url(#marrow1)" data-pptx-part="geometry"/></g>
+<g id="shape-11" data-pptx-object="group" data-pptx-frame="64 292 270 223" data-pptx-source-ref="slide:11">
+<g id="shape-7" data-pptx-object="shape" data-pptx-frame="92 292 24 24" data-pptx-prst="ellipse" data-pptx-source-ref="slide:7" data-pptx-semantic-object="shape">
+<path d="M 104.0 292 A 12.0 12.0 0 1 1 104.0 316 A 12.0 12.0 0 1 1 104.0 292 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-8" data-pptx-object="shape" data-pptx-frame="64 352 260 50" data-pptx-prst="rect" data-pptx-source-ref="slide:8" data-pptx-semantic-object="shape">
+<path d="M 64 352 L 324 352 L 324 402 L 64 402 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="391.6" font-size="36" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">拥有</text></g>
+<g id="shape-9" data-pptx-object="shape" data-pptx-frame="64 426 270 42" data-pptx-prst="rect" data-pptx-source-ref="slide:9" data-pptx-semantic-object="shape">
+<path d="M 64 426 L 334 426 L 334 468 L 64 468 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="452.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">真实衣物</text></g>
+<g id="shape-10" data-pptx-object="shape" data-pptx-frame="64 480 260 35" data-pptx-prst="rect" data-pptx-source-ref="slide:10" data-pptx-semantic-object="shape">
+<path d="M 64 480 L 324 480 L 324 515 L 64 515 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="503.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">库存成为起点</text></g>
+</g>
+<g id="shape-16" data-pptx-object="group" data-pptx-frame="352 292 270 223" data-pptx-source-ref="slide:16">
+<g id="shape-12" data-pptx-object="shape" data-pptx-frame="380 292 24 24" data-pptx-prst="ellipse" data-pptx-source-ref="slide:12" data-pptx-semantic-object="shape">
+<path d="M 392.0 292 A 12.0 12.0 0 1 1 392.0 316 A 12.0 12.0 0 1 1 392.0 292 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-13" data-pptx-object="shape" data-pptx-frame="352 352 260 50" data-pptx-prst="rect" data-pptx-source-ref="slide:13" data-pptx-semantic-object="shape">
+<path d="M 352 352 L 612 352 L 612 402 L 352 402 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="352" y="391.6" font-size="36" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">理解</text></g>
+<g id="shape-14" data-pptx-object="shape" data-pptx-frame="352 426 270 42" data-pptx-prst="rect" data-pptx-source-ref="slide:14" data-pptx-semantic-object="shape">
+<path d="M 352 426 L 622 426 L 622 468 L 352 468 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="352" y="452.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">属性与图像</text></g>
+<g id="shape-15" data-pptx-object="shape" data-pptx-frame="352 480 260 35" data-pptx-prst="rect" data-pptx-source-ref="slide:15" data-pptx-semantic-object="shape">
+<path d="M 352 480 L 612 480 L 612 515 L 352 515 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="352" y="503.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">知道适合什么</text></g>
+</g>
+<g id="shape-21" data-pptx-object="group" data-pptx-frame="640 292 270 223" data-pptx-source-ref="slide:21">
+<g id="shape-17" data-pptx-object="shape" data-pptx-frame="668 292 24 24" data-pptx-prst="ellipse" data-pptx-source-ref="slide:17" data-pptx-semantic-object="shape">
+<path d="M 680.0 292 A 12.0 12.0 0 1 1 680.0 316 A 12.0 12.0 0 1 1 680.0 292 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-18" data-pptx-object="shape" data-pptx-frame="640 352 260 50" data-pptx-prst="rect" data-pptx-source-ref="slide:18" data-pptx-semantic-object="shape">
+<path d="M 640 352 L 900 352 L 900 402 L 640 402 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="640" y="391.6" font-size="36" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">选择</text></g>
+<g id="shape-19" data-pptx-object="shape" data-pptx-frame="640 426 270 42" data-pptx-prst="rect" data-pptx-source-ref="slide:19" data-pptx-semantic-object="shape">
+<path d="M 640 426 L 910 426 L 910 468 L 640 468 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="640" y="452.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">场景 · 天气 · 风格</text></g>
+<g id="shape-20" data-pptx-object="shape" data-pptx-frame="640 480 260 35" data-pptx-prst="rect" data-pptx-source-ref="slide:20" data-pptx-semantic-object="shape">
+<path d="M 640 480 L 900 480 L 900 515 L 640 515 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="640" y="503.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">选择附带理由</text></g>
+</g>
+<g id="shape-26" data-pptx-object="group" data-pptx-frame="928 292 270 223" data-pptx-source-ref="slide:26">
+<g id="shape-22" data-pptx-object="shape" data-pptx-frame="956 292 24 24" data-pptx-prst="ellipse" data-pptx-source-ref="slide:22" data-pptx-semantic-object="shape">
+<path d="M 968.0 292 A 12.0 12.0 0 1 1 968.0 316 A 12.0 12.0 0 1 1 968.0 292 Z" fill="#1F5C45" stroke="none" data-pptx-part="geometry"/></g>
+<g id="shape-23" data-pptx-object="shape" data-pptx-frame="928 352 260 50" data-pptx-prst="rect" data-pptx-source-ref="slide:23" data-pptx-semantic-object="shape">
+<path d="M 928 352 L 1188 352 L 1188 402 L 928 402 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="928" y="391.6" font-size="36" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="bold" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">反馈</text></g>
+<g id="shape-24" data-pptx-object="shape" data-pptx-frame="928 426 270 42" data-pptx-prst="rect" data-pptx-source-ref="slide:24" data-pptx-semantic-object="shape">
+<path d="M 928 426 L 1198 426 L 1198 468 L 928 468 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="928" y="452.4" font-size="24" fill="#25262B" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">换件 · 喜好 · 恢复</text></g>
+<g id="shape-25" data-pptx-object="shape" data-pptx-frame="928 480 260 35" data-pptx-prst="rect" data-pptx-source-ref="slide:25" data-pptx-semantic-object="shape">
+<path d="M 928 480 L 1188 480 L 1188 515 L 928 515 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="928" y="503.1" font-size="21" fill="#666B76" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">影响下一次选择</text></g>
+</g>
+</g>
+<g id="shape-29" data-pptx-object="group" data-pptx-frame="64 580 1152 45" data-pptx-source-ref="slide:29">
+<g id="shape-28" data-pptx-object="shape" data-pptx-frame="64 580 1152 45" data-pptx-prst="rect" data-pptx-source-ref="slide:28" data-pptx-semantic-object="shape">
+<path d="M 64 580 L 1216 580 L 1216 625 L 64 625 Z" fill="none" stroke="none" data-pptx-part="geometry"/><text x="64" y="605.3" font-size="23" fill="#1F5C45" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif" font-weight="normal" text-anchor="start" data-pptx-text-baseline="metrics-v1" xml:space="preserve">让更多已有衣物进入日常；实际效果仍需用户验证。</text></g>
+</g>
+<g id="shape-32" data-pptx-object="group" data-pptx-frame="63.36 664 1133.94 24.64" data-pptx-source-ref="slide:32">
+<g id="shape-30" data-pptx-object="shape" data-pptx-frame="63.36 664 260 24.64" data-pptx-prst="rect" data-pptx-source-ref="slide:30" data-pptx-semantic-object="shape">
+<path d="M 63.36 664 L 323.36 664 L 323.36 688.64 L 63.36 688.64 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="63.36" y="680" text-anchor="start" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">鱼力无限 / 项目立意</text>
+</g>
+<g id="shape-31" data-pptx-object="shape" data-pptx-frame="1177.36 664 19.94 24.64" data-pptx-prst="rect" data-pptx-source-ref="slide:31" data-pptx-semantic-object="shape">
+<path d="M 1177.36 664 L 1197.3 664 L 1197.3 688.64 L 1177.36 688.64 Z" fill="none" stroke="none" data-pptx-part="geometry"/>
+
+
+<text x="1177.36" y="680" text-anchor="start" xml:space="preserve" font-size="16" fill="#666B76" data-pptx-text-baseline="metrics-v1" font-family="Microsoft YaHei, Arial, PingFang SC, sans-serif">04</text>
+</g>
+</g></svg>

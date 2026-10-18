@@ -1,0 +1,1 @@
+架构分为四层：交互层由 Vue、TypeScript、Ant Design Vue 和 Konva 承载网站与画布；服务层用 Java、Spring Boot 和 Security 处理 API、数据归属、推荐规则与额度。智能与执行层通过 ONNX 运行本地模型，由 LangGraph 编排对话，并按 CPU、识别和生成资源分别调度。数据与交付层使用 H2、MyBatis Plus、Flyway、本地或 S3 图片、Docker 与持续集成；当前采用可控单机部署。任务持久记录、网页内可查看状态，上游结果未知时不会自动重发。
