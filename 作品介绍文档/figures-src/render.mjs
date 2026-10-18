@@ -1,4 +1,4 @@
-import { chromium } from '/Users/yaopinxin/.claude/jobs/4c600d82/tmp/shot/node_modules/playwright/index.mjs';
+import { chromium } from 'playwright';
 import path from 'path'; import fs from 'fs';
 const exe = process.env.HOME + '/Library/Caches/ms-playwright/chromium-1228/chrome-mac-arm64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing';
 const files = process.argv.slice(2);

@@ -1,3 +1,4 @@
 .DS_Store
 # ppt-master 实时预览运行日志与锁
 **/live_preview/
+node_modules/

@@ -2,7 +2,7 @@
 
 - 正文：[鱼搭作品介绍文档.md](鱼搭作品介绍文档.md)
 - 配图：`images/`（`fig-*` 为图表，`shot-*` 为真实界面截图，`cover-illustration.jpeg` 取自团队原 PPT）
-- 图表源文件：`figures-src/*.html`，修改后在本目录运行 `node figures-src/render.mjs figures-src/fig-xxx.html`（需先 `cd figures-src`；依赖 Playwright 与本机 Chromium，路径写在 render.mjs 顶部）
+- 图表源文件：`figures-src/*.html`，修改后在本目录运行 `node figures-src/render.mjs figures-src/fig-xxx.html`：先在 `figures-src` 下执行 `npm i playwright`；浏览器用本机 `~/Library/Caches/ms-playwright/chromium-1228`，路径写在 render.mjs 顶部，可按需改。命令在 figures-src 目录内执行：`node render.mjs fig-xxx.html`
 
 ## 转 PDF 前请注意
 
