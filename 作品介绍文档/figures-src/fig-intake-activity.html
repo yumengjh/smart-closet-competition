@@ -1,0 +1,31 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css"><style>#fig{width:max-content;min-width:700px}</style></head><body><div id="fig"><h1 class="t">快速入柜活动图</h1><pre class="mermaid">
+flowchart TB
+  subgraph P1["① 上传与保存"]
+    direction LR
+    S((开始)) --> A[用户拍照或从相册多选]
+    A --> B{同一上传编号<br/>且内容相同?}
+    B -- 是 --> R[返回已有结果]
+    B -- 否 --> C[保存原图资产<br/>建立入柜记录]
+    C --> D[进入持久任务队列]
+  end
+  subgraph P2["② 抠图与质量检查"]
+    direction LR
+    E[本地 U²-Net 抠图] --> F{透明度与<br/>质量检查}
+    F -- 主体不明 / 残损 --> H[等待用户点选或框选<br/>GrabCut 重做]
+    F -- 通过 --> G[基础展示图<br/>BASE_READY 入柜]
+    H --> G
+    G -. 可选 .-> O[云端增强<br/>失败不影响已有成果]
+  end
+  subgraph P3["③ 识别与建索引"]
+    direction LR
+    I[识别属性] --> J[字段标注<br/>已确认/推测/未知/冲突]
+    J --> K[CIELAB 色板 · 文本向量<br/>图像指纹]
+    K --> L{可能重复?}
+    L -- 是 --> M[提示用户判断<br/>不自动合并]
+    L -- 否 --> N
+    M --> N[可用于检索与推荐]
+    N --> T((结束))
+  end
+  P1 --> P2
+  P2 --> P3
+</pre></div><script src="_mermaid.js"></script></body></html>

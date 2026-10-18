@@ -1,0 +1,9 @@
+:root{--ink:#1f2328;--muted:#5b6470;--line:#d6dbe1;--bg:#ffffff;--soft:#f4f6f8;--green:#2f7d62;--green-soft:#e6f2ec;--amber:#b7791f;--amber-soft:#fbf1e1;--blue:#2f5f9e;--blue-soft:#e8eff8;--rose:#a8455a;--rose-soft:#f8e9ec}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;color:var(--ink);background:#fff}
+#fig{display:inline-block;padding:28px 32px;background:#fff}
+h1.t{font-size:20px;font-weight:600;margin-bottom:18px;letter-spacing:.5px}
+.muted{color:var(--muted)}
+
+.mermaid{font-size:15px}
+h1.t{display:none}

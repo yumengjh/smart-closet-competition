@@ -1,0 +1,47 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+#fig{width:1280px}
+.cols{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.dom{border-radius:12px;padding:10px;background:var(--soft);border:1px solid var(--line)}
+.dom>h3{font-size:14.5px;margin:2px 4px 10px;display:flex;align-items:center;gap:6px}
+.dom>h3 i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.t{background:#fff;border:1px solid var(--line);border-radius:8px;margin-bottom:10px;overflow:hidden;font-size:12px}
+.t b{display:block;padding:6px 9px;font-size:12.5px;color:#fff;font-family:Menlo,monospace;font-weight:600}
+.t div{padding:3px 9px;border-top:1px solid #eef0f3;font-family:Menlo,monospace;color:#39414b}
+.t div em{font-style:normal;color:var(--muted);font-family:"PingFang SC",sans-serif;float:right}
+.pk{color:#b7791f!important}
+.rel{margin-top:14px;font-size:13px;color:var(--muted);line-height:1.7;border-top:1px dashed var(--line);padding-top:10px}
+.rel code{font-family:Menlo,monospace;color:var(--ink);background:var(--soft);padding:0 4px;border-radius:4px}
+</style></head><body><div id="fig"><h1 class="t">核心数据实体</h1>
+<div class="cols">
+<div class="dom"><h3><i style="background:#3d4a5c"></i>账户与安全</h3>
+<div class="t"><b style="background:#3d4a5c">closet_user</b><div class="pk">username PK</div><div>password_hash</div><div>role <em>ADMIN/USER</em></div><div>must_change_password</div><div>enabled</div></div>
+<div class="t"><b style="background:#3d4a5c">portable_login_link</b><div>token_hash <em>SHA-256</em></div><div>expires / consumed</div></div>
+<div class="t"><b style="background:#3d4a5c">user_notification</b><div>kind · title · href</div><div>dedupe_key <em>去重</em></div><div>read_at_ms</div><div>dismissed_at_ms <em>V27</em></div></div>
+</div>
+<div class="dom"><h3><i style="background:#2f5f9e"></i>衣柜与图片</h3>
+<div class="t"><b style="background:#2f5f9e">garment</b><div class="pk">id PK</div><div>owner_username FK</div><div>source/display_asset_id FK</div><div>automatic_json <em>识别结果</em></div><div>overrides_json <em>用户修正</em></div><div>closet_status <em>ACTIVE/DRAFT/TRASHED</em></div><div>revision <em>乐观锁</em></div></div>
+<div class="t"><b style="background:#2f5f9e">image_asset</b><div>sha256 · width · height</div><div>kind · review_status</div></div>
+<div class="t"><b style="background:#2f5f9e">garment_color / _embedding</b><div>CIELAB 色板 · 面积占比</div><div>vector · card_hash · model_version</div></div>
+</div>
+<div class="dom"><h3><i style="background:#2f7d62"></i>推荐与画像</h3>
+<div class="t"><b style="background:#2f7d62">recommendation_log</b><div>run_id · outfit_key</div><div>intent_json</div><div>total_score · score_vector_json</div><div>rule_hits_json · rule_version</div><div>template_id</div></div>
+<div class="t"><b style="background:#2f7d62">recommendation_feedback</b><div>log_id FK</div><div>verdict <em>UP/DOWN</em></div><div>reasons_json · garment_id</div></div>
+<div class="t"><b style="background:#2f7d62">style_signal / wear_log</b><div>kind · garment_id</div><div>worn_on · garment_ids_json</div></div>
+<div class="t"><b style="background:#2f7d62">outfit</b><div>scene_json <em>画板场景</em></div><div>revision</div></div>
+</div>
+<div class="dom"><h3><i style="background:#a8455a"></i>个人生成</h3>
+<div class="t"><b style="background:#a8455a">person_baseline</b><div>name <em>模特标签</em></div><div>profile_snapshot_json</div><div>revision · status</div></div>
+<div class="t"><b style="background:#a8455a">outfit_plan</b><div>outfit / baseline revision</div><div>input_json <em>冻结输入</em></div><div>fingerprint · expires_at_ms</div></div>
+<div class="t"><b style="background:#a8455a">image_render_job</b><div>purpose · status</div><div>idempotency_key <em>唯一</em></div><div>parent_job_id <em>重新生成</em></div></div>
+<div class="t"><b style="background:#a8455a">pose_card</b><div>description <em>只存文字</em></div><div>keypoints_json <em>示意</em></div></div>
+</div>
+<div class="dom"><h3><i style="background:#b7791f"></i>任务与助手</h3>
+<div class="t"><b style="background:#b7791f">execution_task</b><div>business_key <em>唯一</em></div><div>pool <em>CPU/识别/生成</em></div><div>status · wait_reason</div><div>claim_token · version</div></div>
+<div class="t"><b style="background:#b7791f">execution_attempt</b><div>attempt_no · dispatched</div><div>quota_units · usage_json</div></div>
+<div class="t"><b style="background:#b7791f">resource_permit</b><div>并发 · RPM · 预留</div></div>
+<div class="t"><b style="background:#b7791f">agent_session / message</b><div>agent_trace_run / event</div><div>agent_memory_use_grant</div></div>
+</div>
+</div>
+<div class="rel">主要关系：<code>closet_user 1—n garment / outfit / recommendation_log / person_baseline / pose_card</code>　<code>garment n—1 image_asset</code>　<code>recommendation_log 1—n recommendation_feedback</code>　<code>outfit 1—n outfit_plan 1—1 image_render_job</code>　<code>execution_task 1—n execution_attempt</code>。共 65 张表（含 2 张 Spring Session 表），V1–V27 由 Flyway 迁移；图中只列关键字段。</div>
+</div></body></html>

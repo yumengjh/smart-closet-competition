@@ -1,0 +1,28 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+#fig{width:1180px}
+.wrap{display:grid;grid-template-columns:150px 1fr 150px;gap:20px;align-items:center}
+.actor{text-align:center;font-size:14px;font-weight:600}
+.actor svg{display:block;margin:0 auto 6px}
+.sys{border:2px solid var(--ink);border-radius:14px;padding:16px 18px 18px;position:relative}
+.sys>span{position:absolute;top:-12px;left:20px;background:#fff;padding:0 8px;font-weight:600;font-size:14px}
+.g{display:grid;grid-template-columns:repeat(3,1fr);gap:12px 16px}
+.uc{border:1.5px solid var(--green);background:var(--green-soft);border-radius:50%;padding:12px 10px;text-align:center;font-size:13.5px;line-height:1.35}
+.uc.ad{border-color:#3d4a5c;background:#eef0f3}
+.uc.ai{border-color:var(--amber);background:var(--amber-soft)}
+.sep{grid-column:1/-1;border-top:1px dashed var(--line);margin:4px 0;font-size:12px;color:var(--muted);padding-top:4px}
+</style></head><body><div id="fig"><h1 class="t">用例图</h1>
+<div class="wrap">
+<div class="actor"><svg width="56" height="90" viewBox="0 0 56 90" fill="none" stroke="#1f2328" stroke-width="2.5"><circle cx="28" cy="14" r="11"/><path d="M28 25v32M6 38h44M28 57 10 86M28 57l18 29"/></svg>普通用户</div>
+<div class="sys"><span>鱼搭系统</span><div class="g">
+<div class="uc">拍照快速入柜</div><div class="uc">确认 / 修正衣物资料</div><div class="uc">检索衣物（文字 / 以图）</div>
+<div class="uc">获取今日推荐</div><div class="uc">换一批 / 换一件</div><div class="uc">查看推荐依据</div>
+<div class="uc">在画板编辑并保存搭配</div><div class="uc">反馈与管理个人画像</div><div class="uc">记录穿着</div>
+<div class="uc ai">与助手对话、授权操作画板</div><div class="uc ai">确认后生成个人 OOTD</div><div class="uc ai">创建动作卡、身材调节</div>
+<div class="sep">管理员（用户端管理员页 / 可选独立管理平台）</div>
+<div class="uc ad">审核搭法模板</div><div class="uc ad">审核整套穿搭样本</div><div class="uc ad">账号、运维与去标识统计</div>
+</div></div>
+<div class="actor"><svg width="56" height="90" viewBox="0 0 56 90" fill="none" stroke="#3d4a5c" stroke-width="2.5"><circle cx="28" cy="14" r="11"/><path d="M28 25v32M6 38h44M28 57 10 86M28 57l18 29"/></svg>管理员<div style="font-weight:400;font-size:12px;color:var(--muted);margin-top:4px">亦可作为普通用户</div></div>
+</div>
+<div style="font-size:12.5px;color:var(--muted);margin-top:12px">绿色：纯计算或本地处理；橙色：需调用外部大模型并经用户确认；灰色：管理员功能。</div>
+</div></body></html>

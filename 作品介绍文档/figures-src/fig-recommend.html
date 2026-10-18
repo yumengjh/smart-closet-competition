@@ -1,0 +1,28 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+#fig{width:1280px}
+.flow{display:grid;grid-template-columns:repeat(4,1fr);gap:18px 26px}
+.s{border:1px solid var(--line);border-radius:12px;padding:12px 14px;background:#fff;position:relative;min-height:150px}
+.s .no{display:inline-flex;width:24px;height:24px;border-radius:50%;background:var(--green);color:#fff;align-items:center;justify-content:center;font-size:13px;font-weight:600;margin-right:6px}
+.s h4{font-size:15px;display:flex;align-items:center;margin-bottom:8px}
+.s p{font-size:12.8px;line-height:1.55;color:#39414b}
+.s code{font-family:Menlo,monospace;font-size:11.5px;background:var(--soft);padding:1px 4px;border-radius:4px;color:var(--ink)}
+.s.r:after{content:"→";position:absolute;right:-21px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:20px}
+.s.d:after{content:"↓";position:absolute;right:50%;bottom:-22px;color:var(--muted);font-size:18px}
+.s.l:after{content:"←";position:absolute;left:-21px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:20px}
+.band{grid-column:1/-1;display:flex;gap:12px;margin-top:6px}
+.band div{flex:1;border-radius:10px;padding:10px 12px;font-size:12.8px;line-height:1.5}
+.zero{background:var(--green-soft);border:1px solid var(--green)}
+.llm{background:var(--amber-soft);border:1px solid var(--amber)}
+</style></head><body><div id="fig"><h1 class="t">推荐引擎流水线</h1>
+<div class="flow">
+<div class="s r"><h4><span class="no">1</span>结构化意图</h4><p>场景、温度、季节、风格词、颜色、必选/排除衣物。页面直接给参数；聊天时由模型填写意图，计算仍在后端。</p></div>
+<div class="s r"><h4><span class="no">2</span>衣物特征</h4><p>属性 + 证据状态 + 实测 CIELAB 色板 + 风格画像吻合度。<b>推测不升级为事实。</b></p></div>
+<div class="s r"><h4><span class="no">3</span>按位置召回</h4><p>上装/下装/一体/鞋/外套分桶；动态 K：<code>K(n)=max(K₀, min(2K₀, ⌈1.5√n⌉))</code>，库存越大召回越宽。</p></div>
+<div class="s d"><h4><span class="no">4</span>两路候选</h4><p>① 普通组合（预算 2400）；② 已审核搭法语义填位（74 条资源，忠实度 ≥0.55 才算该搭法）。</p></div>
+<div class="s"><h4><span class="no">8</span>结果与追踪</h4><p>卡片附亮点、依据、规则命中；记录日志支持“为什么没推荐那件”、换一批、换一件。</p></div>
+<div class="s l"><h4><span class="no">7</span>多样化重排</h4><p>共用主体 ×0.7 / ×0.3；曝光债与跨天限流；稳定种子 <code>hash(用户,日期,意图)</code>，不随机洗牌。</p></div>
+<div class="s l"><h4><span class="no">6</span>11 维评分</h4><p><code>总分 = clip(Σ 维度分×场景权重 + Σ 规则加减分, 0, 100)</code>；色彩、冷暖、风格、场景、配色手法、比例…</p></div>
+<div class="s l"><h4><span class="no">5</span>底线检查</h4><p>只留硬底线：穿着结构、用户明确表达、男性×女款。其余一律软扣分并写依据。</p></div>
+<div class="band"><div class="zero"><b>零模型调用：</b>召回、组合、打分、换一批、换一件、今日灵感、搜索、取色都在 Java 内计算（检索可用本地 ONNX 向量）。</div><div class="llm"><b>模型只做两件事：</b>聊天时理解自然语言并填意图；拿到压缩后的结果卡向用户解释。不向模型发送完整衣物资料、性别或身材数据。</div></div>
+</div></div></body></html>

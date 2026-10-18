@@ -1,0 +1,47 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+#fig{width:1200px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.card{border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card h4{font-size:14.5px;margin-bottom:2px}
+.card .sub{font-size:12px;color:var(--muted);margin-bottom:12px}
+.row{display:grid;grid-template-columns:44px 1fr 46px;align-items:center;gap:8px;margin:7px 0;font-size:12.5px}
+.track{height:18px;background:var(--soft);border-radius:4px;overflow:hidden}
+.b{height:100%;border-radius:4px}
+.before{background:#a9b2bd}.after{background:var(--green)}
+.v{font-variant-numeric:tabular-nums;font-weight:600;text-align:right}
+.lg{display:flex;gap:16px;font-size:12.5px;color:var(--muted);margin:0 0 12px}
+.lg i{display:inline-block;width:12px;height:12px;border-radius:3px;margin-right:5px;vertical-align:-1px}
+.note{font-size:12px;color:var(--muted);margin-top:12px;line-height:1.6}
+.big{font-size:30px;font-weight:700;color:var(--green);font-variant-numeric:tabular-nums}
+.kv{display:flex;justify-content:space-between;align-items:baseline;border-top:1px solid #eef0f3;padding:7px 0;font-size:13px}
+</style></head><body><div id="fig"><h1 class="t">实验结果</h1>
+<div class="lg"><span><i class="before"></i>改进前</span><span><i class="after"></i>改进后（启用审美组与曝光均衡）</span></div>
+<div class="grid">
+<div class="card"><h4>进入推荐的不同衣物数 ↑</h4><div class="sub">167 件仿内测衣柜，固定意图连续模拟 28 天</div>
+<div class="row"><span>改进前</span><div class="track"><div class="b before" style="width:29.3%"></div></div><span class="v">49</span></div>
+<div class="row"><span>改进后</span><div class="track"><div class="b after" style="width:58.1%"></div></div><span class="v">97</span></div>
+<div class="sub" style="margin:10px 0 0">连衣裙进入推荐：5 → 25 件</div></div>
+<div class="card"><h4>单品最高曝光占比 ↓</h4><div class="sub">同上，28 天内被推荐最多的一件所占比例</div>
+<div class="row"><span>改进前</span><div class="track"><div class="b before" style="width:100%"></div></div><span class="v">20%</span></div>
+<div class="row"><span>改进后</span><div class="track"><div class="b after" style="width:40%"></div></div><span class="v">8%</span></div>
+<div class="sub" style="margin:10px 0 0">基尼系数 0.36 → 0.42，并非所有公平指标都改善</div></div>
+<div class="card"><h4>评分区分度：并列数 ↓</h4><div class="sub">35 件考试题衣柜、1106 套，日常 20°C</div>
+<div class="row"><span>最高分并列</span><div class="track"><div class="b before" style="width:70.7%"></div></div><span class="v">29</span></div>
+<div class="row"><span></span><div class="track"><div class="b after" style="width:2.4%"></div></div><span class="v">1</span></div>
+<div class="row"><span>前10%同分</span><div class="track"><div class="b before" style="width:100%"></div></div><span class="v">41</span></div>
+<div class="row"><span></span><div class="track"><div class="b after" style="width:26.8%"></div></div><span class="v">11</span></div></div>
+<div class="card"><h4>语义检索（P2 标注集）</h4><div class="sub">41 件标注衣柜，53 条查询</div>
+<div class="kv"><span>有结果查询 前五命中率</span><span class="big">95.3%</span></div>
+<div class="kv"><span>描述类查询 前五命中率</span><span class="big" style="font-size:22px">92.9%</span></div>
+<div class="kv"><span>“应当没有”查询 正确率</span><span class="big" style="font-size:22px">10/10</span></div></div>
+<div class="card"><h4>搭法语义填位忠实度</h4><div class="sub">41 件标注衣柜，本地 fp32 模型</div>
+<div class="kv"><span>正例忠实填入</span><span class="big">24/24</span></div>
+<div class="kv"><span>反例误配</span><span class="big" style="font-size:22px;color:#3d4a5c">0/10</span></div></div>
+<div class="card"><h4>助手工具结果压缩</h4><div class="sub">20 / 60 / 120 件衣柜，工具 JSON 字符数对比</div>
+<div class="kv"><span>20 件</span><span class="big" style="font-size:22px">−94%</span></div>
+<div class="kv"><span>60 件</span><span class="big" style="font-size:22px">−96%</span></div>
+<div class="kv"><span>120 件</span><span class="big" style="font-size:22px">−95%</span></div></div>
+</div>
+<div class="note">数据来自项目 2026-10-08 至 10-10 的离线实验报告（recommend-p1 / p2 / aesthetic）。均为小样本或模拟结果：曝光数字不是用户实际穿着率，检索命中率不能外推为全体用户准确率，字符数减少不等于 token 或费用实测。</div>
+</div></body></html>

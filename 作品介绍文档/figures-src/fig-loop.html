@@ -1,0 +1,36 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+#fig{width:1180px}
+.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:0;align-items:center}
+.n{border:1.5px solid var(--green);background:var(--green-soft);border-radius:12px;padding:12px 10px;text-align:center;font-size:15px;font-weight:600;line-height:1.4;margin:0 22px;position:relative}
+.n small{display:block;font-weight:400;color:var(--muted);font-size:12.5px;margin-top:3px}
+.n.key{background:var(--green);color:#fff}.n.key small{color:#e6f2ec}
+.n.alt{border-color:var(--amber);background:var(--amber-soft)}
+.n.blue{border-color:var(--blue);background:var(--blue-soft)}
+.r{position:relative}
+.ar:after{content:"→";position:absolute;right:-6px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:20px}
+.al:after{content:"←";position:absolute;left:-6px;top:50%;transform:translateY(-50%);color:var(--muted);font-size:20px}
+.down{text-align:right;padding-right:110px;color:var(--muted);font-size:20px;height:34px;line-height:34px}
+.up{text-align:left;padding-left:110px;color:var(--muted);font-size:20px;height:34px;line-height:34px}
+.cap{display:flex;gap:18px;margin-top:18px;font-size:13px;color:var(--muted)}
+.cap i{display:inline-block;width:12px;height:12px;border-radius:3px;vertical-align:-1px;margin-right:6px}
+</style></head><body><div id="fig">
+<h1 class="t">业务闭环：从一张照片到一次穿搭决策</h1>
+<div class="grid">
+<div class="r ar"><div class="n blue">拍照 / 选图<small>多选、粘贴、手机相机</small></div></div>
+<div class="r ar"><div class="n blue">快速入柜<small>原图先存，幂等上传</small></div></div>
+<div class="r ar"><div class="n blue">本地抠图与识别<small>U²-Net · 证据状态</small></div></div>
+<div class="r ar"><div class="n blue">确认 / 修正衣柜<small>推测不当事实</small></div></div>
+<div class="r"><div class="n">混合检索<small>字段·关键词·本地向量</small></div></div>
+</div>
+<div class="down">↓</div>
+<div class="grid">
+<div class="r"><div class="n alt">个人画像<small>可见 · 可恢复 · 可清空</small></div></div>
+<div class="r al"><div class="n alt">反馈与穿着记录<small>换件、点踩、打卡</small></div></div>
+<div class="r al"><div class="n">OOTD 预览<small>确认后生成 · 人工核对</small></div></div>
+<div class="r al"><div class="n">多画板搭台<small>编辑、图层、保存</small></div></div>
+<div class="r al"><div class="n key">算法推荐<small>11 维评分 + 具体依据</small></div></div>
+</div>
+<div class="up">↺ 画像回流到推荐：下一次推荐按反馈调整</div>
+<div class="cap"><span><i style="background:var(--blue-soft);border:1px solid var(--blue)"></i>建立数字衣柜</span><span><i style="background:var(--green-soft);border:1px solid var(--green)"></i>找到并决定怎么穿</span><span><i style="background:var(--amber-soft);border:1px solid var(--amber)"></i>按反馈持续调整</span></div>
+</div></body></html>

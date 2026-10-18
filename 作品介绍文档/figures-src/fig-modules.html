@@ -1,0 +1,22 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+#fig{width:1280px}
+.root{margin:0 auto 0;width:300px;text-align:center;background:var(--ink);color:#fff;border-radius:12px;padding:12px;font-size:17px;font-weight:600}
+.stem{width:2px;height:22px;background:#9aa4b0;margin:0 auto}
+.bar{height:2px;background:#9aa4b0;margin:0 calc(100%/14)}
+.cols{display:grid;grid-template-columns:repeat(7,1fr);gap:10px}
+.col{display:flex;flex-direction:column;align-items:stretch}
+.col:before{content:"";width:2px;height:18px;background:#9aa4b0;margin:0 auto}
+.h{border-radius:10px;padding:10px 6px;text-align:center;font-weight:600;font-size:14.5px;color:#fff}
+.it{margin-top:8px;border:1px solid var(--line);background:#fff;border-radius:7px;padding:6px 8px;font-size:12.5px;line-height:1.4;text-align:center}
+</style></head><body><div id="fig"><h1 class="t">功能模块图</h1>
+<div class="root">鱼搭 · AI 数字衣柜与穿搭决策系统</div><div class="stem"></div><div class="bar"></div>
+<div class="cols">
+<div class="col"><div class="h" style="background:#2f5f9e">衣物入柜</div><div class="it">快速入柜（拍照/多选/粘贴）</div><div class="it">本地抠图与主体框选</div><div class="it">属性识别与证据状态</div><div class="it">批次入库与合图拆分</div><div class="it">云端增强（可选）</div><div class="it">最近录入管理</div></div>
+<div class="col"><div class="h" style="background:#2f5f9e">衣柜管理</div><div class="it">衣柜浏览、筛选、翻页</div><div class="it">衣物详情与上一件/下一件</div><div class="it">待确认、回收站</div><div class="it">收藏与穿着记录</div><div class="it">相似 / 可能重复提示</div></div>
+<div class="col"><div class="h" style="background:#2f7d62">检索</div><div class="it">字段与关键词</div><div class="it">本地语义检索（BGE）</div><div class="it">以图搜图（指纹+CLIP）</div><div class="it">风格词画像检索</div><div class="it">严格度可调与“没有”说明</div></div>
+<div class="col"><div class="h" style="background:#2f7d62">智能推荐</div><div class="it">今天穿什么 / 今日灵感</div><div class="it">场景·天气·风格意图</div><div class="it">换一批、换一件</div><div class="it">入选依据与未入选解释</div><div class="it">反馈与可恢复画像</div><div class="it">配件建议</div></div>
+<div class="col"><div class="h" style="background:#b7791f">搭台与助手</div><div class="it">多画板与组合台</div><div class="it">图层、变换、导出</div><div class="it">全局助手（右侧覆盖）</div><div class="it">画板命令与 ACK 回执</div><div class="it">执行追踪、停止并接手</div><div class="it">版本化帮助文章</div></div>
+<div class="col"><div class="h" style="background:#a8455a">个人 OOTD</div><div class="it">多模特（基准人物）</div><div class="it">免费结构检查与确认</div><div class="it">预设动作与动作卡</div><div class="it">身材调节生成新图</div><div class="it">打断后手动重新生成</div></div>
+<div class="col"><div class="h" style="background:#3d4a5c">平台与管理</div><div class="it">账号、会话、便携登录</div><div class="it">任务页与处理中心</div><div class="it">模板与样本审核</div><div class="it">本地 / S3 图片存储</div><div class="it">可插拔管理接口</div><div class="it">PWA 安装</div></div>
+</div></div></body></html>

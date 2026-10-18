@@ -1,0 +1,15 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css">
+<style>
+#fig{width:860px}
+table{border-collapse:separate;border-spacing:4px;font-size:13.5px}
+th{font-weight:600;padding:6px 10px;text-align:center;color:var(--muted);font-size:12.5px}
+td.n{text-align:right;padding-right:12px;white-space:nowrap}
+td.c{width:150px;height:30px;text-align:center;border-radius:6px;font-variant-numeric:tabular-nums;font-weight:600}
+.grp{font-size:11.5px;color:var(--muted);margin-left:6px;font-weight:400}
+</style></head><body><div id="fig"><h1 class="t">场景权重</h1><table id="t"><tr><th></th><th>日常</th><th>通勤 / 正式</th><th>运动 / 户外</th></tr></table>
+<div style="font-size:12px;color:var(--muted);margin-top:10px">每列合计 100；颜色越深权重越高。标 “审美组” 的四个维度在 P4 回退路径中不存在。</div></div>
+<script>
+const d=[["色彩基础",15,15,10],["冷暖（温度）",17,13,22],["风格",12,16,11],["场景",12,17,16],["召回相关度",8,4,7],["个人偏好",8,8,7],["新鲜度",3,2,2],["配色手法",10,10,8,1],["比例",7,7,6,1],["焦点",3,3,4,1],["呼应与季节感",5,5,7,1]];
+const t=document.getElementById('t');
+for(const [n,a,b,c,g] of d){const tr=document.createElement('tr');tr.innerHTML=`<td class="n">${n}${g?'<span class="grp">审美组</span>':''}</td>`+[a,b,c].map(v=>{const k=v/22;const bg=`rgba(47,125,98,${0.08+k*0.85})`;return `<td class="c" style="background:${bg};color:${k>0.5?'#fff':'#1f2328'}">${v}</td>`}).join('');t.appendChild(tr)}
+</script></body></html>

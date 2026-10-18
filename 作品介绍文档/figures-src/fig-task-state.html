@@ -1,0 +1,17 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css"><style>#fig{width:max-content;min-width:700px}</style></head><body><div id="fig"><h1 class="t">持久任务状态图（以 OOTD 生成为例）</h1><pre class="mermaid">
+stateDiagram-v2
+  direction LR
+  [*] --> 准备: 选择已保存搭配与模特
+  准备 --> 待确认: 免费结构检查 + 冻结输入
+  待确认 --> 排队: 用户确认（幂等键）
+  排队 --> 执行中: 领取资源许可（并发/RPM/额度）
+  执行中 --> 成功: 上游返回图片
+  执行中 --> 失败: 明确失败
+  执行中 --> 结果未知: 已派发但服务被打断
+  排队 --> 已取消: 用户取消
+  结果未知 --> 新任务: 用户确认后手动重新生成
+  失败 --> 新任务: 用户确认后手动重新生成
+  成功 --> [*]
+  新任务 --> 排队: 沿用原冻结输入
+  note right of 结果未知: 不自动重发，避免重复扣额度\n写明被打断原因
+</pre></div><script src="_mermaid.js"></script></body></html>

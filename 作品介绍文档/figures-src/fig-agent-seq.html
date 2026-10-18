@@ -1,0 +1,22 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="_base.css"><style>#fig{width:max-content;min-width:700px}</style></head><body><div id="fig"><h1 class="t">全局助手操作画板时序图</h1><pre class="mermaid">
+sequenceDiagram
+  autonumber
+  participant U as 用户与浏览器
+  participant J as Java 协调服务
+  participant N as LangGraph 运行时
+  participant M as 大模型网关
+  U->>J: 消息 + 当前页面上下文
+  J->>J: 校验登录归属、本轮权限与预算
+  J->>N: 允许的工具 + 精简上下文
+  N->>M: 理解意图
+  M-->>N: 工具调用
+  N->>J: 带内部凭证的工具请求
+  J->>J: 校验意图、参数、对象版本
+  J-->>U: SSE 推送推荐卡或画板命令
+  U->>U: 在真实画板上执行
+  U->>J: ACK（operationId · sequence · version）
+  J->>J: 核对回执，记录实际结果
+  J-->>N: 工具执行状态
+  N-->>U: 经 Java 转发的流式说明
+  Note over U,J: 聊天里的“已完成”不能代替浏览器回执；迟到或取消后的回执被拒绝
+</pre></div><script src="_mermaid.js"></script></body></html>
