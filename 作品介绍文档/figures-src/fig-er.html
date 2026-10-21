@@ -15,8 +15,8 @@
 </style></head><body><div id="fig"><h1 class="t">核心数据实体</h1>
 <div class="cols">
 <div class="dom"><h3><i style="background:#3d4a5c"></i>账户与安全</h3>
-<div class="t"><b style="background:#3d4a5c">closet_user</b><div class="pk">username PK</div><div>password_hash</div><div>role <em>ADMIN/USER</em></div><div>must_change_password</div><div>enabled</div></div>
-<div class="t"><b style="background:#3d4a5c">portable_login_link</b><div>token_hash <em>SHA-256</em></div><div>expires / consumed</div></div>
+<div class="t"><b style="background:#3d4a5c">closet_user</b><div class="pk">username PK</div><div>password_hash</div><div>role <em>ADMIN/USER</em></div><div>display_name · last_login_at_ms</div><div>registered_via <em>ADMIN/INVITE/OPEN</em></div><div>enabled · deactivated_at_ms</div></div>
+<div class="t"><b style="background:#3d4a5c">registration_invite</b><div>code_hash <em>SHA-256</em></div><div>名额 · 到期 · 撤销</div></div><div class="t"><b style="background:#3d4a5c">account_event</b><div>账号事件审计 <em>180 天</em></div><div>不记密码 / IP</div></div>
 <div class="t"><b style="background:#3d4a5c">user_notification</b><div>kind · title · href</div><div>dedupe_key <em>去重</em></div><div>read_at_ms</div><div>dismissed_at_ms <em>V27</em></div></div>
 </div>
 <div class="dom"><h3><i style="background:#2f5f9e"></i>衣柜与图片</h3>
@@ -43,5 +43,5 @@
 <div class="t"><b style="background:#b7791f">agent_session / message</b><div>agent_trace_run / event</div><div>agent_memory_use_grant</div></div>
 </div>
 </div>
-<div class="rel">主要关系：<code>closet_user 1—n garment / outfit / recommendation_log / person_baseline / pose_card</code>　<code>garment n—1 image_asset</code>　<code>recommendation_log 1—n recommendation_feedback</code>　<code>outfit 1—n outfit_plan 1—1 image_render_job</code>　<code>execution_task 1—n execution_attempt</code>。共 65 张表（含 2 张 Spring Session 表），V1–V27 由 Flyway 迁移；图中只列关键字段。</div>
+<div class="rel">主要关系：<code>closet_user 1—n garment / outfit / recommendation_log / person_baseline / pose_card</code>　<code>garment n—1 image_asset</code>　<code>recommendation_log 1—n recommendation_feedback</code>　<code>outfit 1—n outfit_plan 1—1 image_render_job</code>　<code>execution_task 1—n execution_attempt</code>。共 68 张表（含 2 张 Spring Session 表），V1–V29 由 Flyway 迁移；图中只列关键字段。</div>
 </div></body></html>
