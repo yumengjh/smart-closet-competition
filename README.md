@@ -1,6 +1,10 @@
 # 鱼搭竞赛材料
 
-本仓库专门存放鱼搭参赛资料（原位于 smart-closet-server/competition，未入库）。相对链接按 `smart-closet-server`、`smart-closet` 与本仓库同在 `~/project/` 下编写。
+本仓库专门存放鱼搭参赛资料：项目介绍、创新与竞品对比、技术栈、算法、系统设计、答辩建议、路演 PPT，以及一份精选原始设计与报告副本。
+
+> **许可声明：源码与资料仅供评审查看，不是开源软件。** 条款见 [LICENSE](LICENSE)，与[用户端仓库](https://github.com/yumengjh/smart-closet)相同。
+
+文中指向 `smart-closet-server`（完整后端，私有仓库）和 `smart-closet`（用户端）源码的相对链接，按三个仓库同在 `~/project/` 下编写；公开可看的后端是裁剪副本 [smart-closet-server-review](https://github.com/yumengjh/smart-closet-server-review)，所以这类链接在 GitHub 上可能打不开，原文保持不改。
 
 首轮整理：2026-10-13；增量更新：2026-10-18（见 [08 增量更新](08-增量更新-2026-10-18.md)）。参赛团队：鱼力无限。项目定位：**面向已有衣物的可解释 AI 数字衣柜与穿搭决策系统**。
 
@@ -41,3 +45,14 @@
 申报书按“问题与目标 → 同类产品与差异 → 核心设计 → 算法 → 技术栈与选型 → 验证与局限”组织。PPT 优先讲一名用户完成一次穿搭的故事，再用两三页解释算法与实验，技术栈放在架构页；依赖清单放附录。
 
 整理过程和可追溯信息在 [整理记录](整理记录/progress.md) 中。
+
+## 相关仓库
+
+| 仓库 | 内容 | 可见性 |
+|---|---|---|
+| [smart-closet](https://github.com/yumengjh/smart-closet) | 用户端（Vue 3 + Ant Design Vue） | 公开（评审许可） |
+| [smart-closet-server-review](https://github.com/yumengjh/smart-closet-server-review) | 后端评审裁剪副本 | 公开（评审许可） |
+| smart-closet-server | 完整后端 | 私有 |
+| [smart-closet-mp](https://github.com/yumengjh/smart-closet-mp) | 微信小程序 | 公开（评审许可） |
+| [smart-closet-admin](https://github.com/yumengjh/smart-closet-admin) · [smart-closet-admin-server](https://github.com/yumengjh/smart-closet-admin-server) | 管理平台前后端 | 公开 |
+| [yuda-website](https://github.com/yumengjh/yuda-website) · [smart-closet-promo](https://github.com/yumengjh/smart-closet-promo) | 产品官网、演示视频 | 公开 |
